@@ -1,0 +1,2615 @@
+Name,Codename,Cores,Clock,Socket,Process,L3_Cache,TDP,Release
+A6-3500,Llano,3.0,2.1,Socket FM1,32.0,,65.0,2011-08-17
+Athlon II X3 400e,Rana,3.0,2.2,Socket AM3,45.0,,45.0,2009-10-20
+Athlon II X3 405e,Rana,3.0,2.3,Socket AM3,45.0,,45.0,2009-10-20
+Athlon II X3 415e,Rana,3.0,2.5,Socket AM3,45.0,,45.0,2010-05-11
+Athlon II X3 420e,Rana,3.0,2.6,Socket AM3,45.0,,45.0,
+Athlon II X3 425,Rana,3.0,2.7,Socket AM3,45.0,,95.0,2009-10-20
+Athlon II X3 425e,Rana,3.0,2.7,Socket AM3,45.0,,45.0,
+Athlon II X3 435,Rana,3.0,2.9,Socket AM3,45.0,,95.0,2009-10-09
+Athlon II X3 440,Rana,3.0,3.0,Socket AM3,45.0,,95.0,2010-01-25
+Athlon II X3 445,Rana,3.0,3.1,Socket AM3,45.0,,95.0,2010-05-11
+Athlon II X3 450,Rana,3.0,3.2,Socket AM3,45.0,,95.0,
+Athlon II X3 455,Rana,3.0,3.3,Socket AM3,45.0,,95.0,2010-12-07
+Athlon II X3 460,Rana,3.0,3.4,Socket AM3,45.0,,95.0,
+Phenom II X3 700e,Heka,3.0,2.4,Socket AM3,45.0,6MB,65.0,
+Phenom II X3 705e,Heka,3.0,2.5,Socket AM3,45.0,6MB,65.0,
+Phenom II X3 710,Heka,3.0,2.6,Socket AM3,45.0,6MB,95.0,2009-02-09
+Phenom II X3 715 BE,Heka,3.0,2.8,Socket AM2+,45.0,6MB,95.0,
+Phenom II X3 720,Heka,3.0,2.8,Socket AM3,45.0,6MB,95.0,
+Phenom II X3 720 BE,Heka,3.0,2.8,Socket AM3,45.0,6MB,95.0,2009-02-09
+Phenom II X3 740 BE,Heka,3.0,3.0,Socket AM3,45.0,6MB,95.0,
+Phenom II X3 B73,Heka,3.0,2.8,Socket AM3,45.0,6MB,95.0,
+Phenom II X3 B75,Heka,3.0,3.0,Socket AM3,45.0,6MB,95.0,
+Phenom II X3 B77,Heka,3.0,3.2,Socket AM3,45.0,6MB,95.0,2010-05-11
+Phenom X3 8250e,Toliman,3.0,1900.0,Socket AM2+,65.0,2MB,65.0,2008-09-08
+Phenom X3 8400,Toliman,3.0,2.1,Socket AM2+,65.0,2MB,95.0,2008-03-27
+Phenom X3 8450,Toliman,3.0,2.1,Socket AM2+,65.0,2MB,95.0,
+Phenom X3 8450e,Toliman,3.0,2.1,Socket AM2+,65.0,2MB,65.0,2008-09-08
+Phenom X3 8550,Toliman,3.0,2.2,Socket AM2+,65.0,2MB,95.0,
+Phenom X3 8600,Toliman,3.0,2.3,Socket AM2+,65.0,2MB,95.0,2008-03-27
+Phenom X3 8650,Toliman,3.0,2.3,Socket AM2+,65.0,2MB,95.0,
+Phenom X3 8750,Toliman,3.0,2.4,Socket AM2+,65.0,2MB,95.0,
+Phenom X3 8750 BE,Toliman,3.0,2.4,Socket AM2+,65.0,2MB,95.0,2008-09-08
+Phenom X3 8850,Toliman,3.0,2.5,Socket AM2+,65.0,2MB,95.0,
+Celeron 7300,Alder Lake-U,5.0,1000.0,BGA 1781,10.0,8MB,9.0,
+Celeron 7305,Alder Lake-U,5.0,1100.0,BGA 1744,10.0,8MB,15.0,
+Pentium 8500,Alder Lake-U,5.0,1.0,BGA 1781,10.0,8MB,9.0,
+Pentium 8505,Alder Lake-U,5.0,1.2,BGA 1744,10.0,8MB,15.0,
+Pentium 8505 (IPU),Alder Lake-U,5.0,1.2,BGA 1744,10.0,8MB,15.0,
+Core i3-1220P,Alder Lake-P,10.0,1.5,BGA 1744,10.0,12MB,28.0,
+Core i5-1230U,Alder Lake-U,10.0,1.0,BGA 1781,10.0,12MB,9.0,
+Core i5-1235U,Alder Lake-U,10.0,1.3,BGA 1744,10.0,12MB,15.0,
+Core i5-1235U (IPU),Alder Lake-U,10.0,1.3,BGA 1744,10.0,12MB,15.0,
+Core i5-1240U,Alder Lake-U,10.0,1.1,BGA 1781,10.0,12MB,9.0,
+Core i5-1245U,Alder Lake-U,10.0,1.6,BGA 1744,10.0,12MB,15.0,
+Core i5-12600K,Alder Lake-S,10.0,3.7,Socket 1700,10.0,20MB,125.0,2021-11-04
+Core i5-12600KF,Alder Lake-S,10.0,3.7,Socket 1700,10.0,20MB,125.0,2021-11-04
+Core i5-13400,Raptor Lake-S,10.0,2.5,Socket 1700,10.0,20MB,65.0,2023-01-04
+Core i5-13400F,Raptor Lake-S,10.0,2.5,Socket 1700,10.0,20MB,65.0,2023-01-04
+Core i5-13400T,Raptor Lake-S,10.0,1.3,Socket 1700,10.0,20MB,35.0,2023-01-04
+Core i5-13450HX,Raptor Lake-HX,10.0,2.4,BGA 1964,10.0,20MB,55.0,2023-01-04
+Core i7-1250U,Alder Lake-U,10.0,1.1,BGA 1781,10.0,12MB,9.0,
+Core i7-1255U,Alder Lake-U,10.0,1.7,BGA 1744,10.0,12MB,15.0,
+Core i7-1260U,Alder Lake-U,10.0,1.1,BGA 1781,10.0,12MB,9.0,
+Core i7-12650H,Alder Lake-H,10.0,2.3,BGA 1744,10.0,24MB,45.0,
+Core i7-1265U,Alder Lake-U,10.0,1.8,BGA 1744,10.0,12MB,15.0,
+Core i7-6950X,Broadwell-E,10.0,3.0,Socket 2011-3,14.0,25MB,140.0,
+Core i9-10800F,Comet Lake,10.0,2.7,Socket 1200,14.0,20MB,65.0,2020-04-30
+Core i9-10850K,Comet Lake,10.0,3.6,Socket 1200,14.0,20MB,125.0,2020-07-27
+Core i9-10900,Comet Lake,10.0,2.8,Socket 1200,14.0,20MB,65.0,2020-04-30
+Core i9-10900F,Comet Lake,10.0,2.8,Socket 1200,14.0,20MB,65.0,2020-04-30
+Core i9-10900K,Comet Lake,10.0,3.7,Socket 1200,14.0,20MB,125.0,2020-04-30
+Core i9-10900KF,Comet Lake,10.0,3.7,Socket 1200,14.0,20MB,125.0,2020-04-30
+Core i9-10900X,Cascade Lake-X,10.0,3.7,Socket 2066,14.0,19.25MB,165.0,2019-10-19
+Core i9-7900X,Skylake-X,10.0,3.3,Socket 2066,14.0,14MB,140.0,2017-06-26
+Core i9-9820X,Skylake-X,10.0,3.3,Socket 2066,14.0,16.5MB,165.0,2018-10-19
+Core i9-9900X,Skylake-X,10.0,3.5,Socket 2066,14.0,19.25MB,165.0,2018-10-19
+Xeon E5-1681 V3,Haswell-EP,10.0,2.9,Socket 2011-3,22.0,25MB,135.0,2014-09-08
+Xeon E5-2470 v2,Ivy Bridge-EN,10.0,2.4,Socket 1356,22.0,25MB,95.0,
+Xeon E5-2628L V3,Haswell-EP,10.0,2.0,Socket 2011-3,22.0,25MB,75.0,2014-09-08
+Xeon E5-2649 V3,Haswell-EP,10.0,2.3,Socket 2011-3,22.0,25MB,105.0,2014-09-08
+Xeon E5-2650 V3,Haswell-EP,10.0,2.3,Socket 2011-3,22.0,25MB,105.0,2014-09-08
+Xeon E5-2650L v2,Ivy Bridge-EP,10.0,1700.0,Socket 2011,22.0,25MB,70.0,
+Xeon E5-2652 V3,Haswell-EP,10.0,2.3,Socket 2011-3,22.0,25MB,105.0,2014-09-08
+Xeon E5-2660 V3,Haswell-EP,10.0,2.6,Socket 2011-3,22.0,25MB,105.0,2014-09-08
+Xeon E5-2660 v2,Ivy Bridge-EP,10.0,2.2,Socket 2011,22.0,25MB,95.0,
+Xeon E5-2663 V3,Haswell-EP,10.0,2.8,Socket 2011-3,22.0,25MB,105.0,2014-09-08
+Xeon E5-2666 V3,Haswell-EP,10.0,2.9,Socket 2011-3,22.0,25MB,135.0,2014-11-13
+Xeon E5-2670 v2,Ivy Bridge-EP,10.0,2.5,Socket 2011,22.0,25MB,115.0,
+Xeon E5-2680 v2,Ivy Bridge-EP,10.0,2.8,Socket 2011,22.0,25MB,115.0,
+Xeon E5-2687W V3,Haswell-EP,10.0,3.1,Socket 2011-3,22.0,25MB,160.0,2014-09-08
+Xeon E5-2690 v2,Ivy Bridge-EP,10.0,3.0,Socket 2011,22.0,25MB,130.0,
+Xeon E5-4610 V3,Haswell-EP,10.0,1700.0,Socket 2011-3,22.0,25MB,105.0,
+Xeon E5-4620 V3,Haswell-EP,10.0,2.0,Socket 2011-3,22.0,25MB,105.0,
+Xeon E5-4627 V3,Haswell-EP,10.0,2.6,Socket 2011-3,22.0,25MB,135.0,
+Xeon E7-4820 v3,Haswell-EX,10.0,1900.0,Socket 2011-1,22.0,25MB,115.0,
+Xeon E7-8850,Westmere-EX,10.0,2.0,Socket 1567,32.0,30MB,130.0,
+Xeon E7-8860,Westmere-EX,10.0,2.276,Socket 1567,32.0,30MB,130.0,
+Xeon E7-8870,Westmere-EX,10.0,2.4,Socket 1567,32.0,30MB,130.0,
+Xeon E7-8891 v3,Haswell-EX,10.0,2.8,Socket 2011-3,22.0,45MB,165.0,
+Xeon Silver 4310T,Ice Lake-SP,10.0,2.3,Socket 4189,10.0,15MB,105.0,2021-04-06
+Xeon W-1290,Comet Lake,10.0,3.2,Socket 1200,14.0,20MB,80.0,2020-05-13
+Xeon W-1290P,Comet Lake,10.0,3.7,Socket 1200,10.0,20MB,125.0,2020-05-13
+Xeon W-2150B,Skylake-W,10.0,3.0,Socket 2066,14.0,13.75MB,120.0,
+Xeon W-2155,Skylake-W,10.0,3.3,Socket 2066,14.0,13.75MB,140.0,2017-08-29
+EPYC 7272,Rome,12.0,2.6,Socket SP3,7.0,64MB,120.0,2019-08-07
+Opteron 6168,Magny-Cours,12.0,1900.0,Socket G34,45.0,12MB,115.0,2010-03-29
+Opteron 6180 SE,Magny-Cours,12.0,2.5,Socket G34,45.0,12MB,140.0,2011-02-14
+Opteron 6348,Abu Dhabi,12.0,2.8,Socket G34,32.0,8MB,115.0,2012-11-05
+Ryzen 9 3900X,Matisse,12.0,3.8,Socket AM4,7.0,64MB,105.0,2019-07-07
+Ryzen 9 3900XT,Matisse 2,12.0,3.9,Socket AM4,7.0,64MB,105.0,2020-07-07
+Ryzen 9 5900,Vermeer,12.0,3.0,Socket AM4,7.0,64MB,65.0,2021-01-12
+Ryzen 9 5900X,Vermeer,12.0,3.7,Socket AM4,7.0,64MB,105.0,2020-11-05
+Ryzen 9 7845HX,Dragon Range,12.0,3.0,Socket FP8,5.0,64MB,55.0,2023-01-04
+Ryzen 9 7900,Raphael,12.0,7.3,Socket AM5,5.0,64MB,65.0,2023-01-14
+Ryzen 9 7900X,Raphael,12.0,4.7,Socket AM5,5.0,64MB,170.0,2022-09-27
+Ryzen 9 7900X3D,Raphael,12.0,4.4,Socket AM5,5.0,128MB,120.0,2023-01-04
+Ryzen Threadripper 1920,Zen,12.0,3.2,Socket SP3r2,14.0,32MB,140.0,
+Ryzen Threadripper 1920X,Zen,12.0,3.5,Socket SP3r2,14.0,32MB,180.0,2017-08-10
+Ryzen Threadripper 2920X,Colfax,12.0,3.5,Socket SP3r2,12.0,32MB,180.0,
+Ryzen Threadripper PRO 3945WX,Castle Peak,12.0,4.0,Socket WRX8,7.0,64MB,280.0,2020-07-14
+Ryzen Threadripper PRO 5945WX,Chagall PRO,12.0,4.1,Socket WRX8,7.0,64MB,280.0,2022-03-08
+Core i5-1240P,Alder Lake-P,12.0,1.7,BGA 1744,10.0,12MB,28.0,
+Core i5-12500H,Alder Lake-H,12.0,2.5,BGA 1744,10.0,18MB,45.0,
+Core i5-1250P,Alder Lake-P,12.0,1.7,BGA 1744,10.0,12MB,28.0,
+Core i5-12600H,Alder Lake-H,12.0,2.7,BGA 1744,10.0,18MB,45.0,
+Core i5-12600HE,Alder Lake-H,12.0,2.5,BGA 1744,10.0,18MB,45.0,
+Core i5-12600HX,Alder Lake-HX,12.0,2.5,BGA 1964,10.0,18MB,55.0,2022-05-10
+Core i7-1260P,Alder Lake-P,12.0,2.1,BGA 1744,10.0,18MB,28.0,
+Core i7-12700,Alder Lake-S,12.0,3.3,Socket 1700,10.0,25MB,65.0,
+Core i7-12700E,Alder Lake-S,12.0,2.1,Socket 1700,10.0,25MB,65.0,
+Core i7-12700F,Alder Lake-S,12.0,3.3,Socket 1700,10.0,25MB,65.0,2022-01-04
+Core i7-12700K,Alder Lake-S,12.0,3.6,Socket 1700,10.0,25MB,125.0,2021-11-04
+Core i7-12700KF,Alder Lake-S,12.0,3.6,Socket 1700,10.0,25MB,125.0,2021-11-04
+Core i7-12700T,Alder Lake-S,12.0,1.4,Socket 1700,10.0,25MB,35.0,
+Core i7-12700TE,Alder Lake-S,12.0,1.4,Socket 1700,10.0,25MB,35.0,
+Core i7-1270P,Alder Lake-P,12.0,2.2,BGA 1744,10.0,18MB,28.0,
+Core i9-10920X,Cascade Lake-X,12.0,3.5,Socket 2066,14.0,19.25MB,165.0,2019-10-19
+Core i9-7920X,Skylake-X,12.0,2.9,Socket 2066,14.0,16.5MB,140.0,2017-09-10
+Core i9-9920X,Skylake-X,12.0,3.5,Socket 2066,14.0,19.25MB,165.0,2018-10-19
+Xeon D-1557,Broadwell,12.0,1.5,BGA 1667,14.0,1.5MB,45.0,2016-02-24
+Xeon D-1567,Broadwell,12.0,2.1,BGA 1667,14.0,1.5MB,65.0,2016-02-24
+Xeon E5-1686 V3,Haswell-EP,12.0,2.6,Socket 2011-3,22.0,30MB,135.0,2014-09-08
+Xeon E5-2648L V3,Haswell-EP,12.0,1.8,Socket 2011-3,22.0,30MB,75.0,2014-09-08
+Xeon E5-2650L V3,Haswell-EP,12.0,1.8,Socket 2011-3,22.0,30MB,65.0,2014-09-08
+Xeon E5-2658 V3,Haswell-EP,12.0,2.2,Socket 2011-3,22.0,30MB,105.0,2014-09-08
+Xeon E5-2658A V3,Haswell-EP,12.0,2.2,Socket 2011-3,22.0,30MB,105.0,
+Xeon E5-2669 V3,Haswell-EP,12.0,2.3,Socket 2011-3,22.0,30MB,120.0,
+Xeon E5-2670 V3,Haswell-EP,12.0,2.3,Socket 2011-3,22.0,30MB,120.0,2014-09-08
+Xeon E5-2673 V3,Haswell-EP,12.0,2.4,Socket 2011-3,22.0,30MB,105.0,2014-09-08
+Xeon E5-2676 V3,Haswell-EP,12.0,2.4,Socket 2011-3,22.0,30MB,120.0,
+Xeon E5-2678 V3,Haswell-EP,12.0,2.5,Socket 2011-3,22.0,30MB,120.0,
+Xeon E5-2680 V3,Haswell-EP,12.0,2.5,Socket 2011-3,22.0,30MB,120.0,2014-09-08
+Xeon E5-2685 V3,Haswell-EP,12.0,2.6,Socket 2011-3,22.0,30MB,120.0,2014-09-08
+Xeon E5-2690 V3,Haswell-EP,12.0,2.6,Socket 2011-3,22.0,30MB,135.0,2014-09-08
+Xeon E5-2692 V3,Haswell-EP,12.0,3.0,Socket 2011-3,22.0,30MB,165.0,2014-09-08
+Xeon E5-2692 v2,Ivy Bridge-EP,12.0,2.2,Socket 2011,22.0,30MB,100.0,
+Xeon E5-2693 V3,Haswell-EP,12.0,2.8,Socket 2011-3,22.0,30MB,160.0,
+Xeon E5-2695 v2,Ivy Bridge-EP,12.0,2.4,Socket 2011,22.0,30MB,115.0,
+Xeon E5-2697 v2,Ivy Bridge-EP,12.0,2.7,Socket 2011,22.0,30MB,130.0,
+Xeon E5-4640 V3,Haswell-EP,12.0,1.9,Socket 2011-3,22.0,30MB,105.0,
+Xeon E5-4648 V3,Haswell-EP,12.0,1.7,Socket 2011-3,22.0,30MB,105.0,
+Xeon E5-4650 V3,Haswell-EP,12.0,2.1,Socket 2011-3,22.0,30MB,105.0,
+Xeon E7-4830 v3,Haswell-EX,12.0,2.1,Socket 2011-3,22.0,30MB,115.0,
+Xeon Gold 5317,Ice Lake-SP,12.0,3.0,Socket 4189,10.0,18MB,150.0,2021-04-06
+Xeon Silver 4116,Skylake-SP,12.0,2.1,Socket 3647,14.0,16.5MB,85.0,2017-07-11
+Xeon Silver 4310,Ice Lake-SP,12.0,2.1,Socket 4189,10.0,18MB,120.0,2021-04-06
+Xeon W-3323,Ice Lake-W,12.0,3.5,Socket 4189,10.0,18MB,220.0,2021-07-29
+Ryzen Threadripper 1940,Zen,14.0,3.2,Socket SP3r2,14.0,32MB,180.0,
+Ryzen Threadripper 1940X,Zen,14.0,3.5,Socket SP3r2,14.0,32MB,180.0,
+Core i5-13500,Raptor Lake-S,14.0,2.5,Socket 1700,10.0,24MB,65.0,2023-01-04
+Core i5-13500HX,Raptor Lake-HX,14.0,2.5,BGA 1964,10.0,24MB,55.0,2023-01-04
+Core i5-13500T,Raptor Lake-S,14.0,1.6,Socket 1700,10.0,24MB,35.0,2023-01-04
+Core i5-13600,Raptor Lake-S,14.0,2.7,Socket 1700,10.0,24MB,65.0,2023-01-04
+Core i5-13600HX,Raptor Lake-HX,14.0,2.6,BGA 1964,10.0,24MB,55.0,2023-01-04
+Core i5-13600K,Raptor Lake-S,14.0,3.5,Socket 1700,10.0,24MB,125.0,2022-09-27
+Core i5-13600KF,Raptor Lake-S,14.0,3.5,Socket 1700,10.0,24MB,125.0,2022-09-27
+Core i5-13600T,Raptor Lake-S,14.0,1.8,Socket 1700,10.0,24MB,35.0,2023-01-04
+Core i7-12650HX,Alder Lake-HX,14.0,2.0,BGA 1964,10.0,24MB,55.0,2022-05-10
+Core i7-12700H,Alder Lake-H,14.0,2.3,BGA 1744,10.0,24MB,45.0,
+Core i7-12800H,Alder Lake-H,14.0,2.4,BGA 1744,10.0,24MB,45.0,
+Core i7-12800HE,Alder Lake-H,14.0,2.4,BGA 1744,10.0,24MB,45.0,
+Core i7-1280P,Alder Lake-P,14.0,1.8,BGA 1744,10.0,24MB,28.0,
+Core i7-13650HX,Raptor Lake-HX,14.0,2.6,BGA 1964,10.0,24MB,55.0,2023-01-04
+Core i9-10940X,Cascade Lake-X,14.0,3.3,Socket 2066,14.0,19.25MB,165.0,2019-10-19
+Core i9-12900H,Alder Lake-H,14.0,2.5,BGA 1744,10.0,24MB,45.0,2022-01-04
+Core i9-12900HK,Alder Lake-H,14.0,2.5,BGA 1744,10.0,24MB,45.0,2022-01-04
+Core i9-13900H,Raptor Lake-H,14.0,2.6,BGA 1744,10.0,24MB,45.0,2023-01-04
+Core i9-13900HK,Raptor Lake-H,14.0,2.6,BGA 1744,10.0,24MB,45.0,2023-01-04
+Core i9-7940X,Skylake-X,14.0,3.1,Socket 2066,14.0,19.25MB,165.0,
+Core i9-9940X,Skylake-X,14.0,3.3,Socket 2066,14.0,19.25MB,165.0,2018-10-19
+Core i9-9990XE,Skylake-X,14.0,4.0,Socket 2066,14.0,19.25MB,255.0,2018-10-19
+Xeon E5-1691 V3,Haswell-EP,14.0,2.5,Socket 2011-3,22.0,35MB,135.0,2014-09-08
+Xeon E5-2683 V3,Haswell-EP,14.0,2.0,Socket 2011-3,22.0,35MB,120.0,2014-09-08
+Xeon E5-2695 V3,Haswell-EP,14.0,2.3,Socket 2011-3,22.0,35MB,120.0,2014-09-08
+Xeon E5-2697 V3,Haswell-EP,14.0,2.6,Socket 2011-3,22.0,35MB,145.0,2014-09-08
+Xeon E5-4660 V3,Haswell-EP,14.0,2.1,Socket 2011-3,22.0,35MB,120.0,
+Xeon E7-4850 v3,Haswell-EX,14.0,2.2,Socket 2011-3,22.0,35MB,115.0,
+Xeon W-2170B,Skylake-W,14.0,2.5,Socket 2066,14.0,19.25MB,140.0,
+Xeon W-2175,Skylake-W,14.0,2.5,Socket 2066,14.0,19.25MB,140.0,2017-10-15
+EPYC 7281,Naples,16.0,2.1,Socket SP3,14.0,32MB,170.0,2017-06-29
+EPYC 7282,Rome,16.0,2.8,Socket SP3,7.0,64MB,120.0,2019-08-07
+EPYC 7301,Naples,16.0,2.2,Socket SP3,14.0,64MB,170.0,2017-06-29
+EPYC 7302,Rome,16.0,3.0,Socket SP3,7.0,128MB,155.0,2019-08-07
+EPYC 7302P,Rome,16.0,3.0,Socket SP3,7.0,128MB,155.0,2019-08-07
+EPYC 7313,Milan,16.0,3.0,Socket SP3,7.0,128MB,155.0,2021-03-15
+EPYC 7313P,Milan,16.0,3.0,Socket SP3,7.0,128MB,155.0,2021-03-15
+EPYC 7343,Milan,16.0,3.2,Socket SP3,7.0,128MB,190.0,2021-03-15
+EPYC 7351,Naples,16.0,2.4,Socket SP3,14.0,64MB,170.0,2017-06-29
+EPYC 7351P,Naples,16.0,2.4,Socket SP3,14.0,64MB,170.0,2017-06-29
+EPYC 7371,Naples,16.0,3.1,Socket SP3,14.0,64MB,170.0,2018-11-16
+EPYC 7373X,Milan-X,16.0,3.05,Socket SP3,7.0,768MB,240.0,
+EPYC 73F3,Milan,16.0,3.5,Socket SP3,7.0,256MB,240.0,2021-03-15
+EPYC 7F52,Rome,16.0,3.5,Socket SP3,7.0,256MB,155.0,2020-04-14
+EPYC 9124,Genoa,16.0,3.0,Socket SP5,5.0,64MB,200.0,2022-11-10
+EPYC 9174F,Genoa,16.0,4.1,Socket SP5,5.0,256MB,320.0,2022-11-10
+Opteron 6262 HE,Interlagos,16.0,1.6,Socket G34,32.0,16MB,85.0,2011-11-14
+Opteron 6272,Interlagos,16.0,2.1,Socket G34,32.0,16MB,115.0,2011-11-14
+Opteron 6274,Interlagos,16.0,2.2,Socket G34,32.0,16MB,115.0,2011-11-14
+Opteron 6276,Interlagos,16.0,2.3,Socket G34,32.0,8MB,115.0,2011-11-14
+Opteron 6278,Interlagos,16.0,2.4,Socket G34,32.0,8MB,115.0,
+Opteron 6282 SE,Interlagos,16.0,2.6,Socket G34,32.0,8MB,140.0,2011-11-14
+Opteron 6284 SE,Interlagos,16.0,2.7,Socket G34,32.0,8MB,140.0,
+Opteron 6366 HE,Abu Dhabi,16.0,1.8,Socket G34,32.0,8MB,85.0,2012-11-05
+Opteron 6376,Abu Dhabi,16.0,2.3,Socket G34,32.0,8MB,115.0,2012-11-05
+Opteron 6378,Abu Dhabi,16.0,2.4,Socket G34,32.0,8MB,115.0,2012-11-05
+Opteron 6380,Abu Dhabi,16.0,2.5,Socket G34,32.0,8MB,115.0,2012-11-05
+Opteron 6386 SE,Abu Dhabi,16.0,2.8,Socket G34,32.0,8MB,140.0,2012-11-05
+Ryzen 9 3950X,Matisse,16.0,3.5,Socket AM4,7.0,64MB,105.0,2019-11-25
+Ryzen 9 5950X,Vermeer,16.0,3.4,Socket AM4,7.0,64MB,105.0,2020-11-05
+Ryzen 9 7945HX,Dragon Range,16.0,2.5,Socket FP8,5.0,64MB,55.0,2023-01-04
+Ryzen 9 7950X,Raphael,16.0,4.5,Socket AM5,5.0,64MB,170.0,2022-09-27
+Ryzen 9 7950X3D,Raphael,16.0,4.2,Socket AM5,5.0,128MB,120.0,2023-01-04
+Ryzen Threadripper 1950,Zen,16.0,3.2,Socket SP3r2,14.0,32MB,180.0,
+Ryzen Threadripper 1950X,Zen,16.0,3.4,Socket SP3r2,14.0,32MB,180.0,2017-08-10
+Ryzen Threadripper 2950X,Colfax,16.0,3.5,Socket SP3r2,12.0,32MB,180.0,
+Ryzen Threadripper PRO 3955WX,Castle Peak,16.0,3.9,Socket WRX8,7.0,64MB,280.0,2020-07-14
+Ryzen Threadripper PRO 5955WX,Chagall PRO,16.0,4.0,Socket WRX8,7.0,64MB,280.0,2022-03-08
+Core i7-12800HX,Alder Lake-HX,16.0,2.0,BGA 1964,10.0,25MB,55.0,2022-05-10
+Core i7-12850HX,Alder Lake-HX,16.0,2.1,BGA 1964,10.0,25MB,55.0,2022-05-10
+Core i7-13700,Raptor Lake-S,16.0,2.1,Socket 1700,10.0,30MB,65.0,2023-01-04
+Core i7-13700F,Raptor Lake-S,16.0,2.1,Socket 1700,10.0,30MB,65.0,2023-01-04
+Core i7-13700HX,Raptor Lake-HX,16.0,2.1,BGA 1964,10.0,30MB,55.0,2023-01-04
+Core i7-13700K,Raptor Lake-S,16.0,3.4,Socket 1700,10.0,30MB,125.0,2022-09-27
+Core i7-13700KF,Raptor Lake-S,16.0,3.4,Socket 1700,10.0,30MB,125.0,2022-09-27
+Core i7-13700T,Raptor Lake-S,16.0,1.4,Socket 1700,10.0,30MB,35.0,2023-01-04
+Core i9-12900,Alder Lake-S,16.0,2.4,Socket 1700,10.0,30MB,65.0,2022-01-04
+Core i9-12900E,Alder Lake-S,16.0,2.3,Socket 1700,10.0,30MB,65.0,2022-01-04
+Core i9-12900F,Alder Lake-S,16.0,2.4,Socket 1700,10.0,30MB,65.0,2022-01-04
+Core i9-12900HX,Alder Lake-HX,16.0,2.3,BGA 1964,10.0,30MB,55.0,2022-05-10
+Core i9-12900K,Alder Lake-S,16.0,3.2,Socket 1700,10.0,30MB,125.0,2021-11-04
+Core i9-12900KF,Alder Lake-S,16.0,3.2,Socket 1700,10.0,30MB,125.0,2021-11-04
+Core i9-12900KS,Alder Lake-S,16.0,3.4,Socket 1700,10.0,30MB,150.0,2022-04-05
+Core i9-12900T,Alder Lake-S,16.0,1.4,Socket 1700,10.0,30MB,35.0,2022-01-04
+Core i9-12900TE,Alder Lake-S,16.0,1.1,Socket 1700,10.0,30MB,35.0,2022-01-04
+Core i9-12950HX,Alder Lake-HX,16.0,2.3,BGA 1964,10.0,30MB,55.0,2022-05-10
+Core i9-7960X,Skylake-X,16.0,2.8,Socket 2066,14.0,22MB,165.0,
+Core i9-9960X,Skylake-X,16.0,3.1,Socket 2066,14.0,22MB,165.0,2018-10-19
+Xeon D-1571,Broadwell,16.0,1.3,BGA 1667,14.0,1.5MB,45.0,2016-02-24
+Xeon D-1577,Broadwell,16.0,1.3,BGA 1667,14.0,1.5MB,45.0,2016-02-24
+Xeon D-1581,Broadwell,16.0,1.8,BGA 1667,14.0,1.5MB,65.0,2016-02-24
+Xeon D-1587,Broadwell,16.0,1.7,BGA 1667,14.0,1.5MB,65.0,2016-02-24
+Xeon E5-2675 V3,Haswell-EP,16.0,1.8,Socket 2011-3,22.0,40MB,110.0,2014-09-08
+Xeon E5-2698 V3,Haswell-EP,16.0,2.3,Socket 2011-3,22.0,40MB,135.0,2014-09-08
+Xeon E5-2698A V3,Haswell-EP,16.0,2.8,Socket 2011-3,22.0,40MB,165.0,2014-11-18
+Xeon E5-2698B V3,Haswell-EP,16.0,2.0,Socket 2011-3,22.0,40MB,135.0,
+Xeon E5-4667 V3,Haswell-EP,16.0,2.0,Socket 2011-3,22.0,40MB,135.0,
+Xeon E7-8860 v3,Haswell-EX,16.0,2.2,Socket 2011-3,22.0,40MB,140.0,
+Xeon E7-8867 v3,Haswell-EX,16.0,2.5,Socket 2011-3,22.0,45MB,165.0,
+Xeon Gold 6326,Ice Lake-SP,16.0,2.9,Socket 4189,10.0,24MB,185.0,2021-04-06
+Xeon Gold 6328H,Cooper Lake-SP,16.0,2.8,Socket 4189,14.0,22MB,165.0,2021-04-06
+Xeon Gold 6328HL,Cooper Lake-SP,16.0,2.8,Socket 4189,14.0,22MB,165.0,2021-04-06
+Xeon Gold 6346,Ice Lake-SP,16.0,3.1,Socket 4189,10.0,36MB,205.0,2021-04-06
+Xeon Platinum 8253,Cascade Lake-SP,16.0,2.2,Socket 3647,14.0,22MB,125.0,2018-12-11
+Xeon Silver 4314,Ice Lake-SP,16.0,2.4,Socket 4189,10.0,24MB,135.0,2021-04-06
+Xeon W-3335,Ice Lake-W,16.0,3.4,Socket 4189,10.0,24MB,250.0,2021-07-29
+Core i9-10980XE,Cascade Lake-X,18.0,3.0,Socket 2066,14.0,24.75MB,165.0,2019-10-19
+Core i9-7980XE,Skylake-X,18.0,2.6,Socket 2066,14.0,24.75MB,165.0,
+Core i9-9980XE,Skylake-X,18.0,3.0,Socket 2066,14.0,24.75MB,165.0,2018-10-19
+Xeon E5-2686 V3,Haswell-EP,18.0,2.0,Socket 2011-3,22.0,45MB,120.0,2014-09-08
+Xeon E5-2696 V3,Haswell-EP,18.0,2.3,Socket 2011-3,22.0,45MB,145.0,2014-09-08
+Xeon E5-2699 V3,Haswell-EP,18.0,2.3,Socket 2011-3,22.0,45MB,145.0,2014-09-08
+Xeon E5-4669 V3,Haswell-EP,18.0,2.1,Socket 2011-3,22.0,45MB,135.0,
+Xeon E7-8870 v3,Haswell-EX,18.0,2.1,Socket 2011-3,22.0,45MB,140.0,
+Xeon E7-8880 v3,Haswell-EX,18.0,2.3,Socket 2011-3,22.0,45MB,150.0,
+Xeon E7-8880L v3,Haswell-EX,18.0,2.0,Socket 2011-3,22.0,45MB,115.0,
+Xeon E7-8890 v3,Haswell-EX,18.0,2.5,Socket 2011-3,22.0,45MB,165.0,
+Xeon Gold 5318H,Cooper Lake-SP,18.0,2.5,Socket 4189,14.0,24.75MB,150.0,2021-04-06
+Xeon Gold 6154,Skylake-SP,18.0,3.0,Socket 3647,14.0,24.75MB,200.0,2017-07-11
+Xeon Gold 6354,Ice Lake-SP,18.0,3.0,Socket 4189,10.0,39MB,205.0,2021-04-06
+Xeon Platinum 8353H,Cooper Lake-SP,18.0,2.5,Socket 4189,14.0,24.75MB,150.0,2021-04-06
+Xeon Platinum 8354H,Cooper Lake-SP,18.0,3.1,Socket 4189,14.0,24.75MB,205.0,2021-04-06
+Xeon W-2191B,Skylake-W,18.0,2.3,Socket 2066,14.0,24.75MB,140.0,
+Xeon W-2195,Skylake-W,18.0,2.3,Socket 2066,14.0,24.75MB,140.0,2017-08-29
+Xeon Gold 5320H,Cooper Lake-SP,20.0,2.4,Socket 4189,14.0,27.5MB,150.0,2021-04-06
+Xeon Gold 5320T,Ice Lake-SP,20.0,2.3,Socket 4189,10.0,30MB,150.0,2021-04-06
+Xeon Silver 4316,Ice Lake-SP,20.0,2.3,Socket 4189,10.0,30MB,150.0,2021-04-06
+Core i9-10990XE,Cascade Lake-X,22.0,4.0,Socket 2066,14.0,30.25MB,380.0,
+EPYC 7352,Rome,24.0,2.4,Socket SP3,7.0,128MB,155.0,2019-08-07
+EPYC 7401,Naples,24.0,2.0,Socket SP3,14.0,64MB,170.0,2017-06-29
+EPYC 7401P,Naples,24.0,2.0,Socket SP3,14.0,64MB,170.0,2017-06-29
+EPYC 7402,Rome,24.0,2.8,Socket SP3,7.0,128MB,180.0,2019-08-07
+EPYC 7402P,Rome,24.0,2.8,Socket SP3,7.0,128MB,180.0,2019-08-07
+EPYC 7413,Milan,24.0,2.65,Socket SP3,7.0,128MB,180.0,2021-03-15
+EPYC 7443,Milan,24.0,2.85,Socket SP3,7.0,128MB,200.0,2021-03-15
+EPYC 7443P,Milan,24.0,2.85,Socket SP3,7.0,128MB,200.0,2021-03-15
+EPYC 7451,Naples,24.0,2.3,Socket SP3,14.0,64MB,180.0,2017-06-29
+EPYC 7473X,Milan-X,24.0,2.8,Socket SP3,7.0,768MB,240.0,
+EPYC 74F3,Milan,24.0,2.8,Socket SP3,7.0,256MB,240.0,2021-03-15
+EPYC 7F72,Rome,24.0,3.2,Socket SP3,7.0,192MB,240.0,2020-04-14
+EPYC 9224,Genoa,24.0,2.5,Socket SP5,5.0,64MB,200.0,2022-11-10
+EPYC 9254,Genoa,24.0,2.9,Socket SP5,5.0,128MB,200.0,2022-11-10
+EPYC 9274F,Genoa,24.0,4.05,Socket SP5,5.0,256MB,320.0,2022-11-10
+Ryzen Threadripper 2970WX,Colfax,24.0,3.0,Socket SP3r2,12.0,64MB,250.0,
+Ryzen Threadripper 3960X,Castle Peak,24.0,3.8,Socket TRX4,7.0,128MB,280.0,2019-11-25
+Ryzen Threadripper PRO 5965WX,Chagall PRO,24.0,3.8,Socket WRX8,7.0,128MB,280.0,2022-03-08
+Core i7-13850HX,Raptor Lake-HX,24.0,2.1,BGA 1964,10.0,30MB,55.0,2023-01-04
+Core i9-13900,Raptor Lake-S,24.0,2.0,Socket 1700,10.0,36MB,65.0,2023-01-04
+Core i9-13900F,Raptor Lake-S,24.0,2.0,Socket 1700,10.0,36MB,65.0,2023-01-04
+Core i9-13900HX,Raptor Lake-HX,24.0,2.2,BGA 1964,10.0,36MB,55.0,2023-01-04
+Core i9-13900K,Raptor Lake-S,24.0,3.0,Socket 1700,10.0,36MB,125.0,2022-09-27
+Core i9-13900KF,Raptor Lake-S,24.0,3.0,Socket 1700,10.0,36MB,125.0,2022-09-27
+Core i9-13900KS,Raptor Lake-S,24.0,3.2,Socket 1700,10.0,36MB,150.0,
+Core i9-13900T,Raptor Lake-S,24.0,1.1,Socket 1700,10.0,36MB,35.0,2023-01-04
+Core i9-13950HX,Raptor Lake-HX,24.0,2.2,BGA 1964,10.0,36MB,55.0,2023-01-04
+Core i9-13980HX,Raptor Lake-HX,24.0,2.2,BGA 1964,10.0,36MB,55.0,2023-01-04
+Xeon Gold 5318N,Ice Lake-SP,24.0,2.1,Socket 4189,10.0,36MB,150.0,2021-04-06
+Xeon Gold 5318S,Ice Lake-SP,24.0,2.1,Socket 4189,10.0,36MB,165.0,2021-04-06
+Xeon Gold 5318Y,Ice Lake-SP,24.0,2.1,Socket 4189,10.0,36MB,165.0,2021-04-06
+Xeon Gold 6312U,Ice Lake-SP,24.0,2.4,Socket 4189,10.0,36MB,185.0,2021-04-06
+Xeon Gold 6330H,Cooper Lake-SP,24.0,2.0,Socket 4189,14.0,33MB,150.0,2021-04-06
+Xeon Gold 6336Y,Ice Lake-SP,24.0,2.4,Socket 4189,10.0,36MB,185.0,2021-04-06
+Xeon Gold 6338T,Ice Lake-SP,24.0,2.1,Socket 4189,10.0,36MB,165.0,2021-04-06
+Xeon Gold 6342,Ice Lake-SP,24.0,2.8,Socket 4189,10.0,36MB,230.0,2021-04-06
+Xeon Gold 6348H,Cooper Lake-SP,24.0,2.3,Socket 4189,14.0,33MB,165.0,2021-04-06
+Xeon Platinum 8260,Cascade Lake-SP,24.0,2.4,Socket 3647,14.0,35.75MB,165.0,2018-12-11
+Xeon Platinum 8260M,Cascade Lake-SP,24.0,2.4,Socket 3647,14.0,35.75MB,165.0,2018-12-11
+Xeon Platinum 8268,Cascade Lake-SP,24.0,2.9,Socket 3647,14.0,35.75MB,205.0,2018-12-11
+Xeon Platinum 8360H,Cooper Lake-SP,24.0,3.0,Socket 4189,14.0,33MB,225.0,2021-04-06
+Xeon Platinum 8360HL,Cooper Lake-SP,24.0,3.0,Socket 4189,14.0,33MB,225.0,2021-04-06
+Xeon W-3345,Ice Lake-W,24.0,3.0,Socket 4189,10.0,36MB,250.0,2021-07-29
+Xeon Gold 5320,Ice Lake-SP,26.0,2.2,Socket 4189,10.0,39MB,185.0,2021-04-06
+Xeon Platinum 8270,Cascade Lake-SP,26.0,2.7,Socket 3647,14.0,35.75MB,205.0,2018-12-11
+EPYC 7453,Milan,28.0,2.75,Socket SP3,7.0,64MB,225.0,2021-03-15
+Xeon Gold 6330,Ice Lake-SP,28.0,2.0,Socket 4189,10.0,42MB,205.0,2021-04-06
+Xeon Gold 6348,Ice Lake-SP,28.0,2.6,Socket 4189,10.0,42MB,235.0,2021-04-06
+Xeon Platinum 8180,Skylake-SP,28.0,2.5,Socket 3647,14.0,38.5MB,205.0,2017-07-11
+Xeon Platinum 8180M,Skylake-SP,28.0,2.5,Socket 3647,14.0,38.5MB,205.0,2017-07-11
+Xeon Platinum 8276,Cascade Lake-SP,28.0,2.2,Socket 3647,14.0,38.5MB,165.0,2018-12-11
+Xeon Platinum 8280,Cascade Lake-SP,28.0,2.7,Socket 3647,14.0,38.5MB,205.0,2018-12-11
+Xeon Platinum 8280M,Cascade Lake-SP,28.0,2.7,Socket 3647,14.0,38.5MB,205.0,2018-12-11
+Xeon Platinum 8376H,Cooper Lake-SP,28.0,2.6,Socket 4189,14.0,38.5MB,205.0,2021-04-06
+Xeon Platinum 8376HL,Cooper Lake-SP,28.0,2.6,Socket 4189,14.0,38.5MB,205.0,2021-04-06
+Xeon Platinum 8380H,Cooper Lake-SP,28.0,2.9,Socket 4189,14.0,38.5MB,250.0,2021-04-06
+Xeon Platinum 8380HL,Cooper Lake-SP,28.0,2.9,Socket 4189,14.0,38.5MB,250.0,2021-04-06
+Xeon W-3175X,Skylake-W,28.0,3.1,Socket 3647,14.0,38.5MB,255.0,2018-12-19
+EPYC 7452,Rome,32.0,2.2,Socket SP3,7.0,128MB,155.0,2019-08-07
+EPYC 7501,Naples,32.0,2.0,Socket SP3,14.0,64MB,170.0,2017-06-29
+EPYC 7502,Rome,32.0,2.5,Socket SP3,7.0,128MB,180.0,2019-08-07
+EPYC 7502P,Rome,32.0,2.5,Socket SP3,7.0,128MB,180.0,2019-08-07
+EPYC 7513,Milan,32.0,2.6,Socket SP3,7.0,128MB,200.0,2021-03-15
+EPYC 7542,Rome,32.0,2.9,Socket SP3,7.0,128MB,225.0,2019-08-07
+EPYC 7543,Milan,32.0,2.8,Socket SP3,7.0,256MB,225.0,2021-03-15
+EPYC 7543P,Milan,32.0,2.8,Socket SP3,7.0,256MB,225.0,2021-03-15
+EPYC 7551,Naples,32.0,2.0,Socket SP3,14.0,64MB,180.0,2017-06-29
+EPYC 7551P,Naples,32.0,2.0,Socket SP3,14.0,64MB,180.0,2017-06-29
+EPYC 7573X,Milan-X,32.0,2.8,Socket SP3,7.0,768MB,280.0,
+EPYC 75F3,Milan,32.0,2.95,Socket SP3,7.0,256MB,280.0,2021-03-15
+EPYC 7601,Naples,32.0,2.2,Socket SP3,14.0,64MB,180.0,2017-06-29
+EPYC 9334,Genoa,32.0,2.7,Socket SP5,5.0,128MB,210.0,2022-11-10
+EPYC 9354,Genoa,32.0,3.25,Socket SP5,5.0,256MB,280.0,2022-11-10
+EPYC 9354P,Genoa,32.0,3.25,Socket SP5,5.0,256MB,280.0,2022-11-10
+EPYC 9374F,Genoa,32.0,3.85,Socket SP5,5.0,256MB,320.0,2022-11-10
+Ryzen Threadripper 2990WX,Colfax,32.0,3.0,Socket SP3r2,12.0,64MB,250.0,2018-08-13
+Ryzen Threadripper 3970X,Castle Peak,32.0,3.7,Socket TRX4,7.0,128MB,280.0,2019-11-25
+Ryzen Threadripper PRO 3975WX,Castle Peak,32.0,3.5,Socket WRX8,7.0,128MB,280.0,2020-07-14
+Ryzen Threadripper PRO 5975WX,Chagall PRO,32.0,3.6,Socket WRX8,7.0,128MB,280.0,2022-03-08
+Aubrey Isle,Knights Ferry,32.0,1200.0,PCIe x16,45.0,,300.0,
+Xeon Gold 6314U,Ice Lake-SP,32.0,2.3,Socket 4189,10.0,48MB,205.0,2021-04-06
+Xeon Gold 6338N,Ice Lake-SP,32.0,2.2,Socket 4189,10.0,48MB,185.0,2021-04-06
+Xeon Platinum 8352M,Ice Lake-SP,32.0,2.3,Socket 4189,10.0,48MB,185.0,2021-04-06
+Xeon Platinum 8352S,Ice Lake-SP,32.0,2.2,Socket 4189,10.0,48MB,205.0,2021-04-06
+Xeon Platinum 8358,Ice Lake-SP,32.0,2.6,Socket 4189,10.0,48MB,250.0,2021-04-06
+Xeon Platinum 8358P,Ice Lake-SP,32.0,2.6,Socket 4189,10.0,48MB,240.0,2021-04-06
+Xeon Platinum 8362,Ice Lake-SP,32.0,2.8,Socket 4189,10.0,48MB,265.0,2021-04-06
+Xeon Platinum 9221,Cascade Lake-AP,32.0,2.1,BGA 5903,14.0,71.5MB,250.0,
+Xeon Platinum 9222,Cascade Lake-AP,32.0,2.3,BGA 5903,14.0,71.5MB,250.0,
+Xeon W-3365,Ice Lake-W,32.0,2.7,Socket 4189,10.0,48MB,270.0,2021-07-29
+No CPUs found. Please change your search criteria.,,,,,,,,
+Xeon Platinum 8351N,Ice Lake-SP,36.0,2.4,Socket 4189,10.0,54MB,225.0,2021-04-06
+Xeon Platinum 8352V,Ice Lake-SP,36.0,2.5,Socket 4189,10.0,54MB,195.0,2021-04-06
+Xeon Platinum 8360Y,Ice Lake-SP,36.0,2.4,Socket 4189,10.0,54MB,250.0,2021-04-06
+Xeon Platinum 8368,Ice Lake-SP,38.0,2.4,Socket 4189,10.0,57MB,270.0,2021-04-06
+Xeon Platinum 8368Q,Ice Lake-SP,38.0,2.6,Socket 4189,10.0,57MB,270.0,2021-04-06
+Xeon W-3375,Ice Lake-W,38.0,2.5,Socket 4189,10.0,57MB,270.0,2021-07-29
+Xeon Platinum 8380,Ice Lake-SP,40.0,2.3,Socket 4189,10.0,60MB,270.0,2021-04-06
+EPYC 7552,Rome,48.0,2.2,Socket SP3,7.0,192MB,200.0,2019-08-07
+EPYC 7642,Rome,48.0,2.4,Socket SP3,7.0,256MB,225.0,2019-08-07
+EPYC 7643,Milan,48.0,2.3,Socket SP3,7.0,256MB,225.0,2021-03-15
+EPYC 9454,Genoa,48.0,2.75,Socket SP5,5.0,256MB,290.0,2022-11-10
+EPYC 9454P,Genoa,48.0,2.75,Socket SP5,5.0,256MB,290.0,2022-11-10
+EPYC 9474F,Genoa,48.0,3.6,Socket SP5,5.0,256MB,360.0,2022-11-10
+Ryzen Threadripper 3980X,Castle Peak,48.0,3.5,Socket TRX4,7.0,128MB,280.0,
+Xeon Platinum 9242,Cascade Lake-AP,48.0,2.3,BGA 5903,14.0,71.5MB,350.0,
+EPYC 7663,Milan,56.0,2.0,Socket SP3,7.0,256MB,240.0,2021-03-15
+Xeon Platinum 8480,Sapphire Rapids,56.0,2.0,Socket 4677,10.0,105MB,350.0,
+Xeon Platinum 9282,Cascade Lake-AP,56.0,2.6,BGA 5903,14.0,77MB,400.0,
+Xeon Phi 3120A,Knights Corner,57.0,1100.0,PCIe x16,22.0,,300.0,2013-06-17
+Xeon Phi 3120P,Knights Corner,57.0,1100.0,PCIe x16,22.0,,300.0,2013-06-17
+Xeon Phi 31S1P,Knights Corner,57.0,1100.0,PCIe x16,22.0,,270.0,2013-06-17
+Xeon Phi 5110P,Knights Corner,60.0,1053.0,PCIe x16,22.0,,225.0,2012-11-12
+Xeon Phi 5120D,Knights Corner,60.0,1053.0,SFF 230-Pin,22.0,,245.0,2013-06-17
+Xeon Platinum 8490H,Sapphire Rapids,60.0,1.9,Socket 4677,10.0,112.5MB,350.0,
+Xeon Phi 3110X,Knights Corner,61.0,1053.0,PCIe x16,22.0,,300.0,2012-11-12
+Xeon Phi 7110P,Knights Corner,61.0,1250.0,PCIe x16,22.0,,300.0,2012-11-12
+Xeon Phi 7110X,Knights Corner,61.0,1250.0,PCIe x16,22.0,,300.0,2012-11-12
+Xeon Phi 7120A,Knights Corner,61.0,1238.0,PCIe x16,22.0,,300.0,2014-04-06
+Xeon Phi 7120D,Knights Corner,61.0,1238.0,SFF 230-Pin,22.0,,270.0,
+Xeon Phi 7120P,Knights Corner,61.0,1238.0,PCIe x16,22.0,,300.0,2013-06-17
+Xeon Phi 7120X,Knights Corner,61.0,1238.0,PCIe x16,22.0,,300.0,2013-06-17
+Xeon Phi SE10P,Knights Corner,61.0,1100.0,PCIe x16,22.0,,300.0,2012-11-12
+Xeon Phi SE10X,Knights Corner,61.0,1100.0,PCIe x16,22.0,,300.0,2012-11-12
+EPYC 7702,Rome,64.0,2.0,Socket SP3,7.0,256MB,200.0,2019-08-07
+EPYC 7702P,Rome,64.0,2.0,Socket SP3,7.0,256MB,200.0,2019-08-07
+EPYC 7713,Milan,64.0,2.0,Socket SP3,7.0,256MB,225.0,2021-03-15
+EPYC 7713P,Milan,64.0,2.0,Socket SP3,7.0,256MB,225.0,2021-03-15
+EPYC 7742,Rome,64.0,2.25,Socket SP3,7.0,256MB,225.0,2019-08-07
+EPYC 7763,Milan,64.0,2.45,Socket SP3,7.0,256MB,280.0,2021-03-15
+EPYC 7773X,Milan-X,64.0,2.2,Socket SP3,7.0,768MB,280.0,
+EPYC 7H12,Rome,64.0,2.6,Socket SP3,7.0,256MB,280.0,2019-09-18
+EPYC 9534,Genoa,64.0,2.45,Socket SP5,5.0,256MB,280.0,2022-11-10
+EPYC 9554,Genoa,64.0,3.1,Socket SP5,5.0,256MB,360.0,2022-11-10
+EPYC 9554P,Genoa,64.0,3.1,Socket SP5,5.0,256MB,360.0,2022-11-10
+Ryzen Threadripper 3990X,Castle Peak,64.0,2.9,Socket TRX4,7.0,256MB,280.0,2020-02-07
+Ryzen Threadripper 5990X,Chagall,64.0,2.5,Socket TRX4,7.0,256MB,280.0,
+Ryzen Threadripper PRO 3995WX,Castle Peak,64.0,2.7,Socket WRX8,7.0,256MB,280.0,2020-07-14
+Ryzen Threadripper PRO 5995WX,Chagall PRO,64.0,2.7,Socket WRX8,7.0,256MB,280.0,2022-03-08
+Xeon Phi 7210,Knights Landing,64.0,1300.0,Socket 3647,14.0,,215.0,2016-06-20
+Xeon Phi 7210F,Knights Landing,64.0,1300.0,Socket 3647,14.0,,230.0,2016-06-20
+Xeon Phi 7230,Knights Landing,64.0,1300.0,Socket 3647,14.0,,215.0,2016-06-20
+Xeon Phi 7230F,Knights Landing,64.0,1300.0,Socket 3647,14.0,,230.0,2016-06-20
+Xeon Phi 7235,Knights Mill,64.0,1300.0,Socket 3647,14.0,,250.0,
+Xeon Phi 7250,Knights Landing,68.0,1400.0,Socket 3647,14.0,,215.0,2016-06-20
+Xeon Phi 7250F,Knights Landing,68.0,1400.0,Socket 3647,14.0,,230.0,2016-06-20
+Xeon Phi 7285,Knights Mill,68.0,1300.0,Socket 3647,14.0,,250.0,
+Xeon Phi 7290,Knights Landing,72.0,1500.0,Socket 3647,14.0,,245.0,2016-06-20
+Xeon Phi 7290F,Knights Landing,72.0,1500.0,Socket 3647,14.0,,260.0,2016-06-20
+Xeon Phi 7295,Knights Mill,72.0,1500.0,Socket 3647,14.0,,320.0,
+No CPUs found. Please change your search criteria.,,,,,,,,
+EPYC 9634,Genoa,84.0,2.25,Socket SP5,5.0,384MB,290.0,2022-11-10
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+A4 PRO-7300B,,,,,,,,
+A4 PRO-7350B,,,,,,,,
+A4-4020,,,,,,,,
+A4-6320B,,,,,,,,
+A4-7300,,,,,,,,
+A6 PRO-7400B,,,,,,,,
+A6-6420K,,,,,,,,
+A6-7400K,,,,,,,,
+Athlon X2 450,,,,,,,,
+E1-2150,,,,,,,,
+Sempron 2650,,,,,,,,
+Atom x5-E3930,,,,,,,,
+Celeron G1840,,,,,,,,
+Celeron G1840T,,,,,,,,
+Celeron G1850,,,,,,,,
+Celeron N2807,,,,,,,,
+Celeron N2808,,,,,,,,
+Celeron N2830,,,,,,,,
+Celeron N2840,,,,,,,,
+Core M-5Y10,,,,,,,,
+Core M-5Y10a,,,,,,,,
+Core M-5Y10c,,,,,,,,
+Core M-5Y31,,,,,,,,
+Core M-5Y51,,,,,,,,
+Core M-5Y70,,,,,,,,
+Core M-5Y71,,,,,,,,
+Core i3-4150T,,,,,,,,
+Core i3-4160,,,,,,,,
+Core i3-4160T,,,,,,,,
+Core i3-4350,,,,,,,,
+Core i3-4360,,,,,,,,
+Core i3-4360T,,,,,,,,
+Core i3-4370,,,,,,,,
+Core i3-4370,,,,,,,,
+Core i5-4210U,,,,,,,,
+Core i7-4610M,,,,,,,,
+Pentium G3250,,,,,,,,
+Pentium G3250T,,,,,,,,
+Pentium G3258,,,,,,,,
+Pentium G3440,,,,,,,,
+Pentium G3450,,,,,,,,
+Pentium G3450T,,,,,,,,
+Pentium G3460,,,,,,,,
+A10 PRO-7800B,,,,,,,,
+A10 PRO-7850B,,,,,,,,
+A10-7700K,,,,,,,,
+A10-7800,,,,,,,,
+A10-7850K,,,,,,,,
+A4-5050,,,,,,,,
+A8 PRO-7600B,,,,,,,,
+A8-7600,,,,,,,,
+Athlon 5150,,,,,,,,
+Athlon 5350,,,,,,,,
+Athlon 5370,,,,,,,,
+Athlon X4 840,,,,,,,,
+Athlon X4 860K,,,,,,,,
+FX-770K,,,,,,,,
+Sempron 3850,,,,,,,,
+Atom Z3735G,,,,,,,,
+Atom x5-E3940,,,,,,,,
+Atom x7-E3950,,,,,,,,
+Celeron N2930,,,,,,,,
+Celeron N2940,,,,,,,,
+Core i5-4590,,,,,,,,
+Core i5-4590S,,,,,,,,
+Core i5-4690,,,,,,,,
+Core i5-4690K,,,,,,,,
+Core i7-4710HQ,,,,,,,,
+Core i7-4712HQ,,,,,,,,
+Core i7-4760HQ,,,,,,,,
+Core i7-4770HQ,,,,,,,,
+Core i7-4790,,,,,,,,
+Core i7-4790K,,,,,,,,
+Core i7-4790S,,,,,,,,
+Core i7-4810MQ,,,,,,,,
+Core i7-4860HQ,,,,,,,,
+Core i7-4870HQ,,,,,,,,
+Core i7-4910MQ,,,,,,,,
+Core i7-4940MX,,,,,,,,
+Xeon E5-1603 V3,,,,,,,,
+Xeon E5-1607 V3,,,,,,,,
+Xeon E5-1620 V3,,,,,,,,
+Xeon E5-1630 V3,,,,,,,,
+Xeon E5-2623 V3,,,,,,,,
+Xeon E5-2637 V3,,,,,,,,
+Core i7-5820K,,,,,,,,
+Core i7-5930K,,,,,,,,
+Xeon E5-1650 V3,,,,,,,,
+Xeon E5-2603 V3,,,,,,,,
+Xeon E5-2608L V3,,,,,,,,
+Xeon E5-2609 V3,,,,,,,,
+Xeon E5-2620 V3,,,,,,,,
+Xeon E5-2643 V3,,,,,,,,
+FX-8320E,,,,,,,,
+FX-8370,,,,,,,,
+FX-8370E,,,,,,,,
+Core i7-5960X,,,,,,,,
+Xeon E5-1660 V3,,,,,,,,
+Xeon E5-1680 V3,,,,,,,,
+Xeon E5-2618L V3,,,,,,,,
+Xeon E5-2622 V3,,,,,,,,
+Xeon E5-2628 V3,,,,,,,,
+Xeon E5-2629 V3,,,,,,,,
+Xeon E5-2630 V3,,,,,,,,
+Xeon E5-2630L V3,,,,,,,,
+Xeon E5-2640 V3,,,,,,,,
+Xeon E5-2667 V3,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+PRO A4-8350B,,,,,,,,
+PRO A6-8550B,,,,,,,,
+Celeron 3205U,,,,,,,,
+Celeron 3755U,,,,,,,,
+Celeron G3900,,,,,,,,
+Celeron G3920,,,,,,,,
+Core i3-5005U,,,,,,,,
+Core i3-5010U,,,,,,,,
+Core i3-5015U,,,,,,,,
+Core i3-5020U,,,,,,,,
+Core i3-5157U,,,,,,,,
+Core i3-6100,,,,,,,,
+Core i3-6300,,,,,,,,
+Core i3-6320,,,,,,,,
+Core i5-5200U,,,,,,,,
+Core i5-5250U,,,,,,,,
+Core i5-5257U,,,,,,,,
+Core i5-5287U,,,,,,,,
+Core i5-5300U,,,,,,,,
+Core i5-5350H,,,,,,,,
+Core i5-5350U,,,,,,,,
+Core i7-5500U,,,,,,,,
+Core i7-5550U,,,,,,,,
+Core i7-5557U,,,,,,,,
+Core i7-5600U,,,,,,,,
+Core i7-5650U,,,,,,,,
+Pentium 3805U,,,,,,,,
+Pentium 3825U,,,,,,,,
+Pentium G4400,,,,,,,,
+Pentium G4500,,,,,,,,
+Pentium G4520,,,,,,,,
+A10-7870K,,,,,,,,
+A8-7650K,,,,,,,,
+A8-7670K,,,,,,,,
+Athlon X4 830,,,,,,,,
+Athlon X4 850,,,,,,,,
+Athlon X4 870K,,,,,,,,
+Athlon X4 880K,,,,,,,,
+PRO A10-8750B,,,,,,,,
+PRO A10-8850B,,,,,,,,
+PRO A8-8650B,,,,,,,,
+Atom x3-3205RK,,,,,,,,
+Core i5-5575R,,,,,,,,
+Core i5-5675C,,,,,,,,
+Core i5-5675R,,,,,,,,
+Core i5-6400,,,,,,,,
+Core i5-6500,,,,,,,,
+Core i5-6600,,,,,,,,
+Core i5-6600K,,,,,,,,
+Core i7-5700HQ,,,,,,,,
+Core i7-5750HQ,,,,,,,,
+Core i7-5775C,,,,,,,,
+Core i7-5775R,,,,,,,,
+Core i7-5850HQ,,,,,,,,
+Core i7-5950HQ,,,,,,,,
+Core i7-6700,,,,,,,,
+Core i7-6700K,,,,,,,,
+Core i7-6700T,,,,,,,,
+Core i7-6700TE,,,,,,,,
+Xeon D-1518,,,,,,,,
+Xeon D-1520,,,,,,,,
+Xeon D-1521,,,,,,,,
+Xeon D-1527,,,,,,,,
+Xeon E3-1258L v4,,,,,,,,
+Xeon E3-1265L v4,,,,,,,,
+Xeon E3-1270L v4,,,,,,,,
+Xeon E3-1278L v4,,,,,,,,
+Xeon E3-1280 v5,,,,,,,,
+Xeon E3-1283L v4,,,,,,,,
+Xeon E3-1284L v4,,,,,,,,
+Xeon E3-1285 v4,,,,,,,,
+Xeon E3-1285L v4,,,,,,,,
+Xeon E7-8893 v3,,,,,,,,
+Nano QuadCore C4650,,,,,,,,
+Nano QuadCore C4650 ES,,,,,,,,
+Nano QuadCore C4700,,,,,,,,
+A6-9120C SoC,,,,,,,,
+A6-9220C SoC,,,,,,,,
+A6-9400,,,,,,,,
+Athlon 3000G,,,,,,,,
+Athlon 300U,,,,,,,,
+Athlon PRO 300U,,,,,,,,
+Ryzen 3 3200U,,,,,,,,
+Core i3-1000G1,,,,,,,,
+Core i3-1000G4,,,,,,,,
+Core i3-1005G1,,,,,,,,
+Core i3-10110U,,,,,,,,
+Core i3-10110Y,,,,,,,,
+Pentium Gold G5620,,,,,,,,
+Ryzen 3 3200G,,,,,,,,
+Ryzen 3 3200GE,,,,,,,,
+Ryzen 3 3300U,,,,,,,,
+Ryzen 3 PRO 2300U,,,,,,,,
+Ryzen 3 PRO 3200GE,,,,,,,,
+Ryzen 3 PRO 3300U,,,,,,,,
+Ryzen 5 3400G,,,,,,,,
+Ryzen 5 3400GE,,,,,,,,
+Ryzen 5 3500U,,,,,,,,
+Ryzen 5 3550H,,,,,,,,
+Ryzen 5 3580U,,,,,,,,
+Ryzen 5 PRO 2500U,,,,,,,,
+Ryzen 5 PRO 3400GE,,,,,,,,
+Ryzen 5 PRO 3500U,,,,,,,,
+Ryzen 7 3700U,,,,,,,,
+Ryzen 7 3750H,,,,,,,,
+Ryzen 7 3780U,,,,,,,,
+Ryzen 7 PRO 3700U,,,,,,,,
+Core i3-9100F,,,,,,,,
+Core i3-9300,,,,,,,,
+Core i3-9320,,,,,,,,
+Core i3-9350K,,,,,,,,
+Core i3-9350KF,,,,,,,,
+Core i5-10210U,,,,,,,,
+Core i5-10210Y,,,,,,,,
+Core i5-1030G4,,,,,,,,
+Core i5-1030G7,,,,,,,,
+Core i5-10310Y,,,,,,,,
+Core i5-1035G1,,,,,,,,
+Core i5-1035G4,,,,,,,,
+Core i5-1035G7,,,,,,,,
+Core i7-10510U,,,,,,,,
+Core i7-10510Y,,,,,,,,
+Core i7-1060G7,,,,,,,,
+Core i7-1065G7,,,,,,,,
+Core i7-1068NG7,,,,,,,,
+Athlon Gold 3150G,,,,,,,,
+Athlon Gold 3150GE,,,,,,,,
+Athlon Gold PRO 3150G,,,,,,,,
+Athlon Gold PRO 3150GE,,,,,,,,
+Ryzen 3 3100,,,,,,,,
+Ryzen 3 3300X,,,,,,,,
+Ryzen 3 4300G,,,,,,,,
+Ryzen 3 4300GE,,,,,,,,
+Ryzen 3 4300U,,,,,,,,
+Ryzen 3 PRO 4350G,,,,,,,,
+Ryzen 3 PRO 4350GE,,,,,,,,
+Ryzen 3 PRO 4450U,,,,,,,,
+Core i3-10100,,,,,,,,
+Core i3-10300,,,,,,,,
+Core i3-10320,,,,,,,,
+Core i3-10350K,,,,,,,,
+Core i3-1120G4,,,,,,,,
+Core i3-1125G4,,,,,,,,
+Core i5-10200H,,,,,,,,
+Core i5-10300H,,,,,,,,
+Core i5-1038NG7,,,,,,,,
+Core i5-10400H,,,,,,,,
+Core i5-1130G7,,,,,,,,
+Core i5-1135G7,,,,,,,,
+Core i5-1145G7,,,,,,,,
+Core i7-10610U,,,,,,,,
+Core i7-1160G7,,,,,,,,
+Core i7-1165G7,,,,,,,,
+Core i7-1185G7,,,,,,,,
+Ryzen 5 4500U,,,,,,,,
+Ryzen 5 4600G,,,,,,,,
+Ryzen 5 4600GE,,,,,,,,
+Ryzen 5 4600H,,,,,,,,
+Ryzen 5 4600HS,,,,,,,,
+Ryzen 5 4600U,,,,,,,,
+Ryzen 5 5600X,,,,,,,,
+Ryzen 5 PRO 4650G,,,,,,,,
+Ryzen 5 PRO 4650GE,,,,,,,,
+Ryzen 5 PRO 4650U,,,,,,,,
+Ryzen Embedded V2516,,,,,,,,
+Ryzen Embedded V2546,,,,,,,,
+Core i5-10400,,,,,,,,
+Core i5-10400F,,,,,,,,
+Core i5-10500,,,,,,,,
+Core i5-10600,,,,,,,,
+Core i5-10600K,,,,,,,,
+Core i5-10600KF,,,,,,,,
+Core i7-10750H,,,,,,,,
+Core i7-10810U,,,,,,,,
+Core i7-10850H,,,,,,,,
+EPYC 7F32,,,,,,,,
+Ryzen 7 3800XT,,,,,,,,
+Ryzen 7 4700G,,,,,,,,
+Ryzen 7 4700GE,,,,,,,,
+Ryzen 7 4700U,,,,,,,,
+Ryzen 7 4750U,,,,,,,,
+Ryzen 7 4800H,,,,,,,,
+Ryzen 7 4800HS,,,,,,,,
+Ryzen 7 4800U,,,,,,,,
+Ryzen 7 5800X,,,,,,,,
+Ryzen 7 PRO 4750G,,,,,,,,
+Ryzen 7 PRO 4750GE,,,,,,,,
+Ryzen 9 4900H,,,,,,,,
+Ryzen 9 4900HS,,,,,,,,
+Ryzen Embedded V2718,,,,,,,,
+Ryzen Embedded V2748,,,,,,,,
+Core i7-10700,,,,,,,,
+Core i7-10700F,,,,,,,,
+Core i7-10700K,,,,,,,,
+Core i7-10700KF,,,,,,,,
+Core i7-10870H,,,,,,,,
+Core i7-10875H,,,,,,,,
+Core i9-10885H,,,,,,,,
+Core i9-10980HK,,,,,,,,
+Centaur CHA,,,,,,,,
+Pentium II Xeon 400,Drake,1.0,400.0,Slot 2,,,31.0,1998-06-29
+Pentium II Xeon 400 1MB,Drake,1.0,400.0,Slot 2,,,38.0,1998-06-29
+Pentium II Xeon 450,Drake,1.0,450.0,Slot 2,,,35.0,1998-10-06
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Pentium II Xeon 450 1MB,Drake,1.0,450.0,Slot 2,,,43.0,1999-01-04
+Pentium II Xeon 450 2MB,Drake,1.0,450.0,Slot 2,,,47.0,1999-01-04
+Pentium III Xeon 500,Tanner,1.0,500.0,Slot 2,,,36.0,1999-03-17
+Pentium III Xeon 500 1MB,Tanner,1.0,500.0,Slot 2,,,45.0,1999-03-17
+Pentium III Xeon 500 2MB,Tanner,1.0,500.0,Slot 2,,,37.0,1999-03-17
+Pentium III Xeon 550,Tanner,1.0,550.0,Slot 2,,,34.0,1999-04-07
+Pentium III Xeon 550 1MB,Tanner,1.0,550.0,Slot 2,,,35.0,
+Pentium III Xeon 550 2MB,Tanner,1.0,550.0,Slot 2,,,41.0,
+Pentium III Xeon 600 2.8V,Cascades,1.0,600.0,Slot 2,180.0,,19.0,1999-10-25
+Pentium III Xeon 600 5V-12V,Cascades,1.0,600.0,Slot 2,180.0,,19.0,1999-10-25
+Pentium III Xeon 667 2.8V,Cascades,1.0,667.0,Slot 2,180.0,,21.0,1999-10-25
+Pentium III Xeon 667 5V-12V,Cascades,1.0,667.0,Slot 2,180.0,,21.0,1999-10-25
+Pentium III Xeon 733 2.8V,Cascades,1.0,733.0,Slot 2,180.0,,23.0,1999-10-25
+Pentium III Xeon 733 5V-12V,Cascades,1.0,733.0,Slot 2,180.0,,23.0,1999-10-25
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Athlon 1000,Thunderbird B,1.0,1000.0,Socket A,180.0,,54.0,2000-06-05
+Athlon 1000,Thunderbird C,1.0,1000.0,Socket A,180.0,,54.0,
+Athlon 1100,Thunderbird B,1.0,1100.0,Socket A,180.0,,60.0,2000-08-14
+Athlon 1133,Thunderbird C,1.0,1133.0,Socket A,180.0,,63.0,
+Athlon 1200,Thunderbird C,1.0,1200.0,Socket A,180.0,,66.0,
+Athlon 1200,Thunderbird B,1.0,1200.0,Socket A,180.0,,66.0,2000-10-17
+Athlon 600,Thunderbird,1.0,600.0,Socket A,180.0,,38.0,2000-06-05
+Athlon 650,Thunderbird,1.0,650.0,Socket A,180.0,,38.0,2000-06-05
+Athlon 700,Thunderbird,1.0,700.0,Socket A,180.0,,40.0,2000-06-05
+Athlon 750,Thunderbird,1.0,750.0,Socket A,180.0,,43.0,2000-06-05
+Athlon 800,Thunderbird,1.0,800.0,Socket A,180.0,,45.0,2000-06-05
+Athlon 850,Thunderbird,1.0,850.0,Socket A,180.0,,47.0,2000-06-05
+Athlon 900,Thunderbird,1.0,900.0,Socket A,180.0,,50.0,2000-06-05
+Athlon 950,Thunderbird,1.0,950.0,Socket A,180.0,,52.0,2000-06-05
+Pentium 4 1.4,Willamette,1.0,1400.0,Socket 423,180.0,,55.0,2000-11-20
+Pentium 4 1.5,Willamette,1.0,1500.0,Socket 423,180.0,,58.0,2000-11-20
+Pentium III 1133,Coppermine,1.0,1133.0,Socket 370,180.0,,29.0,
+Pentium III Xeon 1000 2.8V,Cascades,1.0,1000.0,Slot 2,180.0,,30.0,2000-08-25
+Pentium III Xeon 1000 5V-12V,Cascades,1.0,1000.0,Slot 2,180.0,,31.0,2000-08-25
+Pentium III Xeon 700 2.8V,Cascades-2M,1.0,700.0,Slot 2,180.0,,29.0,
+Pentium III Xeon 700 5V-12V,Cascades-2M,1.0,700.0,Slot 2,180.0,,30.0,
+Pentium III Xeon 700-2M 2.8V,Cascades-2M,1.0,700.0,Slot 2,180.0,,30.0,
+Pentium III Xeon 700-2M 5V-12V,Cascades-2M,1.0,700.0,Slot 2,180.0,,30.0,
+Pentium III Xeon 800 2.8V,Cascades,1.0,800.0,Slot 2,180.0,,25.0,2000-01-12
+Pentium III Xeon 800 5V-12V,Cascades,1.0,800.0,Slot 2,180.0,,25.0,2000-01-12
+Pentium III Xeon 866 2.8V,Cascades,1.0,866.0,Slot 2,180.0,,25.0,2000-04-10
+Pentium III Xeon 866 5V-12V,Cascades,1.0,866.0,Slot 2,180.0,,25.0,2000-04-10
+Pentium III Xeon 933 2.8V,Cascades,1.0,933.0,Slot 2,180.0,,29.0,2000-05-24
+Pentium III Xeon 933 5V-12V,Cascades,1.0,933.0,Slot 2,180.0,,30.0,2000-05-24
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Athlon 1300,Thunderbird B,1.0,1300.0,Socket A,180.0,,68.0,
+Athlon 1333,Thunderbird C,1.0,1333.0,Socket A,180.0,,70.0,
+Athlon 1400,Thunderbird B,1.0,1400.0,Socket A,180.0,,72.0,2001-06-06
+Athlon 1400,Thunderbird C,1.0,1400.0,Socket A,180.0,,72.0,2001-06-06
+Athlon 64 3000+,Venice,1.0,2000.0,Socket 754,90.0,,51.0,
+Athlon 64 3000+,Venice,1.0,2000.0,Socket 754,90.0,,51.0,
+Athlon 64 3200+,Venice,1.0,2.2,Socket 754,90.0,,59.0,
+Athlon 64 3200+,Clawhammer,1.0,2.2,Socket 754,130.0,,89.0,
+Athlon 64 3400+,Clawhammer,1.0,2.4,Socket 754,130.0,,89.0,
+Athlon 64 3400+,Venice,1.0,2.2,Socket 939,90.0,,67.0,
+Athlon 64 3400+,Venice,1.0,2.4,Socket 754,90.0,,67.0,
+Athlon 64 3500+,San Diego,1.0,2.2,Socket 939,90.0,,67.0,
+Athlon 64 4000+,Toledo,1.0,2.4,Socket 939,90.0,,89.0,
+Athlon XP 1500+,Palomino,1.0,1333.0,Socket A,180.0,,60.0,2001-10-09
+Athlon XP 1600+,Palomino,1.0,1400.0,Socket A,180.0,,63.0,2001-10-09
+Athlon XP 1600+,Thoroughbred,1.0,1400.0,Socket A,130.0,,49.0,
+Athlon XP 1700+,Thoroughbred,1.0,1467.0,Socket A,130.0,,50.0,
+Athlon XP 1700+,Thoroughbred,1.0,1467.0,Socket A,130.0,,50.0,
+Athlon XP 1700+,Palomino,1.0,1467.0,Socket A,180.0,,64.0,2001-10-09
+Athlon XP 1800+,Thoroughbred,1.0,1533.0,Socket A,130.0,,51.0,
+Athlon XP 1800+,Palomino,1.0,1533.0,Socket A,180.0,,66.0,2001-10-09
+Athlon XP 1900+,Thoroughbred,1.0,1600.0,Socket A,130.0,,53.0,
+Athlon XP 1900+,Palomino,1.0,1600.0,Socket A,180.0,,68.0,2001-11-05
+Athlon XP 2100+,Thoroughbred,1.0,1733.0,Socket A,130.0,,62.0,
+Athlon XP 2200+,Thoroughbred,1.0,1800.0,Socket A,130.0,,63.0,
+Sempron 2200+,Barton,1.0,1500.0,Socket A,130.0,,62.0,
+Sempron 2300+,Barton,1.0,1583.0,Socket A,130.0,,62.0,
+Sempron 2400+,Barton,1.0,1667.0,Socket A,130.0,,62.0,
+Sempron 2500+,Barton,1.0,1750.0,Socket A,130.0,,62.0,
+Sempron 2600+,Barton,1.0,1833.0,Socket A,130.0,,62.0,
+Sempron 2600+,Paris,1.0,1600.0,Socket 754,130.0,,25.0,
+Sempron 2800+,Barton,1.0,2000.0,Socket A,130.0,,62.0,
+Sempron 2800+,Paris,1.0,1600.0,Socket 754,130.0,,25.0,
+Sempron 3000+,Paris,1.0,1800.0,Socket 754,130.0,,25.0,
+Sempron 3100+,Paris,1.0,1800.0,Socket 754,130.0,,25.0,
+Sempron 3300+,Barton,1.0,2.2,Socket A,130.0,,62.0,
+Pentium 4 1.3,Willamette,1.0,1300.0,Socket 478,180.0,,52.0,
+Pentium 4 1.4,Willamette,1.0,1400.0,Socket 478,180.0,,55.0,2001-08-27
+Pentium 4 1.5,Willamette,1.0,1500.0,Socket 478,180.0,,58.0,2001-08-27
+Pentium 4 1.6,Willamette,1.0,1600.0,Socket 423,180.0,,61.0,
+Pentium 4 1.6,Willamette,1.0,1600.0,Socket 478,180.0,,61.0,2001-08-27
+Pentium 4 1.7,Willamette,1.0,1700.0,Socket 478,180.0,,64.0,2001-08-27
+Pentium 4 1.7,Willamette,1.0,1700.0,Socket 423,180.0,,64.0,
+Pentium 4 1.8,Willamette,1.0,1800.0,Socket 423,180.0,,67.0,
+Pentium 4 1.80,Willamette,1.0,1800.0,Socket 478,180.0,,67.0,2001-08-27
+Pentium 4 1.8A,Willamette,1.0,1800.0,Socket 478,180.0,,69.0,
+Pentium 4 1.9,Willamette,1.0,1900.0,Socket 423,180.0,,69.0,2001-08-27
+Pentium 4 1.9,Willamette,1.0,1900.0,Socket 478,180.0,,69.0,2001-08-27
+Pentium 4 2.0,Willamette,1.0,2000.0,Socket 423,180.0,,72.0,2001-08-27
+Pentium 4 2.0,Willamette,1.0,2000.0,Socket 478,180.0,,72.0,2001-08-27
+Pentium 4 2.0,Northwood,1.0,2000.0,Socket 478,130.0,,110.0,
+Pentium 4 HT 524,Prescott,1.0,3.06,Socket 775,90.0,,84.0,
+Pentium III  800,Coppermine T,1.0,800.0,Socket 370,180.0,,38.0,
+Pentium III  866,Coppermine T,1.0,866.0,Socket 370,180.0,,38.0,
+Pentium III  933,Coppermine T,1.0,933.0,Socket 370,180.0,,27.0,
+Pentium III 1000,Coppermine T,1.0,1000.0,Socket 370,180.0,,29.0,
+Pentium III 1000,Tualatin,1.0,1000.0,Socket 370,130.0,,30.0,
+Pentium III 1000S,Tualatin,1.0,1000.0,Socket 370,130.0,,30.0,
+Pentium III 1133,Tualatin,1.0,1133.0,Socket 370,130.0,,29.0,
+Pentium III 1133,Coppermine T,1.0,1133.0,Socket 370,180.0,,29.0,
+Pentium III 1133S,Tualatin,1.0,1133.0,Socket 370,130.0,,29.0,
+Pentium III 1200,Tualatin,1.0,1200.0,Socket 370,130.0,,30.0,
+Pentium III 1266S,Tualatin,1.0,1266.0,Socket 370,130.0,,30.0,
+Pentium III 1333,Tualatin,1.0,1333.0,Socket 370,130.0,,30.0,
+Pentium III 1400,Tualatin,1.0,1400.0,Socket 370,130.0,,31.0,
+Pentium III Xeon 900 2.8V,Cascades-2M,1.0,900.0,Slot 2,180.0,,36.0,
+Pentium III Xeon 900 5V-12V,Cascades-2M,1.0,900.0,Slot 2,180.0,,36.0,
+Athlon 64 X2 3600+,Manchester,2.0,2000.0,Socket 939,90.0,,89.0,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Athlon XP 1800+,Thoroughbred,1.0,1533.0,Socket A,130.0,,51.0,2002-06-10
+Athlon XP 2000+,Palomino,1.0,1667.0,Socket A,180.0,,70.0,2002-01-07
+Athlon XP 2000+,Thoroughbred,1.0,1667.0,Socket A,130.0,,60.0,2002-06-10
+Athlon XP 2000+,Thoroughbred,1.0,1667.0,Socket A,130.0,,60.0,2002-06-10
+Athlon XP 2100+,Palomino,1.0,1733.0,Socket A,180.0,,72.0,2002-03-13
+Athlon XP 2200+,Thoroughbred,1.0,1800.0,Socket A,130.0,,68.0,2002-06-10
+Athlon XP 2400+,Thoroughbred,1.0,2000.0,Socket A,130.0,,65.0,
+Athlon XP 2400+,Thoroughbred,1.0,2000.0,Socket A,130.0,,68.0,
+Athlon XP 2600+,Thoroughbred,1.0,2.083,Socket A,130.0,,68.0,
+Athlon XP 2600+,Thoroughbred,1.0,2.133,Socket A,130.0,,68.0,
+Athlon XP 2700+,Thoroughbred,1.0,2.167,Socket A,130.0,,68.0,
+Athlon XP 2800+,Thoroughbred,1.0,2.25,Socket A,130.0,,74.0,
+Athlon XP-M 2200+,Thoroughbred,1.0,1800.0,Socket A,130.0,,45.0,2002-11-11
+Celeron 2.0,Northwood,1.0,2000.0,Socket 478,130.0,,73.0,2002-09-18
+Celeron 2.0,Northwood,1.0,2000.0,Socket 478,130.0,,73.0,2002-09-18
+Celeron 2.10,Northwood,1.0,2.1,Socket 478,130.0,,73.0,2002-11-20
+Celeron 2.20,Northwood,1.0,2.2,Socket 478,130.0,,73.0,2002-11-20
+Pentium 4 2.0,Northwood,1.0,2000.0,Socket 478,130.0,,92.0,2002-01-07
+Pentium 4 2.2,Northwood,1.0,2.2,Socket 478,130.0,,92.0,2002-01-07
+Pentium 4 2.26,Northwood,1.0,2.261,Socket 478,130.0,,110.0,2002-01-07
+Pentium 4 2.4,Northwood,1.0,2.4,Socket 478,130.0,,110.0,
+Pentium 4 2.4,Northwood,1.0,2.4,Socket 478,130.0,,92.0,2002-05-06
+Pentium 4 2.53,Northwood,1.0,2.527,Socket 478,130.0,,110.0,2002-05-06
+Pentium 4 2.60,Northwood,1.0,2.6,Socket 478,130.0,,92.0,2002-08-25
+Pentium 4 2.66,Northwood,1.0,2.66,Socket 478,130.0,,110.0,2002-08-25
+Pentium 4 2.80,Northwood,1.0,2.793,Socket 478,130.0,,110.0,2002-08-25
+Pentium 4-M 1.40,Northwood,1.0,1400.0,Socket 478,130.0,,21.0,
+Pentium 4-M 1.50,Northwood,1.0,1500.0,Socket 478,130.0,,26.0,
+Pentium 4-M 1.60,Northwood,1.0,1600.0,Socket 478,130.0,,30.0,2002-03-04
+Pentium 4-M 1.70,Northwood,1.0,1700.0,Socket 478,130.0,,30.0,2002-03-04
+Pentium 4-M 1.80,Northwood,1.0,1800.0,Socket 478,130.0,,30.0,
+Pentium 4-M 1.90,Northwood,1.0,1900.0,Socket 478,130.0,,32.0,2002-06-24
+Pentium 4-M 2.00,Northwood,1.0,2000.0,Socket 478,130.0,,32.0,2002-06-24
+Pentium 4-M 2.20,Northwood,1.0,2.2,Socket 478,130.0,,35.0,2002-09-16
+Pentium III 1400S,Tualatin,1.0,1400.0,Socket 370,130.0,,32.0,2002-01-08
+Xeon 2.0,Prestonia,1.0,2000.0,Socket 604,130.0,,89.0,2002-02-25
+Xeon 2.4,Prestonia,1.0,2.394,Socket 604,130.0,,89.0,
+Xeon 2.66,Prestonia,1.0,2.66,Socket 604,130.0,,89.0,2002-11-18
+Xeon 2.8,Prestonia,1.0,2.79,Socket 604,130.0,,89.0,2002-09-11
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Athlon 64 3000+,Clawhammer,1.0,2000.0,Socket 754,130.0,,89.0,2003-12-15
+Athlon 64 3200+,Clawhammer,1.0,2000.0,Socket 754,130.0,,89.0,
+Athlon 64 FX-51,SledgeHammer,1.0,2.2,Socket 940,130.0,,89.0,
+Athlon XP 2000+,Thorton,1.0,1667.0,Socket A,130.0,,60.0,
+Athlon XP 2000+,Thorton,1.0,1667.0,Socket A,130.0,,60.0,
+Athlon XP 2200+,Thorton,1.0,1800.0,Socket A,130.0,,63.0,
+Athlon XP 2200+,Thorton,1.0,1800.0,Socket A,130.0,,63.0,
+Athlon XP 2400+,Thorton,1.0,2000.0,Socket A,130.0,,68.0,
+Athlon XP 2400+,Thorton,1.0,2000.0,Socket A,130.0,,68.0,
+Athlon XP 2500+,Barton,1.0,1833.0,Socket A,130.0,,68.0,2003-02-10
+Athlon XP 2500+ DTR,Barton,1.0,1833.0,Socket A,130.0,,55.0,2003-02-10
+Athlon XP 2600+,Barton,1.0,1917.0,Socket A,130.0,,68.0,2003-09-13
+Athlon XP 2600+,Thorton,1.0,2.083,Socket A,130.0,,68.0,
+Athlon XP 2600+,Thorton,1.0,2.133,Socket A,130.0,,68.0,
+Athlon XP 2800+,Barton,1.0,2.083,Socket A,130.0,,68.0,2003-02-10
+Athlon XP 3000+ (333FSB),Barton,1.0,2.167,Socket A,130.0,,68.0,2003-02-10
+Athlon XP 3000+ (400FSB),Barton,1.0,2.1,Socket A,130.0,,68.0,2003-05-13
+Athlon XP 3100+,Thorton,1.0,2.2,Socket A,130.0,,68.0,
+Athlon XP 3200+ (333FSB),Barton,1.0,2.333,Socket A,130.0,,79.0,2003-05-13
+Athlon XP 3200+ (400FSB),Barton,1.0,2.2,Socket A,130.0,,77.0,2003-05-13
+Athlon XP-M 1800+ (25W),Barton,1.0,1400.0,Socket 563,130.0,,25.0,2003-03-12
+Athlon XP-M 1800+ (25W),Barton,1.0,1400.0,Socket 563,130.0,,25.0,2003-03-12
+Athlon XP-M 2000+ (25W),Barton,1.0,1533.0,Socket 563,130.0,,25.0,2003-06-17
+Athlon XP-M 2000+ (35W),Barton,1.0,1533.0,Socket 563,130.0,,35.0,2003-06-17
+Athlon XP-M 2200+,Barton,1.0,1667.0,Socket A,130.0,,35.0,2003-03-12
+Athlon XP-M 2400+,Barton,1.0,1800.0,Socket A,130.0,,45.0,2003-03-12
+Athlon XP-M 2400+ (35W),Barton,1.0,1800.0,Socket A,130.0,,35.0,2003-03-12
+Athlon XP-M 2400+ (72W),Barton,1.0,1800.0,Socket A,130.0,,72.0,2003-03-12
+Athlon XP-M 2500+,Barton,1.0,1862.0,Socket A,130.0,,45.0,2003-03-12
+Athlon XP-M 2500+ (35W),Barton,1.0,1867.0,Socket A,130.0,,35.0,2003-03-12
+Athlon XP-M 2500+ (72W),Barton,1.0,1867.0,Socket A,130.0,,72.0,2003-03-12
+Athlon XP-M 2600+,Barton,1.0,2000.0,Socket A,130.0,,45.0,2003-03-12
+Athlon XP-M 2600+ (72W),Barton,1.0,2000.0,Socket A,130.0,,72.0,2003-03-12
+Athlon XP-M 3000+,Barton,1.0,2.2,Socket A,130.0,,72.0,2003-03-12
+Mobile Athlon 64 2800+,Clawhammer,1.0,1800.0,Socket 754,130.0,,82.0,
+Mobile Athlon 64 3000+,Clawhammer,1.0,1800.0,Socket 754,130.0,,82.0,
+Mobile Athlon 64 3200+,Clawhammer,1.0,2000.0,Socket 754,130.0,,82.0,
+Opteron 140,SledgeHammer,1.0,1400.0,Socket 940,130.0,,85.0,2003-06-30
+Opteron 140,SledgeHammer,1.0,1400.0,Socket 940,130.0,,82.0,2003-09-09
+Opteron 142,SledgeHammer,1.0,1600.0,Socket 940,130.0,,85.0,2003-06-30
+Opteron 142,SledgeHammer,1.0,1600.0,Socket 940,130.0,,82.0,2003-09-09
+Opteron 144,SledgeHammer,1.0,1800.0,Socket 940,130.0,,82.0,2003-09-09
+Opteron 144,SledgeHammer,1.0,1800.0,Socket 940,130.0,,85.0,2003-06-30
+Opteron 146,SledgeHammer,1.0,2000.0,Socket 940,130.0,,89.0,2003-09-09
+Opteron 148,SledgeHammer,1.0,2.2,Socket 940,130.0,,89.0,2003-11-17
+Opteron 240,SledgeHammer,1.0,1400.0,Socket 940,130.0,,82.0,2003-08-05
+Opteron 240,SledgeHammer,1.0,1400.0,Socket 940,130.0,,85.0,
+Opteron 242,SledgeHammer,1.0,1600.0,Socket 940,130.0,,82.0,2003-08-05
+Opteron 242,SledgeHammer,1.0,1600.0,Socket 940,130.0,,85.0,
+Opteron 244,SledgeHammer,1.0,1800.0,Socket 940,130.0,,82.0,2003-08-05
+Opteron 244,SledgeHammer,1.0,1800.0,Socket 940,130.0,,85.0,
+Opteron 246,SledgeHammer,1.0,2000.0,Socket 940,130.0,,89.0,2003-08-05
+Opteron 248,SledgeHammer,1.0,2.2,Socket 940,130.0,,89.0,2003-11-17
+Opteron 840,SledgeHammer,1.0,1400.0,Socket 940,130.0,,82.0,2003-09-09
+Opteron 840,SledgeHammer,1.0,1400.0,Socket 940,130.0,,85.0,2003-06-30
+Opteron 842,SledgeHammer,1.0,1600.0,Socket 940,130.0,,85.0,2003-06-30
+Opteron 842,SledgeHammer,1.0,1600.0,Socket 940,130.0,,82.0,2003-09-09
+Opteron 844,SledgeHammer,1.0,1800.0,Socket 940,130.0,,85.0,2003-06-30
+Opteron 844,SledgeHammer,1.0,1800.0,Socket 940,130.0,,82.0,2003-09-09
+Opteron 846,SledgeHammer,1.0,2000.0,Socket 940,130.0,,89.0,2003-09-09
+Opteron 848,SledgeHammer,1.0,2.2,Socket 940,130.0,,89.0,2003-11-17
+Celeron 2.30,Northwood,1.0,2.3,Socket 478,130.0,,73.0,
+Celeron 2.40,Northwood,1.0,2.4,Socket 478,130.0,,73.0,
+Celeron 2.60,Northwood,1.0,2.6,Socket 478,130.0,,73.0,2003-06-25
+Celeron 2.70,Northwood,1.0,2.7,Socket 478,130.0,,73.0,2003-09-24
+Celeron 2.80,Northwood,1.0,2.8,Socket 478,130.0,,73.0,
+Mobile Pentium 4 2.40,Northwood,1.0,2.4,Socket 478,130.0,,60.0,2003-06-11
+Mobile Pentium 4 2.66,Northwood,1.0,2.667,Socket 478,130.0,,66.0,2003-06-11
+Mobile Pentium 4 2.80,Northwood,1.0,2.8,Socket 478,130.0,,68.0,2003-06-11
+Mobile Pentium 4 3.06,Northwood,1.0,3.067,Socket 478,130.0,,70.0,2003-06-11
+Mobile Pentium 4 HT 2.66,Northwood,1.0,2.667,Socket 478,130.0,,66.0,
+Mobile Pentium 4 HT 2.80,Northwood,1.0,2.8,Socket 478,130.0,,68.0,
+Mobile Pentium 4 HT 3.06,Northwood,1.0,3.067,Socket 478,130.0,,70.0,
+Mobile Pentium 4 HT 3.20,Northwood,1.0,3.2,Socket 478,130.0,,76.0,
+Pentium 4 HT 2.40,Northwood,1.0,2.4,Socket 478,130.0,,66.0,
+Pentium 4 HT 2.60,Northwood,1.0,2.6,Socket 478,130.0,,69.0,
+Pentium 4 HT 2.80,Northwood,1.0,2.8,Socket 478,130.0,,70.0,
+Pentium 4 HT 3.00,Northwood,1.0,3.0,Socket 478,130.0,,82.0,2003-04-14
+Pentium 4 HT 3.06,Northwood,1.0,3.06,Socket 478,130.0,,110.0,
+Pentium 4 HT 3.20,Northwood,1.0,3.2,Socket 478,130.0,,82.0,
+Pentium 4 HT EE 3.20,Gallatin,1.0,3.2,Socket 478,130.0,2MB,110.0,
+Pentium 4-M 2.40,Northwood,1.0,2.4,Socket 478,130.0,,35.0,2003-01-14
+Pentium 4-M 2.50,Northwood,1.0,2.5,Socket 478,130.0,,35.0,2003-04-16
+Pentium 4-M 2.60,Northwood,1.0,2.6,Socket 478,130.0,,35.0,2003-06-11
+Pentium M 1.30,Banias,1.0,1300.0,Socket 478,130.0,,24.0,2003-03-12
+Pentium M 1.40,Banias,1.0,1400.0,Socket 478,130.0,,24.0,2003-03-12
+Pentium M 1.50,Banias,1.0,1500.0,Socket 478,130.0,,24.0,2003-03-12
+Pentium M 1.60,Banias,1.0,1600.0,Socket 478,130.0,,24.0,2003-03-12
+Pentium M 1.70,Banias,1.0,1700.0,Socket 478,130.0,,24.0,
+Xeon 3.06,Gallatin,1.0,3.066,Socket 604,130.0,1MB,97.0,2003-07-14
+Xeon 3.06,Prestonia,1.0,3.066,Socket 604,130.0,,89.0,2003-03-10
+Xeon 3.06,Gallatin,1.0,3.066,Socket 604,130.0,2MB,97.0,2003-07-14
+Xeon 3.20,Gallatin,1.0,3.2,Socket 604,130.0,1MB,97.0,2003-10-06
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Athlon 64 3000+,Winchester,1.0,1800.0,Socket 939,90.0,,67.0,2004-10-14
+Athlon 64 3200+,Winchester,1.0,2000.0,Socket 939,90.0,,67.0,2004-10-14
+Athlon 64 3500+,Clawhammer,1.0,2.2,Socket 939,130.0,,89.0,
+Athlon 64 3500+,NewCastle,1.0,2.2,Socket 939,130.0,,89.0,
+Athlon 64 3500+,Winchester,1.0,2.2,Socket 939,90.0,,67.0,2004-10-14
+Athlon 64 3600+,Clawhammer,1.0,2.4,Socket 754,130.0,,89.0,
+Athlon 64 3700+,Clawhammer,1.0,2.4,Socket 754,130.0,,89.0,
+Athlon 64 3800+,Clawhammer,1.0,2.4,Socket 939,130.0,,89.0,
+Athlon 64 3800+,NewCastle,1.0,2.4,Socket 939,130.0,,89.0,
+Athlon 64 4000+,Clawhammer,1.0,2.4,Socket 939,130.0,,89.0,2004-10-19
+Athlon 64 4000+,San Diego,1.0,2.4,Socket 939,90.0,,89.0,2004-10-19
+Athlon 64 FX-53,Clawhammer,1.0,2.4,Socket 939,130.0,,89.0,
+Athlon 64 FX-55,San Diego,1.0,2.6,Socket 939,90.0,,104.0,2004-10-10
+Athlon 64 FX-55,Clawhammer,1.0,2.6,Socket 939,130.0,,104.0,2004-10-10
+Athlon XP 2600+ DTR,Barton,1.0,1917.0,Socket A,130.0,,55.0,2004-11-19
+Athlon XP 2800+ DTR,Barton,1.0,2.083,Socket A,130.0,,55.0,2004-12-29
+Athlon XP-M 2200+,Barton,1.0,1667.0,Socket 563,130.0,,27.0,2004-07-24
+Athlon XP-M 2800+,Barton,1.0,2.133,Socket A,130.0,,55.0,2004-07-13
+Athlon XP-M 2800+ (72W),Barton,1.0,2.133,Socket A,130.0,,72.0,2004-07-13
+Mobile Athlon 64 2700+,Clawhammer,1.0,1600.0,Socket 754,130.0,,82.0,
+Mobile Athlon 64 2800+,Clawhammer,1.0,1800.0,Socket 754,130.0,,62.0,
+Mobile Athlon 64 2800+,Odessa,1.0,1800.0,Socket 754,130.0,,82.0,
+Mobile Athlon 64 2800+,Odessa,1.0,1800.0,Socket 754,130.0,,35.0,
+Mobile Athlon 64 3000+,Clawhammer,1.0,1800.0,Socket 754,130.0,,62.0,
+Mobile Athlon 64 3000+,Odessa,1.0,2000.0,Socket 754,130.0,,35.0,
+Mobile Athlon 64 3200+,Clawhammer,1.0,2000.0,Socket 754,130.0,,62.0,
+Opteron 140,SledgeHammer,1.0,1400.0,Socket 940,130.0,,82.0,2004-05-18
+Opteron 148 HE,Venus,1.0,2.2,Socket 940,90.0,,55.0,
+Opteron 242,Troy,1.0,1600.0,Socket 940,90.0,,85.0,
+Opteron 244,Troy,1.0,1800.0,Socket 940,90.0,,85.0,
+Opteron 246,Troy,1.0,2000.0,Socket 940,90.0,,85.0,
+Opteron 246,Troy,1.0,2000.0,Socket 940,90.0,,85.0,
+Opteron 248,Troy,1.0,2.2,Socket 940,90.0,,85.0,
+Opteron 248,Troy,1.0,2.2,Socket 940,90.0,,85.0,
+Opteron 250,Troy,1.0,2.4,Socket 940,90.0,,85.0,
+Opteron 842,Athens,1.0,1600.0,Socket 940,90.0,,85.0,
+Opteron 844,Athens,1.0,1800.0,Socket 940,90.0,,85.0,
+Opteron 846,Athens,1.0,2000.0,Socket 940,90.0,,85.0,
+Opteron 846,Athens,1.0,2000.0,Socket 940,90.0,,85.0,
+Opteron 848,Athens,1.0,2.2,Socket 940,90.0,,85.0,
+Opteron 850,Athens,1.0,2.4,Socket 940,90.0,,85.0,
+Sempron 2200+,Thoroughbred,1.0,1500.0,Socket A,130.0,,62.0,2004-07-28
+Sempron 2200+,Thorton,1.0,1500.0,Socket A,130.0,,62.0,
+Sempron 2300+,Thoroughbred,1.0,1583.0,Socket A,130.0,,62.0,2004-07-28
+Sempron 2400+,Thorton,1.0,1667.0,Socket A,130.0,,62.0,
+Sempron 2400+,Thoroughbred,1.0,1667.0,Socket A,130.0,,62.0,2004-07-28
+Sempron 2500+,Thoroughbred,1.0,1750.0,Socket A,130.0,,62.0,2004-07-28
+Sempron 2600+,Thoroughbred,1.0,1833.0,Socket A,130.0,,62.0,2004-07-28
+Sempron 2600+,Sonora,1.0,1600.0,Socket 754,90.0,,25.0,2004-07-28
+Sempron 2600+,Georgetown,1.0,1600.0,Socket 754,90.0,,62.0,2004-07-28
+Sempron 2600+,Palermo,1.0,1600.0,Socket 754,90.0,,62.0,
+Sempron 2800+,Georgetown,1.0,1600.0,Socket 754,90.0,,62.0,2004-07-28
+Sempron 2800+,Thorton,1.0,1992.0,Socket A,130.0,,62.0,
+Sempron 2800+,Thoroughbred,1.0,1992.0,Socket A,130.0,,62.0,2004-07-28
+Sempron 2800+,Palermo,1.0,1600.0,Socket 754,90.0,,62.0,
+Sempron 2800+,Sonora,1.0,1600.0,Socket 754,90.0,,25.0,2004-07-28
+Sempron 3000+,Georgetown,1.0,1800.0,Socket 754,90.0,,62.0,2004-07-28
+Sempron 3000+,Sonora,1.0,1800.0,Socket 754,90.0,,25.0,
+Sempron 3000+,Barton,1.0,2000.0,Socket A,130.0,,62.0,2004-09-17
+Sempron 3100+,Paris,1.0,1800.0,Socket 754,130.0,,62.0,2004-07-28
+Celeron D 325,Prescott,1.0,2.533,Socket 775,90.0,,73.0,2004-06-24
+Celeron D 326,Prescott,1.0,2.53,Socket 775,90.0,,73.0,
+Celeron D 330,Prescott,1.0,2.667,Socket 775,90.0,,84.0,2004-06-24
+Celeron D 335,Prescott,1.0,2.8,Socket 478,90.0,,84.0,2004-06-24
+Celeron D 335,Prescott,1.0,2.8,Socket 478,90.0,,84.0,2004-06-24
+Celeron D 340,Prescott,1.0,2.93,Socket 775,90.0,,84.0,
+Celeron D 341,Prescott,1.0,2.93,Socket 775,90.0,,84.0,
+Celeron D 346,Prescott,1.0,3.06,Socket 775,90.0,,73.0,
+Mobile Pentium 4 HT 518,Prescott,1.0,2.8,Socket 478,90.0,,88.0,
+Mobile Pentium 4 HT 532,Prescott,1.0,3.067,Socket 478,90.0,,88.0,
+Mobile Pentium 4 HT 538,Prescott,1.0,3.2,Socket 478,90.0,,88.0,
+Mobile Pentium 4 HT 548,Prescott,1.0,3.334,Socket 478,90.0,,88.0,2004-09-28
+Pentium 4 505,Prescott,1.0,2.66,Socket 775,90.0,,84.0,
+Pentium 4 505J,Prescott,1.0,2.66,Socket 775,90.0,,84.0,
+Pentium 4 519,Prescott,1.0,3.06,Socket 775,90.0,,84.0,
+Pentium 4 HT 3.6E,Prescott,1.0,3.6,Socket 478,90.0,,115.0,2004-08-04
+Pentium 4 HT 515,Prescott,1.0,2.933,Socket 775,90.0,,84.0,
+Pentium 4 HT 515,Prescott,1.0,2.933,Socket 775,90.0,,84.0,
+Pentium 4 HT 516,Prescott,1.0,2.933,Socket 775,90.0,,84.0,
+Pentium 4 HT 516,Prescott,1.0,2.933,Socket 775,90.0,,84.0,
+Pentium 4 HT 517,Prescott,1.0,2.933,Socket 775,90.0,,84.0,
+Pentium 4 HT 517,Prescott,1.0,2.933,Socket 775,90.0,,84.0,
+Pentium 4 HT 520,Prescott,1.0,2.8,Socket 775,90.0,,84.0,
+Pentium 4 HT 520,Prescott,1.0,2.8,Socket 775,90.0,,84.0,
+Pentium 4 HT 520,Prescott,1.0,2.8,Socket 775,90.0,,84.0,
+Pentium 4 HT 520,Prescott,1.0,2.933,Socket 775,90.0,,84.0,
+Pentium 4 HT 530,Prescott,1.0,3.0,Socket 775,90.0,,84.0,
+Pentium 4 HT 540,Prescott,1.0,3.2,Socket 775,90.0,,84.0,
+Pentium 4 HT 550,Prescott,1.0,3.4,Socket 775,90.0,,115.0,
+Pentium 4 HT 560,Prescott,1.0,3.6,Socket 775,90.0,,115.0,
+Pentium 4 HT 570,Prescott,1.0,3.8,Socket 775,90.0,,115.0,
+Pentium 4 HT EE 3.40,Gallatin,1.0,3.4,Socket 478,130.0,2MB,110.0,
+Pentium 4 HT EE 3.46,Gallatin,1.0,3.46,Socket 775,130.0,2MB,110.0,
+Pentium M 715,Dothan,1.0,1500.0,Socket 479,90.0,,21.0,
+Pentium M 725,Dothan,1.0,1600.0,Socket 479,90.0,,21.0,
+Pentium M 765,Dothan,1.0,2.1,Socket 479,90.0,,21.0,2004-10-20
+Xeon 2.8,Nocona,1.0,2.8,Socket 604,90.0,,135.0,2004-06-28
+Xeon 3.0,Nocona,1.0,3.0,Socket 604,90.0,,135.0,2004-06-28
+Xeon 3.2,Nocona,1.0,3.2,Socket 604,90.0,,135.0,2004-06-28
+Xeon 3.4,Nocona,1.0,3.4,Socket 604,90.0,,135.0,2004-06-28
+Xeon 3.6,Nocona,1.0,3.6,Socket 604,90.0,,135.0,2004-06-28
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Athlon 64 1500+,Venice,1.0,1000.0,Socket 754,90.0,,9.0,2005-11-07
+Athlon 64 3000+,Newark,1.0,1800.0,Socket 754,130.0,,62.0,2005-04-14
+Athlon 64 3000+,Venice,1.0,1800.0,Socket 939,90.0,,67.0,2005-04-04
+Athlon 64 3200+,Newark,1.0,2000.0,Socket 754,130.0,,62.0,2005-04-14
+Athlon 64 3200+,Manchester,1.0,2000.0,Socket 939,90.0,,67.0,
+Athlon 64 3200+,Venice,1.0,2000.0,Socket 939,90.0,,67.0,2005-04-04
+Athlon 64 3200+,Newark,1.0,2000.0,Socket 754,130.0,,83.0,2005-04-14
+Athlon 64 3400+,Newark,1.0,2.2,Socket 754,130.0,,83.0,2005-04-14
+Athlon 64 3500+,Manchester,1.0,2.2,Socket 939,90.0,,67.0,
+Athlon 64 3500+,Venice,1.0,2.2,Socket 939,90.0,,67.0,2005-04-04
+Athlon 64 3700+,Newark,1.0,2.4,Socket 754,130.0,,83.0,2005-04-14
+Athlon 64 3700+,Toledo,1.0,2.2,Socket 939,90.0,,89.0,2005-05-11
+Athlon 64 3800+,Venice,1.0,2.4,Socket 939,90.0,,89.0,2005-04-04
+Athlon 64 4000+,Newark,1.0,2.6,Socket 754,130.0,,62.0,2005-08-16
+Athlon 64 FX-57,San Diego,1.0,2.8,Socket 939,90.0,,104.0,2005-06-27
+Mobile Athlon 64 2700+,Odessa,1.0,1600.0,Socket 754,130.0,,35.0,
+Mobile Athlon 64 2700+,Clawhammer,1.0,1600.0,Socket 754,130.0,,35.0,
+Mobile Athlon 64 3400+,Clawhammer,1.0,2.2,Socket 754,130.0,,62.0,
+Mobile Athlon 64 3400+,Clawhammer,1.0,2.2,Socket 754,130.0,,82.0,
+Mobile Athlon 64 3700+,Clawhammer,1.0,2.4,Socket 754,130.0,,82.0,
+Opteron 144,Venus,1.0,1800.0,Socket 939,90.0,,67.0,
+Opteron 144,Venus,1.0,1800.0,Socket 939,90.0,,67.0,
+Opteron 146,Venus,1.0,2000.0,Socket 939,90.0,,67.0,
+Opteron 146,Venus,1.0,2000.0,Socket 939,90.0,,67.0,
+Opteron 146,Venus,1.0,2000.0,Socket 939,90.0,,67.0,
+Opteron 148,Venus,1.0,2.2,Socket 939,90.0,,85.0,
+Opteron 148,Venus,1.0,2.2,Socket 939,90.0,,85.0,
+Opteron 150,Venus,1.0,2.4,Socket 939,90.0,,85.0,
+Opteron 150,Venus,1.0,2.4,Socket 939,90.0,,85.0,
+Opteron 152,Venus,1.0,2.6,Socket 939,90.0,,104.0,
+Opteron 152,Venus,1.0,2.6,Socket 939,90.0,,104.0,
+Opteron 154,Venus,1.0,2.8,Socket 939,90.0,,104.0,
+Opteron 156,Venus,1.0,3.0,Socket 939,90.0,,104.0,
+Opteron 246 HE,Troy,1.0,2000.0,Socket 940,90.0,,55.0,
+Opteron 248 HE,Troy,1.0,2.2,Socket 940,90.0,,55.0,
+Opteron 250 HE,Troy,1.0,2.4,Socket 940,90.0,,55.0,
+Opteron 254,Troy,1.0,2.8,Socket 940,90.0,,92.0,
+Opteron 846 HE,Athens,1.0,2000.0,Socket 940,90.0,,55.0,
+Opteron 848 HE,Athens,1.0,2.2,Socket 940,90.0,,55.0,
+Opteron 850 HE,Athens,1.0,2.4,Socket 940,90.0,,55.0,
+Opteron 854,Athens,1.0,2.8,Socket 940,90.0,,92.0,
+Sempron 2500+,Palermo,1.0,1400.0,Socket 754,90.0,,62.0,2005-07-07
+Sempron 2800+,Roma,1.0,1600.0,Socket 754,90.0,,25.0,2005-07-15
+Sempron 3000+,Palermo,1.0,1800.0,Socket 754,90.0,,62.0,
+Sempron 3000+,Roma,1.0,1800.0,Socket 754,90.0,,25.0,2005-07-15
+Sempron 3000+,Albany,1.0,1800.0,Socket 754,90.0,,62.0,2005-07-15
+Sempron 3000+,Palermo,1.0,1800.0,Socket 939,90.0,,62.0,
+Sempron 3100+,Roma,1.0,1800.0,Socket 754,90.0,,25.0,2005-07-15
+Sempron 3100+,Albany,1.0,1800.0,Socket 754,90.0,,62.0,2005-07-15
+Sempron 3100+,Georgetown,1.0,1800.0,Socket 754,90.0,,62.0,
+Sempron 3100+,Palermo,1.0,1800.0,Socket 754,90.0,,62.0,
+Sempron 3200+,Palermo,1.0,1800.0,Socket 939,90.0,,62.0,
+Sempron 3300+,Palermo,1.0,2000.0,Socket 754,90.0,,62.0,
+Sempron 3300+,Roma,1.0,2000.0,Socket 754,90.0,,25.0,2005-07-15
+Sempron 3300+,Albany,1.0,2000.0,Socket 754,90.0,,62.0,2005-07-15
+Sempron 3300+,Georgetown,1.0,2000.0,Socket 754,90.0,,62.0,2005-08-19
+Sempron 3400+,Palermo,1.0,2000.0,Socket 754,90.0,,62.0,
+Sempron 3400+,Palermo,1.0,2000.0,Socket 939,90.0,,62.0,
+Sempron 3500+,Palermo,1.0,2000.0,Socket 939,90.0,,62.0,
+Turion 64 ML-28,Lancaster,1.0,1600.0,Socket 754,90.0,,32.0,
+Turion 64 ML-30,Lancaster,1.0,1600.0,Socket 754,90.0,,35.0,2005-03-10
+Turion 64 ML-32,Lancaster,1.0,1800.0,Socket 754,90.0,,35.0,2005-03-10
+Turion 64 ML-34,Lancaster,1.0,1800.0,Socket 754,90.0,,35.0,2005-03-10
+Turion 64 ML-37,Lancaster,1.0,2000.0,Socket 754,90.0,,35.0,2005-03-10
+Turion 64 ML-40,Lancaster,1.0,2.2,Socket 754,90.0,,35.0,
+Turion 64 ML-42,Lancaster,1.0,2.4,Socket 754,90.0,,35.0,2005-10-04
+Turion 64 MT-28,Lancaster,1.0,1600.0,Socket 754,90.0,,22.0,
+Turion 64 MT-30,Lancaster,1.0,1600.0,Socket 754,90.0,,22.0,2005-03-10
+Turion 64 MT-32,Lancaster,1.0,1800.0,Socket 754,90.0,,25.0,2005-03-10
+Turion 64 MT-34,Lancaster,1.0,1800.0,Socket 754,90.0,,25.0,2005-03-10
+Turion 64 MT-37,Lancaster,1.0,2000.0,Socket 754,90.0,,25.0,2005-08-08
+Turion 64 MT-40,Lancaster,1.0,2.2,Socket 754,90.0,,25.0,2005-08-08
+Celeron D 350,Prescott,1.0,3.2,Socket 478,90.0,,84.0,2005-06-28
+Pentium 4 506,Prescott,1.0,2.66,Socket 775,90.0,,84.0,
+Pentium 4 506,Prescott,1.0,2.66,Socket 775,90.0,,84.0,
+Pentium 4 506,Prescott,1.0,2.66,Socket 775,90.0,,84.0,
+Pentium 4 HT 521,Prescott,1.0,2.8,Socket 775,90.0,,84.0,2005-06-12
+Pentium 4 HT 531,Prescott,1.0,3.0,Socket 775,90.0,,84.0,2005-06-12
+Pentium 4 HT 541,Prescott,1.0,3.2,Socket 775,90.0,,84.0,2005-06-12
+Pentium 4 HT 551,Prescott,1.0,3.4,Socket 775,90.0,,115.0,2005-06-12
+Pentium 4 HT 561,Prescott,1.0,3.6,Socket 775,90.0,,115.0,2005-06-12
+Pentium 4 HT 571,Prescott,1.0,3.8,Socket 775,90.0,,115.0,2005-06-12
+Pentium 4 HT 630,Prescott,1.0,3.0,Socket 775,90.0,,84.0,2005-02-20
+Pentium 4 HT 640,Prescott,1.0,3.2,Socket 775,90.0,,84.0,2005-02-20
+Pentium 4 HT 662,Prescott,1.0,3.6,Socket 775,90.0,,84.0,2005-11-14
+Pentium 4 HT 670,Prescott,1.0,3.8,Socket 775,90.0,,84.0,2005-05-26
+Pentium 4 HT 672,Prescott,1.0,3.8,Socket 775,90.0,,84.0,2005-11-14
+Pentium 4 HT EE 3.73,Prescott,1.0,3.733,Socket 775,90.0,,115.0,
+Pentium M 780,Dothan,1.0,2.26,Socket 479,90.0,,27.0,2005-07-25
+Xeon MP 2.83,Potomac,1.0,2.833,Socket 604,90.0,4MB,129.0,2005-03-29
+Xeon MP 2.83,Potomac,1.0,2.833,Socket 604,90.0,8MB,135.0,2005-03-29
+Xeon MP 3.00,Potomac,1.0,3.0,Socket 604,90.0,4MB,135.0,2005-03-29
+Xeon MP 3.00,Potomac,1.0,3.0,Socket 604,90.0,8MB,135.0,2005-03-29
+Xeon MP 3.16,Cranford,1.0,3.167,Socket 604,90.0,,135.0,2005-03-29
+Xeon MP 3.16,Potomac,1.0,3.167,Socket 604,90.0,4MB,135.0,2005-03-29
+Xeon MP 3.16,Potomac,1.0,3.167,Socket 604,90.0,8MB,135.0,2005-03-29
+Xeon MP 3.33,Potomac,1.0,3.333,Socket 604,90.0,4MB,135.0,2005-03-29
+Xeon MP 3.33,Potomac,1.0,3.333,Socket 604,90.0,8MB,135.0,2005-03-29
+Xeon MP 3.33,Cranford,1.0,3.334,Socket 604,90.0,,135.0,2005-03-29
+Xeon MP 3.50,Cranford,1.0,3.5,Socket 604,90.0,,135.0,2005-03-29
+Xeon MP 3.66,Cranford,1.0,3.667,Socket 604,90.0,,135.0,2005-03-29
+Athlon 64 X2 3800+,Manchester,2.0,2000.0,Socket 939,90.0,,89.0,
+Athlon 64 X2 3800+,Toledo,2.0,2000.0,Socket 939,90.0,,89.0,
+Opteron X2 165,Denmark,2.0,1800.0,Socket 939,90.0,,110.0,
+Opteron X2 170,Denmark,2.0,2000.0,Socket 939,90.0,,110.0,
+Opteron X2 175,Denmark,2.0,2.2,Socket 939,90.0,,110.0,
+Opteron X2 180,Denmark,2.0,2.4,Socket 939,90.0,,110.0,2005-09-26
+Opteron X2 260 HE,Italy,2.0,1600.0,Socket 940,90.0,,55.0,
+Opteron X2 265,Italy,2.0,1800.0,Socket 940,90.0,,95.0,
+Opteron X2 265 HE,Italy,2.0,1800.0,Socket 940,90.0,,55.0,
+Opteron X2 270,Italy,2.0,2000.0,Socket 940,90.0,,95.0,
+Opteron X2 270 HE,Italy,2.0,2000.0,Socket 940,90.0,,55.0,
+Opteron X2 275,Italy,2.0,2.2,Socket 940,90.0,,95.0,
+Opteron X2 280,Italy,2.0,2.4,Socket 940,90.0,,95.0,2005-09-26
+Opteron X2 860 HE,Egypt,2.0,1600.0,Socket 940,90.0,,55.0,
+Opteron X2 865,Egypt,2.0,1800.0,Socket 940,90.0,,95.0,2005-09-26
+Opteron X2 865 HE,Egypt,2.0,1800.0,Socket 940,90.0,,55.0,
+Opteron X2 870,Egypt,2.0,2000.0,Socket 940,90.0,,95.0,2005-09-26
+Opteron X2 870 HE,Egypt,2.0,2000.0,Socket 940,90.0,,55.0,
+Opteron X2 875,Egypt,2.0,2.2,Socket 940,90.0,,95.0,2005-09-26
+Opteron X2 880,Egypt,2.0,2.4,Socket 940,90.0,,95.0,2005-09-26
+Core Duo T2050,Yonah,2.0,1600.0,Socket 479,65.0,,31.0,
+Pentium D 820,Smithfield,2.0,2.8,Socket 775,90.0,,130.0,2005-05-26
+Pentium D 820,Smithfield,2.0,2.8,Socket 775,90.0,,130.0,2005-05-26
+Pentium D 830,Smithfield,2.0,3.0,Socket 775,90.0,,130.0,2005-05-26
+Pentium D 840,Smithfield,2.0,3.2,Socket 775,90.0,,130.0,2005-05-26
+Pentium D 840 EE,Smithfield,2.0,3.2,Socket 775,90.0,,130.0,
+Xeon 2.8,Paxville,2.0,2.8,Socket 604,90.0,,135.0,2005-10-10
+Xeon MP 7020 Dual-Core,Paxville,2.0,2.667,Socket 604,90.0,,135.0,
+Xeon MP 7030 Dual-Core,Paxville,2.0,2.833,Socket 604,90.0,,135.0,
+Xeon MP 7030 Dual-Core,Paxville,2.0,2.8,Socket 604,90.0,,135.0,
+Xeon MP 7040 Dual-Core,Paxville,2.0,3.0,Socket 604,90.0,,135.0,
+Xeon MP 7041 Dual-Core,Paxville,2.0,3.0,Socket 604,90.0,,135.0,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Athlon 64 3000+,Orleans,1.0,1800.0,Socket AM2,90.0,,62.0,
+Athlon 64 3200+,Orleans,1.0,2000.0,Socket AM2,90.0,,62.0,
+Athlon 64 3500+,Orleans,1.0,2.2,Socket AM2,90.0,,62.0,
+Athlon 64 3800+,Orleans,1.0,2.4,Socket AM2,90.0,,62.0,
+Opteron 856,Athens,1.0,3.0,Socket 940,90.0,,92.0,
+Sempron 2800+,Manila,1.0,1600.0,Socket AM2,90.0,,62.0,
+Sempron 3000+,Manila,1.0,1600.0,Socket AM2,90.0,,62.0,
+Sempron 3000+ EE SFF,Manila,1.0,1600.0,Socket AM2,90.0,,35.0,
+Sempron 3200+,Manila,1.0,1800.0,Socket AM2,90.0,,62.0,
+Sempron 3200+ EE SFF,Manila,1.0,1800.0,Socket AM2,90.0,,35.0,
+Sempron 3400+,Albany,1.0,2000.0,Socket 754,90.0,,62.0,
+Sempron 3400+,Manila,1.0,1800.0,Socket AM2,90.0,,62.0,
+Sempron 3400+,Roma,1.0,2000.0,Socket 754,90.0,,25.0,2006-05-17
+Sempron 3400+ EE SFF,Manila,1.0,1800.0,Socket AM2,90.0,,35.0,
+Sempron 3500+,Manila,1.0,2000.0,Socket AM2,90.0,,62.0,
+Sempron 3500+ EE SFF,Manila,1.0,2000.0,Socket AM2,90.0,,35.0,
+Sempron 3600+,Albany,1.0,2.2,Socket 754,90.0,,62.0,2006-05-17
+Sempron 3600+,Manila,1.0,2000.0,Socket AM2,90.0,,62.0,
+Sempron 3800+,Manila,1.0,2.2,Socket AM2,90.0,,62.0,
+Turion 64 ML-44,Lancaster,1.0,2.4,Socket 754,90.0,,35.0,2006-01-04
+Celeron D 352,Cedar Mill,1.0,3.2,Socket 775,65.0,,84.0,2006-05-28
+Core Solo T1200,Yonah,1.0,1500.0,Socket 479,65.0,,27.0,2006-01-05
+Core Solo T1300,Yonah,1.0,1660.0,Socket 479,65.0,,27.0,2006-01-05
+Core Solo T1350,Yonah,1.0,1866.0,Socket 479,65.0,,27.0,2006-01-05
+Core Solo T1400,Yonah,1.0,1833.0,Socket 479,65.0,,27.0,2006-01-05
+Core Solo ULV U1300,Yonah,1.0,1066.0,Socket 479,65.0,,5.0,2006-04-19
+Core Solo ULV U1400,Yonah,1.0,1200.0,Socket 479,65.0,,5.0,2006-04-19
+Core Solo ULV U1500,Yonah,1.0,1333.0,Socket 479,65.0,,5.0,2006-04-19
+Pentium 4 HT 524,Prescott,1.0,3.06,Socket 775,90.0,,84.0,
+Pentium 4 HT 631,Cedar Mill,1.0,3.0,Socket 775,65.0,,86.0,2006-01-05
+Pentium 4 HT 641,Cedar Mill,1.0,3.2,Socket 775,65.0,,86.0,2006-01-05
+Pentium 4 HT 651,Cedar Mill,1.0,3.4,Socket 775,65.0,,86.0,2006-01-05
+Pentium 4 HT 661,Cedar Mill,1.0,3.6,Socket 775,65.0,,86.0,2006-01-05
+Athlon 64 FX-60,Toledo,2.0,2.6,Socket 939,90.0,,110.0,2006-01-09
+Athlon 64 FX-62,Windsor,2.0,2.8,Socket AM2,90.0,,125.0,
+Athlon 64 FX-70,Windsor,2.0,2.6,Socket F,90.0,,125.0,2006-11-30
+Athlon 64 FX-72,Windsor,2.0,2.8,Socket F,90.0,,125.0,2006-11-30
+Athlon 64 FX-74,Windsor,2.0,3.0,Socket F,90.0,,125.0,2006-11-30
+Athlon 64 FX-76,Windsor,2.0,3.2,Socket F,90.0,,125.0,
+Athlon 64 X2 3600+,Brisbane,2.0,1900.0,Socket AM2,65.0,,65.0,2006-12-05
+Athlon 64 X2 3600+ EE,Windsor,2.0,2000.0,Socket AM2,90.0,,65.0,
+Athlon 64 X2 3800+,Windsor,2.0,2000.0,Socket AM2,90.0,,89.0,
+Athlon 64 X2 3800+ EE,Windsor,2.0,2000.0,Socket AM2,90.0,,65.0,
+Athlon 64 X2 3800+ EE SFF,Windsor,2.0,2000.0,Socket AM2,90.0,,35.0,
+Athlon 64 X2 4000+,Brisbane,2.0,2.1,Socket AM2,65.0,,65.0,2006-12-05
+Athlon 64 X2 4000+,Windsor,2.0,2000.0,Socket AM2,90.0,,89.0,
+Athlon 64 X2 4000+ EE,Windsor,2.0,2000.0,Socket AM2,90.0,,65.0,
+Athlon 64 X2 4200+,Brisbane,2.0,2.2,Socket AM2,65.0,,65.0,
+Athlon 64 X2 4200+,Toledo,2.0,2.2,Socket 939,90.0,,89.0,
+Athlon 64 X2 4200+,Windsor,2.0,2.2,Socket AM2,90.0,,89.0,
+Athlon 64 X2 4200+,Manchester,2.0,2.2,Socket 939,90.0,,89.0,
+Athlon 64 X2 4200+ EE,Windsor,2.0,2.2,Socket AM2,90.0,,65.0,
+Athlon 64 X2 4400+,Brisbane,2.0,2.3,Socket AM2,65.0,,65.0,2006-12-05
+Athlon 64 X2 4400+,Toledo,2.0,2.2,Socket 939,90.0,,110.0,
+Athlon 64 X2 4400+,Windsor,2.0,2.2,Socket AM2,90.0,,89.0,
+Athlon 64 X2 4400+ EE,Windsor,2.0,2.2,Socket AM2,90.0,,65.0,
+Athlon 64 X2 4600+,Windsor,2.0,2.4,Socket AM2,90.0,,89.0,
+Athlon 64 X2 4600+,Manchester,2.0,2.4,Socket 939,90.0,,110.0,
+Athlon 64 X2 4600+,Toledo,2.0,2.4,Socket 939,90.0,,89.0,
+Athlon 64 X2 4600+ EE,Windsor,2.0,2.4,Socket AM2,90.0,,65.0,
+Athlon 64 X2 4800+,Windsor,2.0,2.4,Socket AM2,90.0,,89.0,
+Athlon 64 X2 4800+,Brisbane,2.0,2.5,Socket AM2,65.0,,65.0,2006-12-05
+Athlon 64 X2 4800+,Toledo,2.0,2.4,Socket 939,90.0,,110.0,
+Athlon 64 X2 4800+ EE,Windsor,2.0,2.4,Socket AM2,90.0,,65.0,
+Athlon 64 X2 5000+,Windsor,2.0,2.6,Socket AM2,90.0,,89.0,
+Athlon 64 X2 5000+,Brisbane,2.0,2.6,Socket AM2,65.0,,65.0,2006-12-05
+Athlon 64 X2 5000+ EE,Windsor,2.0,2.6,Socket AM2,90.0,,65.0,2006-09-06
+Athlon 64 X2 5200+,Windsor,2.0,2.6,Socket AM2,90.0,,89.0,2006-09-06
+Athlon 64 X2 5200+ EE,Windsor,2.0,2.6,Socket AM2,90.0,,65.0,2006-09-06
+Athlon 64 X2 5400+,Windsor,2.0,2.8,Socket AM2,90.0,,89.0,2006-12-12
+Athlon 64 X2 5600+,Windsor,2.0,2.8,Socket AM2,90.0,,89.0,2006-12-12
+Opteron X2 185,Denmark,2.0,2.6,Socket 939,90.0,,110.0,2006-03-06
+Opteron X2 275 HE,Italy,2.0,2.2,Socket 940,90.0,,55.0,
+Opteron X2 285,Italy,2.0,2.6,Socket 940,90.0,,95.0,2006-03-06
+Opteron X2 875 HE,Egypt,2.0,2.2,Socket 940,90.0,,55.0,
+Opteron X2 885,Egypt,2.0,2.6,Socket 940,90.0,,95.0,2006-03-06
+Opteron X2 890,Egypt,2.0,2.8,Socket 940,90.0,,95.0,2006-03-06
+Turion X2 RM-70,Griffin,2.0,2000.0,Socket S1,65.0,,31.0,
+Core 2 Duo E4300,Allendale,2.0,1800.0,Socket 775,65.0,,65.0,2006-07-27
+Core 2 Duo E6300,Conroe,2.0,1866.0,Socket 775,65.0,,65.0,2006-07-27
+Core 2 Duo E6400,Conroe,2.0,2.133,Socket 775,65.0,,65.0,2006-07-27
+Core 2 Duo E6600,Conroe,2.0,2.4,Socket 775,65.0,,65.0,2006-07-27
+Core 2 Duo E6700,Conroe,2.0,2.667,Socket 775,65.0,,65.0,2006-07-27
+Core 2 Duo T5200,Merom,2.0,1600.0,Socket 479,65.0,,35.0,2006-07-27
+Core 2 Duo T5500,Merom,2.0,1667.0,Socket M,65.0,,35.0,2006-07-27
+Core 2 Duo T5600,Merom,2.0,1833.0,Socket 479,65.0,,35.0,2006-07-27
+Core 2 Duo T7200,Merom,2.0,2000.0,Socket 479,65.0,,35.0,2006-07-27
+Core 2 Duo T7300,Merom,2.0,2000.0,Socket 479,65.0,,35.0,2006-07-27
+Core 2 Duo T7400,Merom,2.0,2.166,Socket 479,65.0,,35.0,2006-07-27
+Core 2 Duo T7600,Merom,2.0,2.333,Socket 479,65.0,,35.0,2006-07-27
+Core 2 Duo T7600G,Merom,2.0,2.333,Socket M,65.0,,35.0,2006-12-27
+Core 2 Extreme X6800,Conroe XE,2.0,2.933,Socket 775,65.0,,75.0,2006-07-27
+Core Duo LV L2500,Yonah,2.0,1833.0,Socket 479,65.0,,15.0,
+Core Duo T2250,Yonah,2.0,1733.0,Socket 479,65.0,,31.0,
+Core Duo T2300,Yonah,2.0,1660.0,Socket 479,65.0,,31.0,2006-01-05
+Core Duo T2400,Yonah,2.0,1826.0,Socket 479,65.0,,31.0,2006-01-05
+Core Duo T2500,Yonah,2.0,1992.0,Socket 479,65.0,,31.0,2006-01-05
+Core Duo T2600,Yonah,2.0,2.166,Socket 479,65.0,,31.0,2006-01-05
+Core Duo T2700,Yonah,2.0,2.333,Socket 479,65.0,,31.0,2006-06-28
+Core Duo ULV L2400,Yonah,2.0,1066.0,Socket 479,65.0,,9.0,
+Core Duo ULV L2500,Yonah,2.0,1200.0,Socket 479,65.0,,9.0,2006-06-28
+Pentium D 915,Presler,2.0,2.8,Socket 775,65.0,,95.0,
+Pentium D 920,Presler,2.0,2.8,Socket 775,65.0,,130.0,2006-01-16
+Pentium D 925,Presler,2.0,3.0,Socket 775,65.0,,95.0,
+Pentium D 930,Presler,2.0,3.0,Socket 775,65.0,,130.0,2006-01-16
+Pentium D 940,Presler,2.0,3.2,Socket 775,65.0,,130.0,2006-01-16
+Pentium D 945,Presler,2.0,3.4,Socket 775,65.0,,95.0,
+Pentium D 950,Presler,2.0,3.4,Socket 775,65.0,,130.0,2006-01-16
+Pentium D 955 EE,Presler,2.0,3.46,Socket 775,65.0,,130.0,2006-01-16
+Pentium D 960,Presler,2.0,3.6,Socket 775,65.0,,130.0,
+Pentium D 965 EE,Presler,2.0,3.73,Socket 775,65.0,,130.0,2006-03-26
+Xeon 5020,Dempsey,2.0,2.5,Socket 771,65.0,,95.0,
+Xeon 5030,Dempsey,2.0,2.667,Socket 771,65.0,,95.0,
+Xeon 5040,Dempsey,2.0,2.83,Socket 771,65.0,,95.0,
+Xeon 5050,Dempsey,2.0,3.0,Socket 771,65.0,,95.0,
+Xeon 5060,Dempsey,2.0,3.2,Socket 771,65.0,,130.0,
+Xeon 5063,Dempsey,2.0,3.2,Socket 771,65.0,,95.0,
+Xeon 5080,Dempsey,2.0,3.73,Socket 771,65.0,,130.0,
+Xeon 5110,Woodcrest,2.0,1600.0,Socket 771,65.0,,65.0,2006-06-26
+Xeon 5120,Woodcrest,2.0,1866.0,Socket 771,65.0,,65.0,2006-06-26
+Xeon 5130,Woodcrest,2.0,2000.0,Socket 771,65.0,,65.0,2006-06-26
+Xeon 5140,Woodcrest,2.0,2.333,Socket 771,65.0,,65.0,2006-06-26
+Xeon 5148,Woodcrest,2.0,2.333,Socket 771,65.0,,40.0,2006-06-26
+Xeon 5150,Woodcrest,2.0,2.666,Socket 771,65.0,,65.0,2006-06-26
+Xeon 5160,Woodcrest,2.0,3.0,Socket 771,65.0,,80.0,2006-06-26
+Xeon 7110M,Tulsa,2.0,2.6,Socket 604,65.0,4MB,95.0,2006-08-27
+Xeon 7110N,Tulsa,2.0,2.5,Socket 604,65.0,4MB,95.0,2006-08-27
+Xeon 7120M,Tulsa,2.0,3.0,Socket 604,65.0,4MB,95.0,2006-08-27
+Xeon 7120N,Tulsa,2.0,3.0,Socket 604,65.0,4MB,95.0,2006-08-27
+Xeon 7130M,Tulsa,2.0,3.2,Socket 604,65.0,8MB,150.0,2006-08-27
+Xeon 7130N,Tulsa,2.0,3.166,Socket 604,65.0,8MB,150.0,2006-08-27
+Xeon 7140M,Tulsa,2.0,3.4,Socket 604,65.0,16MB,150.0,2006-08-27
+Xeon 7140N,Tulsa,2.0,3.333,Socket 604,65.0,16MB,150.0,2006-08-27
+Xeon 7150N,Tulsa,2.0,3.5,Socket 604,65.0,16MB,150.0,2006-08-27
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Athlon 64 2000+,Lima,1.0,1000.0,Socket AM2,65.0,,8.0,
+Athlon 64 2600+,Lima,1.0,1600.0,Socket AM2,65.0,,15.0,
+Athlon 64 2850e,Lima,1.0,1800.0,Socket AM2,65.0,,22.0,
+Athlon 64 3100+,Lima,1.0,2000.0,Socket AM2,65.0,,25.0,
+Athlon 64 LE-1640,Lima,1.0,2.7,Socket AM2,65.0,,45.0,
+Athlon 64 LE-1640B,Lima,1.0,2.7,Socket AM2,65.0,,45.0,2008-04-28
+Athlon 64 LE-1660,Lima,1.0,2.8,Socket AM2,65.0,,45.0,
+Atom 230,Diamondville,1.0,1600.0,BGA 437,45.0,,4.0,
+Atom N270,Diamondville,1.0,1600.0,BGA 437,45.0,,3.0,
+Atom N280,Diamondville,1.0,1667.0,BGA 437,45.0,,3.0,
+Atom Z500,Silverthorne,1.0,800.0,BGA 441,45.0,,1.0,
+Atom Z510,Silverthorne,1.0,1100.0,BGA 441,45.0,,2.0,
+Atom Z520,Silverthorne,1.0,1334.0,BGA 441,45.0,,2.0,
+Atom Z530,Silverthorne,1.0,1600.0,BGA 441,45.0,,2.0,
+Atom Z540,Silverthorne,1.0,1867.0,BGA 441,45.0,,2.0,
+Celeron 445,Conroe-CL,1.0,1866.0,Socket 771,65.0,,65.0,
+Celeron 450,Conroe-L,1.0,2.2,Socket 775,65.0,,35.0,
+Core 2 Solo ULV SU3300,Penryn-L,1.0,1200.0,BGA 956,45.0,,5.0,
+Nano L2100,CNA,1.0,1800.0,VIA nanoBGA2,65.0,,25.0,2008-05-29
+Nano L2200,CNA,1.0,1600.0,VIA nanoBGA2,65.0,,17.0,2008-05-29
+Nano U2300,CNA,1.0,1000.0,VIA nanoBGA2,65.0,,5.0,2008-05-29
+Nano U2350,CNA,1.0,1300.0,VIA nanoBGA2,65.0,,8.0,2008-05-29
+Nano U2400,CNA,1.0,1300.0,VIA nanoBGA2,65.0,,8.0,2008-05-29
+Nano U2500,CNA,1.0,1200.0,VIA nanoBGA2,65.0,,7.0,2008-05-29
+Athlon 64 X2 4600+,Brisbane,2.0,2.4,Socket AM2,65.0,,65.0,
+Athlon 64 X2 5400+,Brisbane,2.0,2.8,Socket AM2,65.0,,65.0,
+Athlon 64 X2 5400+ BE,Brisbane,2.0,2.8,Socket AM2,65.0,,65.0,
+Athlon 64 X2 5600+,Brisbane,2.0,2.9,Socket AM2,65.0,,65.0,
+Athlon 64 X2 5800+,Brisbane,2.0,3.0,Socket AM2,65.0,,89.0,
+Athlon X2 4050e,Brisbane,2.0,2.1,Socket AM2,65.0,,45.0,
+Athlon X2 4450e,Brisbane,2.0,2.3,Socket AM2,65.0,,45.0,
+Athlon X2 4850e,Brisbane,2.0,2.5,Socket AM2,65.0,,45.0,2008-03-05
+Athlon X2 5050e,Brisbane,2.0,2.6,Socket AM2,65.0,,45.0,
+Athlon X2 6500 BE,Kuma,2.0,2.3,Socket AM2+,65.0,2MB,95.0,2008-09-08
+Athlon X2 7450,Kuma,2.0,2.4,Socket AM2+,65.0,2MB,95.0,2008-12-15
+Athlon X2 7550,Kuma,2.0,2.5,Socket AM2+,65.0,2MB,95.0,2008-12-15
+Athlon X2 7750 BE,Kuma,2.0,2.7,Socket AM2+,65.0,2MB,95.0,2008-12-15
+Athlon X2 QL-60,Griffin,2.0,1900.0,Socket S1,65.0,,35.0,
+Athlon X2 QL-62,Griffin,2.0,2000.0,Socket S1,65.0,,25.0,
+Athlon X2 QL-64,Griffin,2.0,2.1,Socket S1,65.0,,35.0,
+Athlon X2 QL-65,Griffin,2.0,2.1,Socket S1,65.0,,35.0,
+Athlon X2 QL-67,Griffin,2.0,2.2,Socket S1,65.0,,35.0,
+Sempron X2 2100,Brisbane,2.0,1800.0,Socket AM2,65.0,,65.0,
+Sempron X2 2100,Brisbane,2.0,1800.0,Socket AM2,65.0,,65.0,
+Sempron X2 2200,Brisbane,2.0,2000.0,Socket AM2,65.0,,65.0,
+Sempron X2 2300,Brisbane,2.0,2.2,Socket AM2,65.0,,65.0,
+Turion X2 RM-72,Griffin,2.0,2.1,Socket S1,65.0,,35.0,
+Turion X2 RM-74,Griffin,2.0,2.2,Socket S1,65.0,,35.0,
+Turion X2 RM-75,Griffin,2.0,2.2,Socket S1,65.0,,35.0,
+Turion X2 RM-77,Griffin,2.0,2.3,Socket S1,65.0,,35.0,
+Turion X2 Ultra ZM-80,Griffin,2.0,2.1,Socket S1,65.0,,32.0,
+Turion X2 Ultra ZM-82,Griffin,2.0,2.2,Socket S1,65.0,,35.0,
+Turion X2 Ultra ZM-84,Griffin,2.0,2.3,Socket S1,65.0,,35.0,
+Turion X2 Ultra ZM-85,Griffin,2.0,2.3,Socket S1,65.0,,35.0,
+Turion X2 Ultra ZM-86,Griffin,2.0,2.4,Socket S1,65.0,,35.0,
+Turion X2 Ultra ZM-87,Griffin,2.0,2.4,Socket S1,65.0,,35.0,
+Turion X2 Ultra ZM-88,Griffin,2.0,2.5,Socket S1,65.0,,35.0,
+Atom 330,Diamondville,2.0,1600.0,BGA 437,45.0,,8.0,
+Celeron E1200,Allendale,2.0,1600.0,Socket 775,65.0,,65.0,2008-01-20
+Celeron E1400,Allendale,2.0,2000.0,Socket 775,65.0,,65.0,2008-04-20
+Celeron E1500,Allendale,2.0,2.2,Socket 775,65.0,,65.0,2008-11-30
+Core 2 Duo E4700,Allendale,2.0,2.6,Socket 775,65.0,,65.0,
+Core 2 Duo E7200,Wolfdale,2.0,2.533,Socket 775,45.0,,65.0,2008-04-20
+Core 2 Duo E7300,Wolfdale,2.0,2.667,Socket 775,45.0,,65.0,2008-08-10
+Core 2 Duo E7400,Wolfdale,2.0,2.8,Socket 775,45.0,,65.0,2008-10-10
+Core 2 Duo E8190,Wolfdale,2.0,2.667,Socket 775,45.0,,65.0,
+Core 2 Duo E8200,Wolfdale,2.0,2.667,Socket 775,45.0,,65.0,
+Core 2 Duo E8300,Wolfdale,2.0,2.833,Socket 775,45.0,,65.0,
+Core 2 Duo E8400,Wolfdale,2.0,3.0,Socket 775,45.0,,65.0,
+Core 2 Duo E8500,Wolfdale,2.0,3.166,Socket 775,45.0,,65.0,
+Core 2 Duo E8600,Wolfdale,2.0,3.333,Socket 775,45.0,,65.0,2008-08-08
+Core 2 Duo P8400,Penryn,2.0,2.267,Socket P,45.0,,25.0,2008-06-13
+Core 2 Duo P8600,Penryn,2.0,2.4,Socket P,45.0,,25.0,2008-06-13
+Core 2 Duo P8700,Penryn,2.0,2.533,Socket P,45.0,,25.0,2008-12-28
+Core 2 Duo P8800,Penryn,2.0,2.667,Socket P,45.0,,25.0,2008-12-28
+Core 2 Duo P9500,Penryn,2.0,2.533,Socket P,45.0,,25.0,2008-07-15
+Core 2 Duo P9600,Penryn,2.0,2.667,Socket P,45.0,,25.0,2008-12-28
+Core 2 Duo T8100,Penryn,2.0,2.1,Socket P,45.0,,35.0,2008-01-07
+Core 2 Duo T8300,Penryn,2.0,2.4,Socket P,45.0,,35.0,2008-01-07
+Core 2 Duo T9300,Penryn,2.0,2.5,Socket P,45.0,,35.0,2008-01-07
+Core 2 Duo T9400,Penryn,2.0,2.533,Socket P,45.0,,35.0,2008-07-15
+Core 2 Duo T9500,Penryn,2.0,2.6,Socket P,45.0,,35.0,2008-01-07
+Core 2 Duo T9550,Penryn,2.0,2.667,Socket P,45.0,,35.0,2008-12-28
+Core 2 Duo T9600,Penryn,2.0,2.8,Socket P,45.0,,35.0,2008-07-15
+Core 2 Duo T9800,Penryn,2.0,2.933,Socket P,45.0,,35.0,2008-12-28
+Core 2 Duo U7500,Merom,2.0,1073.0,Socket P,65.0,,10.0,2008-02-27
+Core 2 Duo U7700,Merom,2.0,1333.0,Socket P,65.0,,10.0,2008-02-27
+Core 2 Extreme X9000,Penryn XE,2.0,2.8,Socket P,45.0,,44.0,2008-01-07
+Core 2 Extreme X9100,Penryn XE,2.0,3.067,Socket P,45.0,,44.0,
+Pentium Dual-Core E2220,Allendale,2.0,2.4,Socket 775,65.0,,65.0,
+Pentium E5200,Wolfdale,2.0,2.5,Socket 775,45.0,,65.0,
+Pentium E5300,Wolfdale,2.0,2.6,Socket 775,45.0,,65.0,2008-11-30
+Opteron 2350 HE,Barcelona,4.0,2000.0,Socket Fr2,65.0,2MB,79.0,
+Phenom X4 9100e,Agena,4.0,1800.0,Socket AM2+,65.0,2MB,65.0,2008-03-27
+Phenom X4 9150e,Agena,4.0,1800.0,Socket AM2+,65.0,2MB,65.0,
+Phenom X4 9350e,Agena,4.0,2000.0,Socket AM2+,65.0,2MB,65.0,
+Phenom X4 9450e,Agena,4.0,2.1,Socket AM2+,65.0,2MB,65.0,
+Phenom X4 9550,Agena,4.0,2.2,Socket AM2+,65.0,2MB,95.0,2008-03-27
+Phenom X4 9600B,Agena,4.0,2.3,Socket AM2+,65.0,2MB,95.0,2008-04-28
+Phenom X4 9650,Agena,4.0,2.3,Socket AM2+,65.0,2MB,95.0,2008-03-27
+Phenom X4 9750 (125W),Agena,4.0,2.4,Socket AM2+,65.0,2MB,125.0,2008-03-27
+Phenom X4 9750 (95W),Agena,4.0,2.4,Socket AM2+,65.0,2MB,95.0,2008-03-27
+Phenom X4 9750B,Agena,4.0,2.4,Socket AM2+,65.0,2MB,95.0,2008-08-15
+Phenom X4 9850 (125W),Agena,4.0,2.5,Socket AM2+,65.0,2MB,125.0,
+Phenom X4 9850 (95W),Agena,4.0,2.5,Socket AM2+,65.0,2MB,95.0,
+Phenom X4 9850 BE,Agena,4.0,2.5,Socket AM2+,65.0,2MB,125.0,2008-03-27
+Phenom X4 9850B,Agena,4.0,2.5,Socket AM2+,65.0,2MB,95.0,2008-08-15
+Phenom X4 9950 BE (125W),Agena,4.0,2.6,Socket AM2+,65.0,2MB,125.0,
+Phenom X4 9950 BE (140W),Agena,4.0,2.6,Socket AM2+,65.0,2MB,140.0,2008-03-27
+Core 2 Extreme QX9300,Penryn QC XE,4.0,2.534,Socket P,45.0,,45.0,
+Core 2 Extreme QX9770,Yorkfield,4.0,3.2,Socket 775,45.0,,136.0,2008-03-24
+Core 2 Extreme QX9775,Yorkfield,4.0,3.2,Socket 771,45.0,,150.0,2008-03-24
+Core 2 Quad Q8200,Yorkfield,4.0,2.333,Socket 775,45.0,,95.0,
+Core 2 Quad Q8300,Yorkfield,4.0,2.5,Socket 775,45.0,,95.0,2008-11-30
+Core 2 Quad Q9100,Penryn QC,4.0,2.267,Socket P,45.0,,45.0,
+Core 2 Quad Q9300,Yorkfield,4.0,2.5,Socket 775,45.0,,95.0,2008-03-10
+Core 2 Quad Q9400,Yorkfield,4.0,2.666,Socket 775,45.0,,95.0,2008-08-10
+Core 2 Quad Q9450,Yorkfield,4.0,2.666,Socket 775,45.0,,95.0,2008-03-25
+Core 2 Quad Q9550,Yorkfield,4.0,2.833,Socket 775,45.0,,95.0,2008-03-25
+Core 2 Quad Q9650,Yorkfield,4.0,3.0,Socket 775,45.0,,95.0,2008-08-10
+Core i7-920,Bloomfield,4.0,2.666,Socket 1366,45.0,8MB,130.0,2008-11-17
+Core i7-940,Bloomfield,4.0,2.933,Socket 1366,45.0,8MB,130.0,2008-11-17
+Core i7-965,Bloomfield,4.0,3.2,Socket 1366,45.0,8MB,130.0,2008-11-17
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Athlon 64 2650e,Lima,1.0,1600.0,Socket AM2,65.0,,15.0,
+Athlon 64 LE-1640,Orleans,1.0,2.6,Socket AM2,90.0,,45.0,2009-01-07
+Sempron 140,Sargas,1.0,2.7,Socket AM3,45.0,,45.0,
+Atom CE4100,Sodaville,1.0,1200.0,BGA 951,45.0,,7.0,2009-09-24
+Atom CE4130,Sodaville,1.0,1200.0,BGA 951,45.0,,7.0,2009-09-24
+Atom CE4150,Sodaville,1.0,1200.0,BGA 951,45.0,,7.0,2009-09-24
+Atom N450,Pineview,1.0,1667.0,BGA 559,45.0,,6.0,
+Atom Z510P,Silverthorne,1.0,1100.0,BGA 437,45.0,,2.0,
+Atom Z510PT,Silverthorne,1.0,1100.0,BGA 437,45.0,,2.0,
+Atom Z515,Silverthorne,1.0,1200.0,BGA 441,45.0,,1.0,2009-04-08
+Atom Z520PT,Silverthorne,1.0,1334.0,BGA 437,45.0,,2.0,
+Atom Z530P,Silverthorne,1.0,1600.0,BGA 437,45.0,,2.0,
+Atom Z550,Silverthorne,1.0,2000.0,BGA 441,45.0,,2.0,2009-04-08
+Core 2 Solo ULV SU3500,Penryn-L,1.0,1400.0,BGA 956,45.0,,5.0,2009-03-29
+Pentium SU2700,Penryn,1.0,1300.0,BGA 956,45.0,,10.0,
+Athlon II X2 215,Regor,2.0,2.7,Socket AM3,45.0,,65.0,2009-10-20
+Athlon II X2 235e,Regor,2.0,2.7,Socket AM3,45.0,,45.0,2009-10-20
+Athlon II X2 240,Regor,2.0,2.8,Socket AM3,45.0,,65.0,
+Athlon II X2 240e,Regor,2.0,2.8,Socket AM3,45.0,,45.0,2009-10-20
+Athlon II X2 245,Regor,2.0,2.9,Socket AM3,45.0,,65.0,
+Athlon II X2 250,Regor,2.0,3.0,Socket AM3,45.0,,65.0,
+Athlon II X2 250u,Regor,2.0,1600.0,Socket AM3,45.0,,25.0,2009-10-20
+Athlon II X2 260u,Regor,2.0,1800.0,Socket AM3,45.0,,25.0,2009-10-20
+Athlon X2 7850 BE,Kuma,2.0,2.8,Socket AM2+,65.0,2MB,95.0,2009-04-28
+Phenom II X2 545,Callisto,2.0,3.0,Socket AM3,45.0,6MB,80.0,
+Phenom II X2 550,Callisto,2.0,3.1,Socket AM3,45.0,6MB,80.0,2009-11-04
+Phenom II X2 550 BE,Callisto,2.0,3.1,Socket AM3,45.0,6MB,80.0,
+Phenom II X2 B53,Callisto,2.0,2.8,Socket AM3,45.0,6MB,80.0,
+Phenom II X2 B55,Callisto,2.0,3.0,Socket AM3,45.0,6MB,80.0,
+Atom D510,Pineview,2.0,1667.0,BGA 437,45.0,,13.0,
+Celeron E1600,Allendale,2.0,2.4,Socket 775,65.0,,65.0,
+Celeron E3200,Wolfdale,2.0,2.4,Socket 775,45.0,,65.0,2009-08-30
+Celeron E3300,Wolfdale,2.0,2.5,Socket 775,45.0,,65.0,2009-08-30
+Core 2 Duo E7500,Wolfdale,2.0,2.933,Socket 775,45.0,,65.0,2009-01-10
+Core 2 Duo E7600,Wolfdale,2.0,3.067,Socket 775,45.0,,65.0,2009-05-10
+Core 2 Duo E8135,Penryn,2.0,2.667,Socket P,45.0,,44.0,
+Core 2 Duo E8235,Penryn,2.0,2.8,Socket P,45.0,,44.0,
+Core 2 Duo E8335,Penryn,2.0,2.933,Socket P,45.0,,44.0,
+Core 2 Duo E8435,Penryn,2.0,3.067,Socket P,45.0,,44.0,
+Core 2 Duo P9700,Penryn,2.0,2.8,Socket P,45.0,,28.0,
+Core 2 Duo T9900,Penryn,2.0,3.067,Socket P,45.0,,35.0,
+Pentium Dual-Core E2210,Wolfdale,2.0,2.2,Socket 775,45.0,,65.0,
+Pentium Dual-Core T4200,Penryn,2.0,2000.0,Socket P,45.0,,35.0,
+Pentium Dual-Core T4300,Penryn,2.0,2.1,Socket P,45.0,,35.0,
+Pentium Dual-Core T4400,Penryn,2.0,2.2,Socket P,45.0,,35.0,
+Pentium E5400,Wolfdale,2.0,2.7,Socket 775,45.0,,65.0,2009-01-18
+Pentium E6300,Wolfdale,2.0,2.8,Socket 775,45.0,,65.0,2009-05-09
+Pentium E6500,Wolfdale,2.0,2.933,Socket 775,45.0,,65.0,2009-08-09
+Pentium E6500K,Wolfdale,2.0,2.933,Socket 775,45.0,,65.0,2009-08-09
+Pentium SU4100,Penryn,2.0,1300.0,BGA 956,45.0,,10.0,
+Xeon E5502,Gainestown,2.0,1866.0,Socket 1366,45.0,4MB,80.0,2009-03-30
+Xeon L5508,Gainestown,2.0,2.0,Socket 1366,45.0,8MB,38.0,2009-03-30
+Xeon W3503,Bloomfield,2.0,2.4,Socket 1366,45.0,4MB,130.0,2009-03-30
+Xeon W3505,Bloomfield,2.0,2.533,Socket 1366,45.0,4MB,130.0,2009-03-30
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+FX-6330,Vishera,6.0,3.6,Socket AM3+,32.0,8MB,125.0,2015-12-15
+Xeon D-1528,Broadwell,6.0,1.9,BGA 1667,14.0,1.5MB,35.0,
+Xeon D-1531,Broadwell,6.0,2.2,BGA 1667,14.0,1.5MB,35.0,
+Xeon E5-4655 V3,Haswell-EP,6.0,2.9,Socket 2011-3,22.0,30MB,135.0,
+Xeon D-1537,Broadwell,8.0,1.7,BGA 1667,14.0,1.5MB,35.0,
+Xeon D-1540,Broadwell,8.0,2.0,BGA 1667,14.0,1.5MB,45.0,2015-03-09
+Xeon D-1541,Broadwell,8.0,2.1,BGA 1667,14.0,1.5MB,45.0,
+Xeon D-1548,Broadwell,8.0,2.0,BGA 1667,14.0,1.5MB,45.0,
+Xeon E7-4809 v3,Haswell-EX,8.0,2000.0,Socket 2011-1,22.0,20MB,115.0,
+No CPUs found. Please change your search criteria.,,,,,,,,
+A6-7470K,Godaveri,2.0,3.7,Socket FM2+,28.0,,65.0,
+A6-9500,Bristol Ridge,2.0,3.5,Socket AM4,28.0,,65.0,2016-09-05
+A6-9500E,Bristol Ridge,2.0,3.0,Socket AM4,28.0,,35.0,2016-09-05
+A9-9400 SoC,Stoney Ridge,2.0,2.4,Socket FT4,28.0,,10.0,
+A9-9410 SoC,Stoney Ridge,2.0,2.9,Socket FP4,28.0,,25.0,
+A9-9420 SoC,Stoney Ridge,2.0,3.0,Socket FT4,28.0,,15.0,
+A9-9425 SoC,Stoney Ridge,2.0,3.1,Socket FT4,28.0,,15.0,
+PRO A6-9500,Bristol Ridge,2.0,3.5,Socket AM4,28.0,,65.0,
+PRO A6-9500E,Bristol Ridge,2.0,3.0,Socket AM4,28.0,,35.0,
+A10-7860K,Godaveri,4.0,3.6,Socket FM2+,28.0,,65.0,
+A10-7890K,Godaveri,4.0,4.0,Socket FM2+,28.0,,95.0,2016-01-11
+Athlon X4 845,Carrizo,4.0,3.5,Socket FM2+,28.0,,65.0,
+Opteron A1120,Seattle,4.0,1700.0,Socket SP1,28.0,8MB,25.0,2016-01-14
+Opteron X2170,Steppe Eagle,4.0,2.4,Socket FT3,28.0,,25.0,
+PRO A10-8770,Carrizo,4.0,3.5,Socket AM4,28.0,,65.0,
+PRO A10-8770E,Carrizo,4.0,2.8,Socket AM4,28.0,,35.0,
+PRO A10-9700E,Bristol Ridge,4.0,3.0,Socket AM4,28.0,,35.0,
+PRO A12-8870,Carrizo,4.0,3.7,Socket AM4,28.0,,65.0,
+PRO A12-8870E,Carrizo,4.0,2.9,Socket AM4,28.0,,35.0,
+PRO A12-9800,Bristol Ridge,4.0,3.8,Socket AM4,28.0,,65.0,
+PRO A8-9600,Bristol Ridge,4.0,3.1,Socket AM4,28.0,,65.0,
+Core i5-6350HQ,Skylake-H,4.0,2.3,BGA 1440,14.0,6MB,45.0,2016-01-24
+Core i7-6800K,Broadwell-E,6.0,3.4,Socket 2011-3,14.0,15MB,140.0,
+Core i7-6850K,Broadwell-E,6.0,3.6,Socket 2011-3,14.0,15MB,140.0,
+Opteron A1150,Seattle,8.0,1700.0,Socket SP1,28.0,8MB,32.0,2016-01-14
+Opteron A1170,Seattle,8.0,2000.0,Socket SP1,28.0,8MB,32.0,2016-01-14
+Core i7-6900K,Broadwell-E,8.0,3.2,Socket 2011-3,14.0,20MB,140.0,
+No CPUs found. Please change your search criteria.,,,,,,,,
+A6-9550,Bristol Ridge,2.0,3.8,Socket AM4,28.0,,65.0,2017-07-27
+Celeron G3930,Kaby Lake,2.0,2.9,Socket 1151,14.0,2MB,51.0,
+Celeron G3930T,Kaby Lake,2.0,2.7,Socket 1151,14.0,2MB,35.0,
+Celeron G3950,Kaby Lake,2.0,3.0,Socket 1151,14.0,2MB,51.0,
+Core i3-7100,Kaby Lake,2.0,3.9,Socket 1151,14.0,3MB,51.0,
+Core i3-7100T,Kaby Lake,2.0,3.4,Socket 1151,14.0,3MB,35.0,
+Core i3-7120,Kaby Lake,2.0,4.0,Socket 1151,14.0,3MB,51.0,2017-07-17
+Core i3-7120T,Kaby Lake,2.0,3.6,Socket 1151,14.0,3MB,35.0,2017-07-17
+Core i3-7300,Kaby Lake,2.0,4.0,Socket 1151,14.0,4MB,51.0,
+Core i3-7300T,Kaby Lake,2.0,3.5,Socket 1151,14.0,4MB,35.0,
+Core i3-7320,Kaby Lake,2.0,4.1,Socket 1151,14.0,4MB,51.0,
+Core i3-7320T,Kaby Lake,2.0,3.6,Socket 1151,14.0,4MB,35.0,2017-07-17
+Core i3-7340,Kaby Lake,2.0,4.2,Socket 1151,14.0,4MB,51.0,2017-07-17
+Core i3-7350K,Kaby Lake,2.0,4.2,Socket 1151,14.0,4MB,60.0,
+Core i3-7360X,Kaby Lake,2.0,4.3,Socket 2066,14.0,4MB,112.0,
+Pentium G4560,Kaby Lake,2.0,3.5,Socket 1151,14.0,3MB,51.0,
+Pentium G4560T,Kaby Lake,2.0,2.9,Socket 1151,14.0,3MB,35.0,
+Pentium G4600,Kaby Lake,2.0,3.6,Socket 1151,14.0,3MB,51.0,
+Pentium G4600T,Kaby Lake,2.0,3.0,Socket 1151,14.0,3MB,35.0,
+Pentium G4620,Kaby Lake,2.0,3.7,Socket 1151,14.0,3MB,51.0,
+A10-9700,Bristol Ridge,4.0,3.5,Socket AM4,28.0,,65.0,2017-07-27
+A10-9700E,Bristol Ridge,4.0,3.0,Socket AM4,28.0,,35.0,2017-07-27
+A12-9800,Bristol Ridge,4.0,3.8,Socket AM4,28.0,,65.0,2017-07-27
+A12-9800E,Bristol Ridge,4.0,3.1,Socket AM4,28.0,,35.0,2017-07-27
+A8-9600,Bristol Ridge,4.0,3.1,Socket AM4,28.0,,65.0,2017-07-27
+Athlon X4 940,Bristol Ridge,4.0,3.2,Socket AM4,28.0,,65.0,2017-07-27
+Athlon X4 950,Bristol Ridge,4.0,3.5,Socket AM4,28.0,,65.0,2017-07-27
+Athlon X4 970,Bristol Ridge,4.0,3.8,Socket AM4,28.0,,65.0,2017-07-27
+PRO A10-9700,Bristol Ridge,4.0,3.5,Socket AM4,28.0,,65.0,2017-07-27
+PRO A12-9800E,Bristol Ridge,4.0,3.1,Socket AM4,28.0,,35.0,2017-07-27
+Ryzen 3 1200,Zen,4.0,3.1,Socket AM4,14.0,8MB,65.0,2017-07-27
+Ryzen 3 1300,Zen,4.0,3.2,Socket AM4,14.0,8MB,65.0,2017-04-11
+Ryzen 3 1300X,Zen,4.0,3.4,Socket AM4,14.0,8MB,65.0,2017-07-27
+Ryzen 3 PRO 1200,Zen,4.0,3.1,Socket AM4,14.0,8MB,65.0,2017-06-29
+Ryzen 3 PRO 1300,Zen,4.0,3.5,Socket AM4,14.0,8MB,65.0,2017-06-29
+Ryzen 5 1400,Zen,4.0,3.2,Socket AM4,14.0,8MB,65.0,2017-04-11
+Ryzen 5 1500X,Zen,4.0,3.5,Socket AM4,14.0,16MB,65.0,2017-04-11
+Ryzen 5 2500U,Raven Ridge,4.0,2.0,Socket FP5,14.0,4MB,15.0,2017-10-26
+Ryzen 5 PRO 1500,Zen,4.0,3.5,Socket AM4,14.0,16MB,65.0,2017-06-29
+Ryzen 7 2700U,Raven Ridge,4.0,2.2,Socket FP5,14.0,4MB,15.0,2017-10-26
+Ryzen 7 PRO 2700U,Raven Ridge,4.0,2.2,Socket FP5,14.0,4MB,15.0,2017-10-26
+Core i3-8100,Coffee Lake,4.0,2.8,Socket 1151,14.0,6MB,62.0,2017-10-05
+Core i3-8350K,Coffee Lake,4.0,4.0,Socket 1151,14.0,8MB,91.0,2017-10-05
+Core i5-7300HQ,Kaby Lake-H,4.0,2.5,BGA 1440,14.0,6MB,45.0,
+Core i5-7400,Kaby Lake,4.0,3.0,Socket 1151,14.0,6MB,65.0,
+Core i5-7400T,Kaby Lake,4.0,2.4,Socket 1151,14.0,6MB,35.0,
+Core i5-7500,Kaby Lake,4.0,3.4,Socket 1151,14.0,6MB,65.0,
+Core i5-7500T,Kaby Lake,4.0,2.7,Socket 1151,14.0,6MB,35.0,
+Core i5-7600,Kaby Lake,4.0,3.5,Socket 1151,14.0,6MB,65.0,
+Core i5-7600K,Kaby Lake,4.0,3.8,Socket 1151,14.0,6MB,91.0,
+Core i5-7600T,Kaby Lake,4.0,2.8,Socket 1151,14.0,6MB,35.0,
+Core i5-7640X,Kaby Lake-X,4.0,3.9,Socket 2066,14.0,6MB,112.0,2017-06-26
+Core i5-8250U,Kaby Lake-R,4.0,1.6,BGA 1356,14.0,6MB,15.0,
+Core i5-8350U,Kaby Lake-R,4.0,1.7,BGA 1356,14.0,6MB,15.0,
+Core i7-7700,Kaby Lake,4.0,3.6,Socket 1151,14.0,8MB,65.0,
+Core i7-7700K,Kaby Lake,4.0,4.2,Socket 1151,14.0,8MB,91.0,
+Core i7-7700T,Kaby Lake,4.0,2.9,Socket 1151,14.0,8MB,35.0,
+Core i7-7740X,Kaby Lake-X,4.0,4.3,Socket 2066,14.0,8MB,112.0,2017-06-26
+Core i7-8550U,Kaby Lake-R,4.0,1.8,BGA 1356,14.0,8MB,15.0,
+Core i7-8650U,Kaby Lake-R,4.0,1.9,BGA 1356,14.0,8MB,15.0,
+Pentium Silver J5005,Coffee Lake,4.0,1.5,BGA 1090,14.0,,10.0,
+Xeon E3-1285 v6,Kaby Lake-DT,4.0,4.1,Socket 1151,14.0,8MB,79.0,
+Xeon W-2102,Skylake-W,4.0,2.9,Socket 2066,14.0,8.25MB,120.0,2017-08-29
+Xeon W-2104,Skylake-W,4.0,3.2,Socket 2066,14.0,8.25MB,120.0,2017-08-29
+Xeon W-2123,Skylake-W,4.0,3.6,Socket 2066,14.0,8.25MB,120.0,2017-08-29
+Xeon W-2125,Skylake-W,4.0,4.0,Socket 2066,14.0,8.25MB,120.0,2017-08-29
+Ryzen 5 1600,Zen,6.0,3.2,Socket AM4,14.0,16MB,65.0,2017-04-11
+Ryzen 5 1600X,Zen,6.0,3.6,Socket AM4,14.0,16MB,95.0,2017-04-11
+Ryzen 5 PRO 1600,Zen,6.0,3.2,Socket AM4,14.0,16MB,65.0,2017-06-29
+Core i5-8400,Coffee Lake,6.0,2.8,Socket 1151,14.0,9MB,65.0,2017-10-05
+Core i5-8600K,Coffee Lake,6.0,3.6,Socket 1151,14.0,9MB,95.0,2017-10-05
+Core i7-7800X,Skylake-X,6.0,3.5,Socket 2066,14.0,8.25MB,140.0,2017-06-26
+Core i7-8700K,Coffee Lake,6.0,3.7,Socket 1151,14.0,12MB,95.0,2017-10-05
+Xeon W-2133,Skylake-W,6.0,3.6,Socket 2066,14.0,8.25MB,140.0,2017-08-29
+Xeon W-2135,Skylake-W,6.0,3.7,Socket 2066,14.0,8.25MB,140.0,2017-08-29
+No CPUs found. Please change your search criteria.,,,,,,,,
+Pentium Gold G6405,Comet Lake-R,2.0,4.1,Socket 1200,14.0,4MB,65.0,2021-03-16
+Pentium Gold G6405T,Comet Lake-R,2.0,3.5,Socket 1200,14.0,4MB,35.0,2021-03-16
+Pentium Gold G6505,Comet Lake-R,2.0,4.2,Socket 1200,14.0,4MB,65.0,2021-03-16
+Pentium Gold G6505T,Comet Lake-R,2.0,3.6,Socket 1200,14.0,4MB,35.0,2021-03-16
+Pentium Gold G6605,Comet Lake-R,2.0,4.3,Socket 1200,14.0,4MB,65.0,2021-03-16
+Ryzen 3 5300G,Cezanne,4.0,4.0,Socket AM4,7.0,8MB,65.0,2021-04-13
+Ryzen 3 5300U,Lucienne,4.0,2.6,Socket FP6,7.0,4MB,15.0,2021-01-12
+Ryzen 3 5400U,Cezanne-U,4.0,2.6,Socket FP6,7.0,8MB,15.0,2021-01-12
+Ryzen 3 PRO 5350G,Cezanne,4.0,4.0,Socket AM4,7.0,8MB,65.0,
+Ryzen 3 PRO 5350GE,Cezanne,4.0,3.6,Socket AM4,7.0,8MB,35.0,
+Ryzen 3 PRO 5450U,Cezanne-U,4.0,2.6,Socket FP6,7.0,8MB,15.0,2021-03-16
+Core i3-10105,Comet Lake-R,4.0,3.7,Socket 1200,14.0,6MB,65.0,2021-03-16
+Core i3-10105F,Comet Lake-R,4.0,3.7,Socket 1200,14.0,6MB,65.0,2021-03-16
+Core i3-10105T,Comet Lake-R,4.0,3.0,Socket 1200,14.0,6MB,35.0,2021-03-16
+Core i3-10305,Comet Lake-R,4.0,3.8,Socket 1200,14.0,8MB,65.0,2021-03-16
+Core i3-10305T,Comet Lake-R,4.0,3.0,Socket 1200,14.0,8MB,35.0,2021-03-16
+Core i3-10325,Comet Lake-R,4.0,3.9,Socket 1200,14.0,8MB,65.0,2021-03-16
+Core i5-11300H,Tiger Lake-H,4.0,2.6,BGA 1449,10.0,8MB,28.0,2021-01-11
+Core i5-11320H,Tiger Lake-H,4.0,2.5,BGA 1449,10.0,8MB,28.0,
+Core i5-1155G7,Tiger Lake-U,4.0,2.5,BGA 1449,10.0,8MB,28.0,
+Core i7-11370H,Tiger Lake-H,4.0,3.0,BGA 1449,10.0,12MB,28.0,2021-01-11
+Core i7-11375H,Tiger Lake-H,4.0,3.0,BGA 1449,10.0,12MB,28.0,2021-01-11
+Core i7-11390H,Tiger Lake-H,4.0,2.9,BGA 1449,10.0,12MB,28.0,
+Core i7-1195G7,Tiger Lake-U,4.0,2.9,BGA 1449,10.0,12MB,28.0,
+Xeon E-2314,Rocket Lake-E,4.0,2.8,Socket 1200,14.0,8MB,65.0,2021-09-08
+Xeon E-2324G,Rocket Lake-E,4.0,3.1,Socket 1200,14.0,8MB,65.0,2021-09-08
+Xeon E-2334,Rocket Lake-E,4.0,3.4,Socket 1200,14.0,8MB,65.0,2021-09-08
+Xeon E-2374G,Rocket Lake-E,4.0,3.7,Socket 1200,14.0,8MB,80.0,2021-09-08
+Ryzen 5 5500U,Lucienne,6.0,2.1,Socket FP6,7.0,8MB,15.0,2021-01-12
+Ryzen 5 5600G,Cezanne,6.0,3.9,Socket AM4,7.0,16MB,65.0,2021-04-13
+Ryzen 5 5600U,Cezanne-U,6.0,2.3,Socket FP6,7.0,16MB,15.0,2021-01-12
+Ryzen 5 PRO 5650G,Cezanne,6.0,3.9,Socket AM4,7.0,16MB,65.0,
+Ryzen 5 PRO 5650GE,Cezanne,6.0,3.4,Socket AM4,7.0,16MB,35.0,
+Ryzen 5 PRO 5650U,Cezanne-U,6.0,2.3,Socket FP6,7.0,16MB,15.0,2021-03-16
+Core i5-11260H,Tiger Lake-H,6.0,2.1,BGA 1787,10.0,12MB,35.0,2021-05-11
+Core i5-11400,Rocket Lake,6.0,2.6,Socket 1200,14.0,12MB,65.0,2021-03-16
+Core i5-11400F,Rocket Lake,6.0,2.6,Socket 1200,14.0,12MB,65.0,2021-03-16
+Core i5-11400H,Tiger Lake-H,6.0,2.2,BGA 1787,10.0,12MB,35.0,2021-05-11
+Core i5-11400T,Rocket Lake,6.0,1.3,Socket 1200,14.0,12MB,35.0,2021-03-16
+Core i5-11500,Rocket Lake,6.0,2.7,Socket 1200,14.0,12MB,65.0,2021-03-16
+Core i5-11500H,Tiger Lake-H,6.0,2.4,BGA 1787,10.0,12MB,35.0,2021-05-11
+Core i5-11500T,Rocket Lake,6.0,1.5,Socket 1200,14.0,12MB,35.0,2021-03-16
+Core i5-11600,Rocket Lake,6.0,2.8,Socket 1200,14.0,12MB,65.0,2021-03-16
+Core i5-11600K,Rocket Lake,6.0,3.9,Socket 1200,14.0,12MB,125.0,2021-03-16
+Core i5-11600KF,Rocket Lake,6.0,3.9,Socket 1200,14.0,12MB,125.0,2021-03-16
+Core i5-11600T,Rocket Lake,6.0,1.7,Socket 1200,14.0,12MB,35.0,2021-03-16
+Core i7-11600H,Tiger Lake-H,6.0,2.5,BGA 1787,10.0,18MB,35.0,2021-05-11
+Xeon E-2336,Rocket Lake-E,6.0,2.9,Socket 1200,14.0,12MB,65.0,2021-09-08
+Xeon E-2356G,Rocket Lake-E,6.0,3.2,Socket 1200,14.0,12MB,80.0,2021-09-08
+Xeon E-2386G,Rocket Lake-E,6.0,3.5,Socket 1200,14.0,12MB,95.0,2021-09-08
+Xeon W-11855M,Tiger Lake-H,6.0,3.2,BGA 1787,10.0,18MB,35.0,2021-05-11
+EPYC 72F3,Milan,8.0,3.7,Socket SP3,7.0,256MB,180.0,2021-03-15
+Ryzen 7 5700G,Cezanne,8.0,3.8,Socket AM4,7.0,16MB,65.0,2021-04-13
+Ryzen 7 5700U,Lucienne,8.0,1.8,Socket FP6,7.0,8MB,15.0,2021-01-12
+Ryzen 7 5800,Vermeer,8.0,3.4,Socket AM4,7.0,32MB,65.0,2021-01-12
+Ryzen 7 5800G,Cezanne,8.0,3.8,Socket AM4,7.0,16MB,65.0,
+Ryzen 7 5800H,Cezanne,8.0,3.2,Socket FP6,7.0,16MB,45.0,2021-01-12
+Ryzen 7 5800HS,Cezanne,8.0,2.8,Socket FP6,7.0,16MB,35.0,2021-01-12
+Ryzen 7 5800U,Cezanne-U,8.0,1.9,Socket FP6,7.0,16MB,15.0,2021-01-12
+Ryzen 7 PRO 5750G,Cezanne,8.0,3.8,Socket AM4,7.0,16MB,65.0,
+Ryzen 7 PRO 5750GE,Cezanne,8.0,3.2,Socket AM4,7.0,16MB,35.0,
+Ryzen 7 PRO 5850U,Cezanne-U,8.0,1.9,Socket FP6,7.0,16MB,15.0,2021-03-16
+Ryzen 9 5900HX,Cezanne,8.0,3.3,Socket FP6,7.0,16MB,45.0,2021-01-12
+Ryzen 9 5980HS,Cezanne,8.0,3.0,Socket FP6,7.0,16MB,35.0,2021-01-12
+Core i7-11700,Rocket Lake,8.0,2.5,Socket 1200,14.0,16MB,65.0,2021-03-16
+Core i7-11700F,Rocket Lake,8.0,2.5,Socket 1200,14.0,16MB,65.0,2021-03-16
+Core i7-11700K,Rocket Lake,8.0,3.6,Socket 1200,14.0,16MB,125.0,2021-03-16
+Core i7-11700KF,Rocket Lake,8.0,3.6,Socket 1200,14.0,16MB,125.0,2021-03-16
+Core i7-11700T,Rocket Lake,8.0,1.4,Socket 1200,14.0,16MB,35.0,2021-03-16
+Core i7-11800H,Tiger Lake-H,8.0,1.9,BGA 1787,10.0,24MB,35.0,2021-05-11
+Core i7-11850H,Tiger Lake-H,8.0,2.1,BGA 1787,10.0,24MB,35.0,2021-05-11
+Core i9-11900,Rocket Lake,8.0,2.5,Socket 1200,14.0,16MB,65.0,2021-03-16
+Core i9-11900F,Rocket Lake,8.0,2.5,Socket 1200,14.0,16MB,65.0,2021-03-16
+Core i9-11900H,Tiger Lake-H,8.0,2.1,BGA 1787,10.0,24MB,35.0,2021-05-11
+Core i9-11900K,Rocket Lake,8.0,3.5,Socket 1200,14.0,16MB,125.0,2021-03-16
+Core i9-11900KB,Tiger Lake-H,8.0,3.3,BGA 1787,10.0,24MB,65.0,
+Core i9-11900KF,Rocket Lake,8.0,3.5,Socket 1200,14.0,16MB,125.0,2021-03-16
+Core i9-11900T,Rocket Lake,8.0,1.5,Socket 1200,14.0,16MB,35.0,2021-03-16
+Core i9-11950H,Tiger Lake-H,8.0,2.1,BGA 1787,10.0,24MB,35.0,2021-05-11
+Core i9-11980HK,Tiger Lake-H,8.0,2.6,BGA 1787,10.0,24MB,45.0,2021-05-11
+Xeon E-2378,Rocket Lake-E,8.0,2.6,Socket 1200,14.0,16MB,65.0,2021-09-08
+Xeon E-2378G,Rocket Lake-E,8.0,2.8,Socket 1200,14.0,16MB,80.0,2021-09-08
+Xeon E-2388G,Rocket Lake-E,8.0,3.2,Socket 1200,14.0,16MB,95.0,2021-09-08
+Xeon Gold 5315Y,Ice Lake-SP,8.0,3.2,Socket 4189,10.0,12MB,140.0,2021-04-06
+Xeon Gold 6334,Ice Lake-SP,8.0,3.6,Socket 4189,10.0,18MB,165.0,2021-04-06
+Xeon Platinum 8356H,Cooper Lake-SP,8.0,3.9,Socket 4189,14.0,35.75MB,190.0,2021-04-06
+Xeon Silver 4309Y,Ice Lake-SP,8.0,2.8,Socket 4189,10.0,12MB,105.0,2021-04-06
+Xeon W-11955M,Tiger Lake-H,8.0,2.1,BGA 1499,10.0,24MB,35.0,2021-05-11
+Core 2 Extreme QX6700,Kentsfield,4.0,2.666,Socket 775,65.0,,130.0,
+No CPUs found. Please change your search criteria.,,,,,,,,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Athlon 64 3200+,Lima,1.0,2000.0,Socket AM2,65.0,,45.0,2007-02-20
+Athlon 64 3500+,Windsor,1.0,2.2,Socket AM2,90.0,,62.0,2007-02-20
+Athlon 64 3500+,Lima,1.0,2.2,Socket AM2,65.0,,45.0,2007-02-20
+Athlon 64 3500+ (F3),Orleans,1.0,2.2,Socket AM2,90.0,,59.0,2007-02-20
+Athlon 64 3500+ EE,Orleans,1.0,2.2,Socket AM2,90.0,,35.0,2007-02-20
+Athlon 64 3800+,Windsor,1.0,2.4,Socket AM2,90.0,,62.0,2007-02-20
+Athlon 64 3800+,Lima,1.0,2.4,Socket AM2,65.0,,45.0,2007-02-20
+Athlon 64 3800+ (F3),Orleans,1.0,2.4,Socket AM2,90.0,,59.0,2007-02-20
+Athlon 64 4000+,Windsor,1.0,2.6,Socket AM2,90.0,,62.0,2007-02-20
+Athlon 64 4000+ (F3),Orleans,1.0,2.6,Socket AM2,90.0,,59.0,2007-02-20
+Athlon 64 LE-1600,Orleans,1.0,2.2,Socket AM2,90.0,,45.0,2007-10-08
+Athlon 64 LE-1600,Windsor,1.0,2.2,Socket AM2,90.0,,45.0,2007-10-08
+Athlon 64 LE-1620,Orleans,1.0,2.4,Socket AM2,90.0,,45.0,2007-10-08
+Athlon 64 LE-1620,Windsor,1.0,2.4,Socket AM2,90.0,,45.0,2007-10-08
+Athlon 64 LE-1640,Windsor,1.0,2.6,Socket AM2,90.0,,45.0,2007-10-08
+Sempron LE-1100,Sparta,1.0,1900.0,Socket AM2,65.0,,45.0,
+Sempron LE-1150,Sparta,1.0,2000.0,Socket AM2,65.0,,45.0,
+Sempron LE-1200,Sparta,1.0,2.1,Socket AM2,65.0,,45.0,
+Sempron LE-1250,Sparta,1.0,2.2,Socket AM2,65.0,,45.0,2007-10-08
+Sempron LE-1300,Sparta,1.0,2.3,Socket AM2,65.0,,45.0,2007-10-08
+A100,Stealey,1.0,600.0,BGA 437,90.0,,3.0,
+A110,Stealey,1.0,800.0,BGA 437,90.0,,3.0,
+Celeron 220,Conroe-L,1.0,1200.0,Socket 479,65.0,,19.0,
+Celeron 420,Conroe-L,1.0,1600.0,Socket 775,65.0,,35.0,
+Celeron 430,Conroe-L,1.0,1800.0,Socket 775,65.0,,35.0,
+Celeron 440,Conroe-L,1.0,2000.0,Socket 775,65.0,,35.0,
+Core 2 Solo ULV U2100,Merom-L,1.0,1067.0,BGA 956,65.0,,5.0,
+Core 2 Solo ULV U2200,Merom-L,1.0,1200.0,BGA 956,65.0,,5.0,
+No CPUs found. Please change your search criteria.,,,,,,,,
+Atom x7211E,,,,,,,,
+Atom x7213E,,,,,,,,
+Processor N50,,,,,,,,
+Ryzen 3 7330U,,,,,,,,
+Ryzen 3 7335U,,,,,,,,
+Atom x7425E,,,,,,,,
+Core i3-13100,,,,,,,,
+Core i3-13100F,,,,,,,,
+Core i3-13100T,,,,,,,,
+Processor N100,,,,,,,,
+Processor N200,,,,,,,,
+Processor N97,,,,,,,,
+Ryzen 5 7530U,,,,,,,,
+Ryzen 5 7535HS,,,,,,,,
+Ryzen 5 7535U,,,,,,,,
+Ryzen 5 7600,,,,,,,,
+Ryzen 5 7640HS,,,,,,,,
+Ryzen 5 7645HX,,,,,,,,
+Ryzen 7 7700,,,,,,,,
+Ryzen 7 7730U,,,,,,,,
+Ryzen 7 7735HS,,,,,,,,
+Ryzen 7 7735U,,,,,,,,
+Ryzen 7 7745HX,,,,,,,,
+Ryzen 7 7800X3D,,,,,,,,
+Ryzen 7 7840HS,,,,,,,,
+Ryzen 9 7940HS,,,,,,,,
+Core i3-N300,,,,,,,,
+Core i3-N305,,,,,,,,
+Sempron 145,Sargas,1.0,2.8,Socket AM3,45.0,,45.0,
+Sempron 150,Sargas,1.0,2.9,Socket AM3,45.0,,45.0,2010-12-07
+Atom D410,Pineview,1.0,1667.0,BGA 437,45.0,,10.0,2010-01-04
+Atom D425,Pineview,1.0,1834.0,BGA 437,45.0,,10.0,
+Atom E620,Tunnel Creek,1.0,600.0,BGA 676,45.0,,3.0,2010-09-14
+Atom E620T,Tunnel Creek,1.0,600.0,BGA 676,45.0,,3.0,2010-09-14
+Atom E625C,Stellarton,1.0,600.0,BGA 1466,45.0,,3.0,
+Atom E625CT,Stellarton,1.0,600.0,BGA 1466,45.0,,3.0,
+Atom E640,Tunnel Creek,1.0,1000.0,BGA 676,45.0,,3.0,2010-09-14
+Atom E640T,Tunnel Creek,1.0,1000.0,BGA 676,45.0,,3.0,2010-09-14
+Atom E645C,Stellarton,1.0,1000.0,BGA 1466,45.0,,4.0,
+Atom E645CT,Stellarton,1.0,1000.0,BGA 1466,45.0,,4.0,
+Atom E660,Tunnel Creek,1.0,1300.0,BGA 676,45.0,,3.0,2010-09-14
+Atom E660T,Tunnel Creek,1.0,1300.0,BGA 676,45.0,,3.0,2010-09-14
+Atom E665C,Stellarton,1.0,1300.0,BGA 1466,45.0,,4.0,
+Atom E665CT,Stellarton,1.0,1300.0,BGA 1466,45.0,,7.0,
+Atom E680,Tunnel Creek,1.0,1600.0,BGA 676,45.0,,4.0,2010-09-14
+Atom E680T,Tunnel Creek,1.0,1600.0,BGA 676,45.0,,4.0,2010-09-14
+Atom N455,Pineview,1.0,1667.0,BGA 559,45.0,,7.0,
+Atom N470,Pineview,1.0,1834.0,BGA 559,45.0,,7.0,
+Atom N475,Pineview,1.0,1834.0,BGA 559,45.0,,7.0,
+Atom Z560,Silverthorne,1.0,2.133,BGA 441,45.0,,2.0,
+Atom Z600,Lincroft,1.0,1200.0,BGA 518,45.0,,1.0,2010-05-04
+Atom Z605,Lincroft,1.0,1000.0,BGA 518,45.0,,2.0,2010-05-04
+Atom Z610,Lincroft,1.0,800.0,BGA 518,45.0,,1.0,2010-05-04
+Atom Z612,Lincroft,1.0,900.0,BGA 518,45.0,,1.0,2010-05-04
+Atom Z615,Lincroft,1.0,1600.0,BGA 518,45.0,,2.0,2010-05-04
+Atom Z620,Lincroft,1.0,900.0,BGA 518,45.0,,1.0,2010-05-04
+Atom Z625,Lincroft,1.0,1900.0,BGA 518,45.0,,2.0,2010-05-04
+Celeron P1053,Jasper Forest,1.0,1333.0,Socket 1366,45.0,2MB,30.0,2010-02-12
+Athlon II X2 210e,Regor,2.0,2.6,Socket AM3,45.0,,45.0,
+Athlon II X2 220,Regor,2.0,2.8,Socket AM3,45.0,,65.0,
+Athlon II X2 245e,Regor,2.0,2.9,Socket AM3,45.0,,45.0,2010-05-11
+Athlon II X2 250e,Regor,2.0,3.0,Socket AM3,45.0,,45.0,
+Athlon II X2 255,Regor,2.0,3.1,Socket AM3,45.0,,65.0,2010-01-25
+Athlon II X2 260,Regor,2.0,3.2,Socket AM3,45.0,,65.0,2010-05-11
+Athlon II X2 265,Regor,2.0,3.3,Socket AM3,45.0,,65.0,
+Athlon II X2 270u,Regor,2.0,2000.0,Socket AM3,45.0,,25.0,
+Phenom II X2 555 BE,Callisto,2.0,3.2,Socket AM3,45.0,6MB,80.0,2010-01-25
+Phenom II X2 560 BE,Callisto,2.0,3.3,Socket AM3,45.0,6MB,80.0,
+Phenom II X2 565 BE,Callisto,2.0,3.4,Socket AM3,45.0,6MB,80.0,2010-12-07
+Phenom II X2 570 BE,Callisto,2.0,3.5,Socket AM3,45.0,6MB,80.0,
+Phenom II X2 B57,Callisto,2.0,3.2,Socket AM3,45.0,6MB,80.0,2010-05-11
+Sempron 180,Regor,2.0,2.4,Socket AM3,45.0,,45.0,
+Atom D525,Pineview,2.0,1834.0,BGA 437,45.0,,13.0,
+Atom N550,Pineview,2.0,1500.0,BGA 559,45.0,,9.0,
+Celeron E3400,Wolfdale,2.0,2.6,Socket 775,45.0,,65.0,2010-01-17
+Celeron E3500,Wolfdale,2.0,2.7,Socket 775,45.0,,65.0,2010-08-29
+Celeron G1101,Clarkdale,2.0,2.266,Socket 1156,32.0,2MB,73.0,2010-01-07
+Core i3-350M,Arrandale,2.0,2.267,Socket G1,32.0,3MB,35.0,2010-01-07
+Core i3-370M,Arrandale,2.0,2.4,Socket G1,32.0,3MB,35.0,2010-06-20
+Core i3-380M,Arrandale,2.0,2.534,Socket G1,32.0,3MB,35.0,2010-10-26
+Core i3-530,Clarkdale,2.0,2.933,Socket 1156,32.0,4MB,73.0,2010-01-07
+Core i3-540,Clarkdale,2.0,3.066,Socket 1156,32.0,4MB,73.0,2010-01-07
+Core i3-550,Clarkdale,2.0,3.2,Socket 1156,32.0,4MB,73.0,2010-05-30
+Core i3-560,Clarkdale,2.0,3.333,Socket 1156,32.0,4MB,73.0,2010-08-29
+Core i5-430M,Arrandale,2.0,2.267,Socket G1,32.0,3MB,35.0,2010-01-07
+Core i5-450M,Arrandale,2.0,2.4,Socket G1,32.0,3MB,35.0,2010-09-26
+Core i5-460M,Arrandale,2.0,2.534,Socket G1,32.0,3MB,35.0,2010-09-26
+Core i5-540M,Arrandale,2.0,2.533,Socket G1,32.0,3MB,35.0,2010-01-07
+Core i5-560M,Arrandale,2.0,2.667,Socket G1,32.0,3MB,35.0,2010-09-26
+Core i5-580M,Arrandale,2.0,2.667,Socket G1,32.0,3MB,35.0,2010-09-26
+Core i5-650,Clarkdale,2.0,3.2,Socket 1156,32.0,4MB,73.0,2010-01-07
+Core i5-655K,Clarkdale,2.0,3.2,Socket 1156,32.0,4MB,73.0,2010-05-30
+Core i5-660,Clarkdale,2.0,3.333,Socket 1156,32.0,4MB,73.0,2010-01-07
+Core i5-661,Clarkdale,2.0,3.333,Socket 1156,32.0,4MB,87.0,2010-01-07
+Core i5-670,Clarkdale,2.0,3.466,Socket 1156,32.0,4MB,73.0,2010-01-07
+Core i5-680,Clarkdale,2.0,3.6,Socket 1156,32.0,4MB,73.0,2010-04-19
+Core i7-620M,Arrandale,2.0,2.677,BGA 1288,32.0,4MB,35.0,2010-01-07
+Core i7-620M,Arrandale,2.0,2.677,Socket G1,32.0,4MB,35.0,2010-01-07
+Core i7-640M,Arrandale,2.0,2.8,Socket G1,32.0,4MB,35.0,
+Core i7-640M,Arrandale,2.0,2.8,BGA 1288,32.0,4MB,35.0,
+Pentium Dual-Core T4500,Penryn,2.0,2.3,Socket P,45.0,,35.0,
+Pentium E5500,Wolfdale,2.0,2.8,Socket 775,45.0,,65.0,2010-04-18
+Pentium E5700,Wolfdale,2.0,3.0,Socket 775,45.0,,65.0,2010-08-08
+Pentium E5800,Wolfdale,2.0,3.2,Socket 775,45.0,,65.0,2010-11-28
+Pentium E6600,Wolfdale,2.0,3.067,Socket 775,45.0,,65.0,2010-01-17
+Pentium E6700,Wolfdale,2.0,3.2,Socket 775,45.0,,65.0,2010-05-30
+Pentium E6800,Wolfdale,2.0,3.333,Socket 775,45.0,,65.0,2010-08-29
+Pentium G6950,Clarkdale,2.0,2.8,Socket 1156,32.0,3MB,73.0,2010-01-07
+Pentium G6951,Clarkdale,2.0,2.8,Socket 1156,32.0,3MB,73.0,
+Pentium P6000,Arrandale,2.0,1877.0,Socket G1,32.0,3MB,35.0,2010-06-20
+Pentium P6100,Arrandale,2.0,2000.0,Socket G1,32.0,3MB,35.0,2010-09-26
+Pentium P6200,Arrandale,2.0,2.133,Socket G1,32.0,3MB,35.0,2010-09-26
+Pentium U5400,Arrandale,2.0,1200.0,BGA 1288,32.0,3MB,18.0,2010-05-25
+Xeon E5503,Gainestown,2.0,2000.0,Socket 1366,45.0,4MB,80.0,2010-03-16
+Athlon II X4 610e,Propus,4.0,2.4,Socket AM3,45.0,,45.0,2010-05-11
+Athlon II X4 615e,Propus,4.0,2.5,Socket AM3,45.0,,45.0,
+Athlon II X4 635,Propus,4.0,2.9,Socket AM3,45.0,,95.0,2010-01-25
+Athlon II X4 640,Propus,4.0,3.0,Socket AM3,45.0,,95.0,2010-05-11
+Athlon II X4 645,Propus,4.0,3.1,Socket AM3,45.0,,95.0,
+Phenom II X4 840T,Zosma,4.0,2.9,Socket AM3,45.0,6MB,95.0,
+Phenom II X4 910e,Deneb,4.0,2.6,Socket AM3,45.0,6MB,65.0,2010-01-25
+Phenom II X4 960T BE,Zosma,4.0,3.0,Socket AM3,45.0,6MB,95.0,
+Phenom II X4 970 BE,Zosma,4.0,3.5,Socket AM3,45.0,6MB,125.0,
+Phenom II X4 970 BE,Deneb,4.0,3.5,Socket AM3,45.0,6MB,125.0,
+Phenom II X4 B97,Deneb,4.0,3.2,Socket AM3,45.0,6MB,95.0,2010-05-11
+Core i5-750s,Lynnfield,4.0,2.4,Socket 1156,45.0,8MB,82.0,2010-01-07
+Core i5-760,Lynnfield,4.0,2.8,Socket 1156,45.0,8MB,95.0,2010-07-18
+Core i7-860S,Lynnfield,4.0,2.533,Socket 1156,45.0,8MB,82.0,2010-01-07
+Core i7-870S,Lynnfield,4.0,2.666,Socket 1156,45.0,8MB,82.0,2010-07-19
+Core i7-875K,Lynnfield,4.0,2.933,Socket 1156,45.0,8MB,95.0,2010-05-30
+Core i7-880,Lynnfield,4.0,3.066,Socket 1156,45.0,8MB,95.0,2010-05-30
+Core i7-930,Bloomfield,4.0,2.8,Socket 1366,45.0,8MB,130.0,2010-02-28
+Xeon E5507,Gainestown,4.0,2.266,Socket 1366,45.0,4MB,80.0,2010-03-16
+Xeon E5620,Westmere-EP,4.0,2.4,Socket 1366,32.0,12MB,80.0,2010-03-16
+Xeon E5630,Westmere-EP,4.0,2.533,Socket 1366,32.0,12MB,80.0,2010-03-16
+Xeon E5640,Westmere-EP,4.0,2.666,Socket 1366,32.0,12MB,80.0,2010-03-16
+Xeon L5609,Westmere-EP,4.0,1866.0,Socket 1366,32.0,12MB,40.0,2010-03-16
+Xeon L5618,Westmere-EP,4.0,1.866,Socket 1366,32.0,12MB,40.0,2010-03-16
+Xeon L5630,Westmere-EP,4.0,2.133,Socket 1366,32.0,12MB,40.0,2010-03-16
+Xeon W3530,Bloomfield,4.0,2.8,Socket 1366,45.0,8MB,130.0,2010-03-16
+Xeon X5667,Westmere-EP,4.0,3.066,Socket 1366,32.0,12MB,95.0,2010-03-16
+Xeon X5677,Westmere-EP,4.0,3.466,Socket 1366,32.0,12MB,130.0,2010-03-16
+Phenom II X6 1035T,Thuban,6.0,2.6,Socket AM3,45.0,6MB,95.0,2010-04-27
+Phenom II X6 1045T,Thuban,6.0,2.7,Socket AM3,45.0,6MB,95.0,
+Phenom II X6 1055T (125W),Thuban,6.0,2.8,Socket AM3,45.0,6MB,125.0,2010-04-27
+Phenom II X6 1055T (95W),Thuban,6.0,2.8,Socket AM3,45.0,6MB,95.0,
+Phenom II X6 1065T,Thuban,6.0,2.9,Socket AM3,45.0,6MB,125.0,2010-12-07
+Phenom II X6 1075T,Thuban,6.0,3.0,Socket AM3,45.0,6MB,125.0,
+Phenom II X6 1090T BE,Thuban,6.0,3.2,Socket AM3,45.0,6MB,125.0,2010-04-27
+Phenom II X6 1100T BE,Thuban,6.0,3.3,Socket AM3,45.0,6MB,125.0,2010-12-07
+Core i7-970,Gulftown,6.0,3.2,Socket 1366,32.0,12MB,130.0,2010-07-19
+Core i7-980X,Gulftown,6.0,3.333,Socket 1366,32.0,12MB,130.0,2010-03-16
+Xeon E5645,Westmere-EP,6.0,2.4,Socket 1366,32.0,12MB,80.0,2010-03-16
+Xeon L5638,Westmere-EP,6.0,2.0,Socket 1366,32.0,12MB,60.0,2010-03-16
+Xeon L5640,Westmere-EP,6.0,2.266,Socket 1366,32.0,12MB,60.0,2010-03-16
+Xeon W3670,Gulftown,6.0,3.2,Socket 1366,32.0,12MB,130.0,2010-08-29
+Xeon W3680,Gulftown,6.0,3.333,Socket 1366,32.0,12MB,130.0,2010-03-16
+Xeon X5650,Westmere-EP,6.0,2.666,Socket 1366,32.0,12MB,95.0,2010-03-16
+Xeon X5660,Westmere-EP,6.0,2.8,Socket 1366,32.0,12MB,95.0,2010-03-16
+Xeon X5670,Westmere-EP,6.0,2.933,Socket 1366,32.0,12MB,95.0,2010-03-16
+Xeon X5680,Westmere-EP,6.0,3.333,Socket 1366,32.0,12MB,130.0,2010-02-14
+No CPUs found. Please change your search criteria.,,,,,,,,
+C-30,Ontario,1.0,1200.0,Socket FT1,40.0,,9.0,2011-01-04
+E-240,Zacate,1.0,1500.0,Socket FT1,40.0,,18.0,2011-01-04
+Sempron 130,Sargas,1.0,2.6,Socket AM3,45.0,,45.0,
+Atom Z650,Lincroft,1.0,1200.0,BGA 518,45.0,,3.0,2011-04-11
+Atom Z670,Lincroft,1.0,1500.0,BGA 518,45.0,,3.0,2011-04-11
+Celeron 725C,Sandy Bridge,1.0,1300.0,BGA 1023,32.0,1.5MB,17.0,
+Celeron 787,Sandy Bridge,1.0,1300.0,BGA 1023,32.0,1.5MB,17.0,
+Celeron B710,Sandy Bridge,1.0,1600.0,Socket G2 (988B),32.0,1.5MB,35.0,2011-06-19
+Celeron G440,Sandy Bridge,1.0,1600.0,Socket 1155,32.0,1MB,35.0,2011-09-04
+Celeron G460,Sandy Bridge,1.0,1800.0,Socket 1155,32.0,1.5MB,35.0,2011-12-12
+Nano U2225,CNA,1.0,1300.0,VIA nanoBGA2,65.0,,10.0,
+Nano U2250,CNA,1.0,1300.0,VIA nanoBGA2,65.0,,10.0,
+A4-3300,Llano,2.0,2.5,Socket FM1,32.0,,65.0,2011-09-07
+A4-3300M,Llano,2.0,1.9,Socket FS1,32.0,,35.0,2011-06-14
+A4-3305M,Llano,2.0,1.9,Socket FS1,32.0,,35.0,2011-06-14
+A4-3310MX,Llano,2.0,2.1,Socket FS1,32.0,,35.0,2011-06-14
+A4-3320M,Llano,2.0,2.0,Socket FS1,32.0,,35.0,2011-12-20
+A4-3330MX,Llano,2.0,2.2,Socket FS1,32.0,,45.0,2011-12-20
+A4-3400,Llano,2.0,2.7,Socket FM1,32.0,,65.0,2011-09-07
+A4-3420,Llano,2.0,2.8,Socket FM1,32.0,,65.0,2011-12-20
+Athlon II X2 270,Regor,2.0,3.4,Socket AM3,45.0,,65.0,
+C-50,Ontario,2.0,1000.0,Socket FT1,40.0,,9.0,2011-01-04
+C-60,Ontario,2.0,1000.0,Socket FT1,40.0,,9.0,
+E-300,Zacate,2.0,1300.0,Socket FT1,40.0,,18.0,
+E-350,Zacate,2.0,1600.0,Socket FT1,40.0,,18.0,2011-01-04
+E-450,Zacate,2.0,1650.0,Socket FT1,40.0,,18.0,
+E2-3000M,Llano,2.0,1.8,Socket FS1,32.0,,35.0,2011-12-20
+E2-3200,Llano,2.0,2.4,Socket FM1,32.0,,65.0,2011-09-07
+Z-01,Desna,2.0,1000.0,Socket FT1,40.0,,6.0,
+Atom D2500,Cedarview,2.0,1867.0,BGA 437,32.0,,10.0,
+Atom D2550,Cedarview,2.0,1867.0,BGA 437,32.0,,10.0,
+Atom D2700,Cedarview,2.0,2.133,BGA 437,32.0,,10.0,
+Atom N2600,Cedarview,2.0,1600.0,BGA 559,32.0,,4.0,
+Atom N2800,Cedarview,2.0,1867.0,BGA 559,32.0,,7.0,
+Atom N570,Pineview,2.0,1667.0,BGA 559,45.0,,9.0,
+Celeron 847,Sandy Bridge,2.0,1100.0,BGA 1023,32.0,2MB,17.0,2011-06-19
+Celeron 857,Sandy Bridge,2.0,1200.0,BGA 1023,32.0,2MB,17.0,
+Celeron B800,Sandy Bridge,2.0,1500.0,Socket G2 (988B),32.0,2MB,35.0,2011-06-19
+Celeron B810,Sandy Bridge,2.0,1600.0,Socket G2 (988B),32.0,2MB,35.0,
+Celeron B840,Sandy Bridge,2.0,1900.0,Socket G2 (988B),32.0,2MB,35.0,
+Celeron G530,Sandy Bridge,2.0,2.4,Socket 1155,32.0,2MB,65.0,2011-09-04
+Celeron G530T,Sandy Bridge,2.0,2000.0,Socket 1155,32.0,2MB,35.0,2011-09-04
+Celeron G540,Sandy Bridge,2.0,2.5,Socket 1155,32.0,2MB,65.0,2011-09-04
+Celeron G540T,Sandy Bridge,2.0,2.1,Socket 1155,32.0,2MB,35.0,2011-09-04
+Celeron G550T,Sandy Bridge,2.0,2.2,Socket 1155,32.0,2MB,35.0,2011-09-04
+Core i3-2100,Sandy Bridge,2.0,3.1,Socket 1155,32.0,3MB,65.0,2011-02-20
+Core i3-2100T,Sandy Bridge,2.0,2.5,Socket 1155,32.0,3MB,35.0,2011-02-20
+Core i3-2102,Sandy Bridge,2.0,3.1,Socket 1155,32.0,3MB,65.0,
+Core i3-2105,Sandy Bridge,2.0,3.1,Socket 1155,32.0,3MB,65.0,
+Core i3-2120,Sandy Bridge,2.0,3.3,Socket 1155,32.0,3MB,65.0,2011-02-20
+Core i3-2120T,Sandy Bridge,2.0,2.6,Socket 1155,32.0,3MB,35.0,2011-09-04
+Core i3-2125,Sandy Bridge,2.0,3.3,Socket 1155,32.0,3MB,65.0,2011-09-04
+Core i3-2130,Sandy Bridge,2.0,3.4,Socket 1155,32.0,3MB,65.0,2011-09-04
+Core i3-2310E,Sandy Bridge,2.0,2.1,BGA 1023,32.0,3MB,35.0,
+Core i3-2310M,Sandy Bridge,2.0,2.1,BGA 1023,32.0,3MB,35.0,
+Core i3-2310M,Sandy Bridge,2.0,2.1,Socket G2 (988B),32.0,3MB,35.0,
+Core i3-2312M,Sandy Bridge,2.0,2.1,Socket G2 (988B),32.0,3MB,35.0,
+Core i3-2312M,Sandy Bridge,2.0,2.1,BGA 1023,32.0,3MB,35.0,
+Core i3-2330E,Sandy Bridge,2.0,2.2,Socket G2 (988B),32.0,3MB,35.0,
+Core i3-2330M,Sandy Bridge,2.0,2.2,BGA 1023,32.0,3MB,35.0,
+Core i3-2330M,Sandy Bridge,2.0,2.2,Socket G2 (988B),32.0,3MB,35.0,
+Core i3-2332M,Sandy Bridge,2.0,2.2,Socket G2 (988B),32.0,3MB,35.0,
+Core i3-2340UE,Sandy Bridge,2.0,1300.0,BGA 1023,32.0,3MB,17.0,
+Core i3-2350M,Sandy Bridge,2.0,2.3,Socket G2 (988B),32.0,3MB,35.0,
+Core i3-2357M,Sandy Bridge,2.0,1300.0,BGA 1023,32.0,3MB,17.0,
+Core i3-2367M,Sandy Bridge,2.0,1400.0,BGA 1023,32.0,3MB,17.0,
+Core i3-390M,Arrandale,2.0,2.667,Socket G1,32.0,3MB,35.0,2011-01-09
+Core i5-2390T,Sandy Bridge,2.0,2.7,Socket 1155,32.0,3MB,35.0,2011-02-20
+Core i5-2410M,Sandy Bridge,2.0,2.3,Socket G2 (988B),32.0,3MB,35.0,
+Core i5-2410M,Sandy Bridge,2.0,2.3,BGA 1023,32.0,3MB,35.0,
+Core i5-2415M,Sandy Bridge,2.0,2.3,BGA 1023,32.0,3MB,35.0,
+Core i5-2430M,Sandy Bridge,2.0,2.4,BGA 1023,32.0,3MB,35.0,
+Core i5-2430M,Sandy Bridge,2.0,2.4,Socket G2 (988B),32.0,3MB,35.0,
+Core i5-2435M,Sandy Bridge,2.0,2.4,Socket G2 (988B),32.0,3MB,35.0,
+Core i5-2435M,Sandy Bridge,2.0,2.4,BGA 1023,32.0,3MB,35.0,
+Core i5-2467M,Sandy Bridge,2.0,1600.0,BGA 1023,32.0,3MB,17.0,
+Core i5-2510E,Sandy Bridge,2.0,2.5,Socket G2 (988B),32.0,3MB,35.0,
+Core i5-2515E,Sandy Bridge,2.0,2.5,BGA 1023,32.0,3MB,35.0,
+Core i5-2520M,Sandy Bridge,2.0,2.5,Socket G2 (988B),32.0,3MB,35.0,
+Core i5-2520M,Sandy Bridge,2.0,2.5,BGA 1023,32.0,3MB,35.0,
+Core i5-2537M,Sandy Bridge,2.0,1400.0,BGA 1023,32.0,3MB,17.0,
+Core i5-2540M,Sandy Bridge,2.0,2.6,BGA 1023,32.0,3MB,35.0,
+Core i5-2540M,Sandy Bridge,2.0,2.6,Socket G2 (988B),32.0,3MB,35.0,
+Core i5-2557M,Sandy Bridge,2.0,1700.0,BGA 1023,32.0,3MB,17.0,
+Core i5-480M,Arrandale,2.0,2.667,Socket G1,32.0,3MB,35.0,2011-01-09
+Pentium 350,Sandy Bridge,2.0,1200.0,Socket 1155,32.0,3MB,15.0,
+Pentium 957,Sandy Bridge,2.0,1200.0,BGA 1023,32.0,2MB,17.0,2011-06-19
+Pentium 967,Sandy Bridge,2.0,1300.0,BGA 1023,32.0,2MB,17.0,
+Pentium B940,Sandy Bridge,2.0,2000.0,Socket G2 (988B),32.0,2MB,35.0,2011-06-19
+Pentium B950,Sandy Bridge,2.0,2.1,Socket G2 (988B),32.0,2MB,35.0,2011-06-19
+Pentium B960,Sandy Bridge,2.0,2.2,Socket G2 (988B),32.0,2MB,35.0,
+Pentium G620,Sandy Bridge,2.0,2.6,Socket 1155,32.0,3MB,65.0,
+Pentium G620T,Sandy Bridge,2.0,2.2,Socket 1155,32.0,3MB,35.0,
+Pentium G622,Sandy Bridge,2.0,2.6,Socket 1155,32.0,3MB,65.0,
+Pentium G630,Sandy Bridge,2.0,2.7,Socket 1155,32.0,3MB,65.0,2011-09-04
+Pentium G630T,Sandy Bridge,2.0,2.3,Socket 1155,32.0,3MB,35.0,2011-09-04
+Pentium G632,Sandy Bridge,2.0,2.7,Socket 1155,32.0,3MB,65.0,2011-09-04
+Pentium G6960,Clarkdale,2.0,2.933,Socket 1156,32.0,3MB,73.0,2011-01-09
+Pentium G840,Sandy Bridge,2.0,2.8,Socket 1155,32.0,3MB,65.0,
+Pentium G850,Sandy Bridge,2.0,2.9,Socket 1155,32.0,3MB,65.0,
+Pentium G860,Sandy Bridge,2.0,3.0,Socket 1155,32.0,3MB,65.0,2011-09-04
+Pentium P6300,Arrandale,2.0,2.266,Socket G1,32.0,3MB,35.0,2011-01-09
+Pentium U5600,Arrandale,2.0,1333.0,BGA 1288,32.0,3MB,18.0,2011-01-09
+Xeon E3-1220L,Sandy Bridge,2.0,2.2,Socket 1155,32.0,3MB,20.0,
+Xeon X5698,Westmere-EP,2.0,4.4,Socket 1366,32.0,12MB,130.0,2011-02-14
+Nano X2 U4300,CNC,2.0,1200.0,VIA nanoBGA2,40.0,,13.0,
+A6-3400M,Llano,4.0,1.4,Socket FS1,32.0,,35.0,2011-06-14
+A6-3410MX,Llano,4.0,1.6,Socket FS1,32.0,,45.0,2011-06-14
+A6-3420M,Llano,4.0,1.5,Socket FS1,32.0,,35.0,2011-12-20
+A6-3430MX,Llano,4.0,1.7,Socket FS1,32.0,,45.0,2011-12-20
+A6-3600,Llano,4.0,2.1,Socket FM1,32.0,,65.0,2011-06-30
+A6-3620,Llano,4.0,2.2,Socket FM1,32.0,,65.0,2011-12-20
+A6-3650,Llano,4.0,2.6,Socket FM1,32.0,,100.0,2011-06-30
+A6-3670K,Llano,4.0,2.7,Socket FM1,32.0,,100.0,2011-12-20
+A8-3500M,Llano,4.0,1.5,Socket FS1,32.0,,35.0,2011-06-14
+A8-3510MX,Llano,4.0,1.8,Socket FS1,32.0,,45.0,2011-06-14
+A8-3520M,Llano,4.0,1.6,Socket FS1,32.0,,35.0,2011-12-20
+A8-3530MX,Llano,4.0,1.9,Socket FS1,32.0,,45.0,2011-06-14
+A8-3550MX,Llano,4.0,2.0,Socket FS1,32.0,,45.0,2011-12-20
+A8-3800,Llano,4.0,2.4,Socket FM1,32.0,,65.0,2011-06-30
+A8-3820,Llano,4.0,2.5,Socket FM1,32.0,,65.0,2011-12-20
+A8-3850,Llano,4.0,2.9,Socket FM1,32.0,,100.0,2011-06-30
+A8-3870K,Llano,4.0,3.0,Socket FM1,32.0,,100.0,2011-12-20
+Athlon II X4 620e,Propus,4.0,2.6,Socket AM3,45.0,,45.0,
+Athlon II X4 631,Llano,4.0,2.6,Socket FM1,32.0,,100.0,2011-08-17
+Athlon II X4 651,Llano,4.0,3.0,Socket FM1,32.0,,100.0,2011-11-14
+Athlon II X4 651K,Llano,4.0,3.0,Socket FM1,32.0,,100.0,2011-11-14
+FX-4100,Zambezi,4.0,3.6,Socket AM3+,32.0,8MB,95.0,2011-10-12
+Phenom II X4 650T,Zosma,4.0,2.7,Socket AM3,45.0,4MB,95.0,
+Phenom II X4 840,Propus,4.0,3.2,Socket AM3,45.0,,95.0,2011-01-04
+Phenom II X4 850,Propus,4.0,3.3,Socket AM3,45.0,,95.0,
+Phenom II X4 975 BE,Deneb,4.0,3.6,Socket AM3,45.0,6MB,125.0,2011-01-04
+Phenom II X4 980 BE,Deneb,4.0,3.7,Socket AM3,45.0,6MB,125.0,
+Core i5-2300,Sandy Bridge,4.0,2.8,Socket 1155,32.0,6MB,95.0,2011-01-09
+Core i5-2310,Sandy Bridge,4.0,2.9,Socket 1155,32.0,6MB,95.0,
+Core i5-2320,Sandy Bridge,4.0,3.0,Socket 1155,32.0,6MB,95.0,2011-09-04
+Core i5-2400,Sandy Bridge,4.0,3.1,Socket 1155,32.0,6MB,95.0,2011-01-09
+Core i5-2400S,Sandy Bridge,4.0,2.5,Socket 1155,32.0,6MB,65.0,2011-01-09
+Core i5-2405S,Sandy Bridge,4.0,2.5,Socket 1155,32.0,6MB,65.0,
+Core i5-2500,Sandy Bridge,4.0,3.3,Socket 1155,32.0,6MB,95.0,2011-01-09
+Core i5-2500K,Sandy Bridge,4.0,3.3,Socket 1155,32.0,6MB,95.0,2011-01-09
+Core i5-2500S,Sandy Bridge,4.0,2.7,Socket 1155,32.0,6MB,65.0,2011-01-09
+Core i5-2500T,Sandy Bridge,4.0,2.3,Socket 1155,32.0,6MB,45.0,2011-01-09
+Core i7-2600,Sandy Bridge,4.0,3.4,Socket 1155,32.0,8MB,95.0,2011-01-09
+Core i7-2600K,Sandy Bridge,4.0,3.4,Socket 1155,32.0,8MB,95.0,2011-01-09
+Core i7-2600S,Sandy Bridge,4.0,2.8,Socket 1155,32.0,8MB,65.0,2011-01-09
+Core i7-2630QM,Sandy Bridge,4.0,2.0,Socket G2 (988B),32.0,6MB,45.0,
+Core i7-2635QM,Sandy Bridge,4.0,2.0,BGA 1224,32.0,6MB,45.0,
+Core i7-2670QM,Sandy Bridge,4.0,2.2,Socket G2 (988B),32.0,6MB,45.0,2011-10-12
+Core i7-2675QM,Sandy Bridge,4.0,2.2,BGA 1224,32.0,6MB,45.0,2011-10-12
+Core i7-2700K,Sandy Bridge,4.0,3.5,Socket 1155,32.0,8MB,95.0,2011-10-24
+Core i7-2710QE,Sandy Bridge,4.0,2.1,Socket G2 (988B),32.0,6MB,45.0,
+Core i7-2715QE,Sandy Bridge,4.0,2.1,BGA 1023,32.0,6MB,45.0,
+Core i7-2720QM,Sandy Bridge,4.0,2.2,BGA 1224,32.0,6MB,45.0,
+Core i7-2720QM,Sandy Bridge,4.0,2.2,Socket G2 (988B),32.0,6MB,45.0,
+Core i7-2760QM,Sandy Bridge,4.0,2.4,Socket G2 (988B),32.0,6MB,45.0,2011-09-04
+Core i7-2760QM,Sandy Bridge,4.0,2.4,BGA 1224,32.0,6MB,45.0,2011-09-04
+Core i7-2820QM,Sandy Bridge,4.0,2.3,BGA 1224,32.0,8MB,45.0,
+Core i7-2820QM,Sandy Bridge,4.0,2.3,Socket G2 (988B),32.0,8MB,45.0,
+Core i7-2860QM,Sandy Bridge,4.0,2.5,BGA 1224,32.0,8MB,45.0,2011-09-04
+Core i7-2860QM,Sandy Bridge,4.0,2.5,Socket G2 (988B),32.0,8MB,45.0,2011-09-04
+Core i7-2920XM,Sandy Bridge,4.0,2.5,Socket G2 (988B),32.0,8MB,55.0,
+Core i7-2960XM,Sandy Bridge,4.0,2.7,Socket G2 (988B),32.0,8MB,55.0,2011-09-04
+Xeon E3-1220,Sandy Bridge,4.0,3.1,Socket 1155,32.0,8MB,80.0,
+Xeon E3-1225,Sandy Bridge,4.0,3.1,Socket 1155,32.0,6MB,95.0,
+Xeon E3-1230,Sandy Bridge,4.0,3.2,Socket 1155,32.0,8MB,80.0,
+Xeon E3-1235,Sandy Bridge,4.0,3.2,Socket 1155,32.0,8MB,95.0,
+Xeon E3-1240,Sandy Bridge,4.0,3.3,Socket 1155,32.0,8MB,80.0,
+Xeon E3-1245,Sandy Bridge,4.0,3.3,Socket 1155,32.0,8MB,95.0,
+Xeon E3-1260L,Sandy Bridge,4.0,2.4,Socket 1155,32.0,8MB,45.0,
+Xeon E3-1270,Sandy Bridge,4.0,3.4,Socket 1155,32.0,8MB,80.0,
+Xeon E3-1275,Sandy Bridge,4.0,3.4,Socket 1155,32.0,8MB,95.0,
+Xeon E3-1280,Sandy Bridge,4.0,3.5,Socket 1155,32.0,8MB,95.0,
+Xeon E3-1290,Sandy Bridge,4.0,3.6,Socket 1155,32.0,8MB,95.0,2011-05-29
+Xeon E5603,Westmere-EP,4.0,1600.0,Socket 1366,32.0,4MB,80.0,2011-02-14
+Xeon E5606,Westmere-EP,4.0,2.133,Socket 1366,32.0,8MB,80.0,2011-02-14
+Xeon E5607,Westmere-EP,4.0,2.266,Socket 1366,32.0,8MB,80.0,2011-02-14
+Xeon X5647,Westmere-EP,4.0,2.933,Socket 1366,32.0,12MB,130.0,2011-02-14
+Xeon X5672,Westmere-EP,4.0,3.2,Socket 1366,32.0,12MB,95.0,2011-02-14
+Xeon X5687,Westmere-EP,4.0,3.6,Socket 1366,32.0,12MB,130.0,2011-02-14
+Nano QuadCore L4700,CNQ,4.0,1200.0,VIA nanoBGA2,40.0,,28.0,2011-05-12
+Nano QuadCore L4800,CNQ,4.0,1466.0,VIA nanoBGA2,40.0,,28.0,2011-05-12
+FX-6100,Zambezi,6.0,3.3,Socket AM3+,32.0,8MB,95.0,2011-10-12
+Core i7-3930K,Sandy Bridge-E,6.0,3.2,Socket 2011,32.0,12MB,130.0,2011-11-14
+Core i7-3960X,Sandy Bridge-E,6.0,3.3,Socket 2011,32.0,15MB,130.0,2011-11-14
+Core i7-980,Gulftown,6.0,3.333,Socket 1366,32.0,12MB,130.0,2011-06-26
+Core i7-990X,Gulftown,6.0,3.466,Socket 1366,32.0,12MB,130.0,2011-02-24
+Xeon E5649,Westmere-EP,6.0,2.533,Socket 1366,32.0,12MB,80.0,2011-02-14
+Xeon W3690,Gulftown,6.0,3.466,Socket 1366,32.0,12MB,130.0,2011-02-14
+Xeon X5675,Westmere-EP,6.0,3.066,Socket 1366,32.0,12MB,95.0,2011-02-14
+Xeon X5690,Westmere-EP,6.0,3.466,Socket 1366,32.0,12MB,130.0,2011-02-14
+FX-8100,Zambezi,8.0,2.8,Socket AM3+,32.0,8MB,95.0,2011-10-12
+FX-8120,Zambezi,8.0,3.1,Socket AM3+,32.0,8MB,125.0,2011-10-12
+FX-8150,Zambezi,8.0,3.6,Socket AM3+,32.0,8MB,125.0,2011-10-12
+Atom Z2460,Penwell,1.0,1300.0,BGA 617,32.0,,3.0,
+Celeron 797,Sandy Bridge,1.0,1400.0,BGA 1023,32.0,1.5MB,17.0,
+Celeron 807,Sandy Bridge,1.0,1500.0,BGA 1023,32.0,1.5MB,17.0,
+Celeron B720,Sandy Bridge,1.0,1700.0,Socket G2 (988B),32.0,1.5MB,35.0,
+Celeron B730,Sandy Bridge,1.0,1800.0,Socket G2 (988B),32.0,1.5MB,35.0,
+Celeron G465,Sandy Bridge,1.0,1900.0,Socket 1155,32.0,1.5MB,35.0,
+A4-4300M,Trinity,2.0,2.5,Socket FS1r2,32.0,,35.0,2012-05-15
+A4-4355M,Trinity,2.0,1.9,Socket FP2,32.0,,17.0,2012-09-27
+A4-5300,Trinity,2.0,3.4,Socket FM2,32.0,,65.0,
+A4-5300B,Trinity,2.0,3.4,Socket FM2,32.0,,65.0,
+A6-4400M,Trinity,2.0,2.7,Socket FS1r2,32.0,,35.0,2012-05-15
+A6-4455M,Trinity,2.0,2.1,Socket FP2,32.0,,17.0,2012-05-15
+A6-5400B,Trinity,2.0,3.6,Socket FM2,32.0,,65.0,
+A6-5400K,Trinity,2.0,3.6,Socket FM2,32.0,,65.0,
+Athlon X2 340,Trinity,2.0,3.2,Socket FM2,32.0,,65.0,
+C-70,Ontario,2.0,1000.0,Socket FT1,40.0,,9.0,
+E1-1200,Zacate,2.0,1400.0,Socket FT1,40.0,,18.0,2012-06-06
+E2-1800,Zacate,2.0,1700.0,Socket FT1,40.0,,18.0,2012-06-06
+Sempron X2 240,Trinity,2.0,2.9,Socket FM2,32.0,,65.0,
+Z-60,Hondo,2.0,1000.0,Socket FT1,40.0,,5.0,2012-10-09
+Atom S1220,Centerton,2.0,1600.0,BGA 1283,32.0,,8.0,2012-12-11
+Atom S1240,Centerton,2.0,1600.0,BGA 1283,32.0,,6.0,2012-12-11
+Atom S1260,Centerton,2.0,2000.0,BGA 1283,32.0,,9.0,2012-12-11
+Atom Z2760,Cloverview,2.0,1800.0,BGA 617,32.0,,3.0,2012-09-27
+Celeron 867,Sandy Bridge,2.0,1300.0,BGA 1023,32.0,2MB,17.0,
+Celeron 877,Sandy Bridge,2.0,1400.0,BGA 1023,32.0,2MB,17.0,
+Celeron 887,Sandy Bridge,2.0,1500.0,BGA 1023,32.0,2MB,17.0,
+Celeron B815,Sandy Bridge,2.0,1600.0,Socket G2 (988B),32.0,2MB,35.0,
+Celeron B820,Sandy Bridge,2.0,1700.0,Socket G2 (988B),32.0,2MB,35.0,
+Celeron B830,Sandy Bridge,2.0,1800.0,Socket G2 (988B),32.0,2MB,35.0,
+Celeron G1610,Ivy Bridge,2.0,2.6,Socket 1155,22.0,2MB,55.0,
+Celeron G1610T,Ivy Bridge,2.0,2.3,Socket 1155,22.0,2MB,35.0,
+Celeron G1620,Ivy Bridge,2.0,2.7,Socket 1155,22.0,2MB,55.0,
+Celeron G550,Sandy Bridge,2.0,2.6,Socket 1155,32.0,2MB,65.0,
+Celeron G555,Sandy Bridge,2.0,2.7,Socket 1155,32.0,2MB,65.0,
+Core i3-2115C,Sandy Bridge,2.0,2000.0,Socket 1155,32.0,3MB,65.0,
+Core i3-2328M,Sandy Bridge,2.0,2.2,Socket G2 (988B),32.0,3MB,35.0,
+Core i3-2370M,Sandy Bridge,2.0,2.4,Socket G2 (988B),32.0,3MB,35.0,
+Core i3-2377M,Sandy Bridge,2.0,1500.0,BGA 1023,32.0,3MB,17.0,
+Core i3-3110M,Ivy Bridge,2.0,2.4,BGA 1023,22.0,3MB,35.0,
+Core i3-3110M,Ivy Bridge,2.0,2.4,Socket G2 (988B),22.0,3MB,35.0,
+Core i3-3120M,Ivy Bridge,2.0,2.5,BGA 1023,22.0,3MB,35.0,2012-09-30
+Core i3-3120M,Ivy Bridge,2.0,2.5,Socket G2 (988B),22.0,3MB,35.0,2012-09-30
+Core i3-3120ME,Ivy Bridge,2.0,2.4,BGA 1023,22.0,3MB,35.0,
+Core i3-3217U,Ivy Bridge,2.0,1800.0,BGA 1023,22.0,3MB,17.0,
+Core i3-3217UE,Ivy Bridge,2.0,1600.0,BGA 1023,22.0,3MB,17.0,
+Core i3-3220,Ivy Bridge,2.0,3.3,Socket 1155,22.0,3MB,55.0,
+Core i3-3220T,Ivy Bridge,2.0,2.8,Socket 1155,22.0,3MB,35.0,
+Core i3-3225,Ivy Bridge,2.0,3.3,Socket 1155,22.0,3MB,55.0,
+Core i3-3240,Ivy Bridge,2.0,3.4,Socket 1155,22.0,3MB,55.0,
+Core i3-3240T,Ivy Bridge,2.0,3.0,Socket 1155,22.0,3MB,35.0,
+Core i5-2450M,Sandy Bridge,2.0,2.5,Socket G2 (988B),32.0,3MB,35.0,
+Core i5-2450M,Sandy Bridge,2.0,2.5,BGA 1023,32.0,3MB,35.0,
+Core i5-3210M,Ivy Bridge,2.0,2.5,BGA 1023,22.0,3MB,35.0,
+Core i5-3210M,Ivy Bridge,2.0,2.5,Socket G2 (988B),22.0,3MB,35.0,
+Core i5-3317U,Ivy Bridge,2.0,1.7,BGA 1023,22.0,3MB,17.0,
+Core i5-3320M,Ivy Bridge,2.0,2.6,Socket G2 (988B),22.0,3MB,35.0,
+Core i5-3320M,Ivy Bridge,2.0,2.6,BGA 1023,22.0,3MB,35.0,
+Core i5-3360M,Ivy Bridge,2.0,2.8,Socket G2 (988B),22.0,3MB,35.0,
+Core i5-3360M,Ivy Bridge,2.0,2.8,BGA 1023,22.0,3MB,35.0,
+Core i5-3365M,Ivy Bridge,2.0,2.8,BGA 1023,22.0,3MB,35.0,
+Core i5-3427U,Ivy Bridge,2.0,1.8,BGA 1023,22.0,3MB,17.0,
+Core i5-3470T,Ivy Bridge,2.0,2.9,Socket 1155,22.0,3MB,35.0,
+Core i5-3610ME,Ivy Bridge,2.0,2.7,Socket G2 (988B),22.0,3MB,35.0,
+Core i5-3610ME,Ivy Bridge,2.0,2.7,BGA 1023,22.0,3MB,35.0,
+Core i7-3517U,Ivy Bridge,2.0,1.9,BGA 1023,22.0,4MB,17.0,
+Core i7-3517UE,Ivy Bridge,2.0,1.7,BGA 1023,22.0,4MB,17.0,
+Core i7-3520M,Ivy Bridge,2.0,2.9,BGA 1023,22.0,4MB,35.0,
+Core i7-3520M,Ivy Bridge,2.0,2.9,Socket G2 (988B),22.0,4MB,35.0,
+Core i7-3525M,Ivy Bridge,2.0,2.9,BGA 1023,22.0,4MB,35.0,
+Core i7-3555LE,Ivy Bridge,2.0,2.5,BGA 1023,22.0,4MB,25.0,
+Core i7-3667U,Ivy Bridge,2.0,2.0,BGA 1023,22.0,4MB,17.0,
+Pentium 2020M,Ivy Bridge,2.0,2.4,Socket G2 (988B),22.0,2MB,35.0,
+Pentium 2117U,Ivy Bridge,2.0,1800.0,Socket G2 (988B),22.0,2MB,17.0,
+Pentium 2117U,Ivy Bridge,2.0,1800.0,BGA 1023,22.0,2MB,17.0,
+Pentium 2129Y,Ivy Bridge,2.0,1100.0,BGA 1023,22.0,2MB,10.0,
+Pentium 977,Sandy Bridge,2.0,1400.0,BGA 1023,32.0,2MB,17.0,
+Pentium 997,Sandy Bridge,2.0,1600.0,BGA 1023,32.0,2MB,17.0,
+Pentium B915C,Sandy Bridge,2.0,1500.0,Socket G2 (988B),32.0,2MB,35.0,
+Pentium B970,Sandy Bridge,2.0,2.3,Socket G2 (988B),32.0,2MB,35.0,
+Pentium B980,Sandy Bridge,2.0,2.4,Socket G2 (988B),32.0,2MB,35.0,
+Pentium G2100T,Ivy Bridge,2.0,2.6,Socket 1155,22.0,3MB,35.0,
+Pentium G2120,Ivy Bridge,2.0,3.1,Socket 1155,22.0,3MB,55.0,
+Pentium G640,Sandy Bridge,2.0,2.8,Socket 1155,32.0,3MB,65.0,
+Pentium G640T,Sandy Bridge,2.0,2.4,Socket 1155,32.0,3MB,35.0,
+Pentium G645,Sandy Bridge,2.0,2.9,Socket 1155,32.0,3MB,65.0,
+Pentium G645T,Sandy Bridge,2.0,2.5,Socket 1155,32.0,3MB,35.0,
+Pentium G860T,Sandy Bridge,2.0,2.6,Socket 1155,32.0,3MB,35.0,
+Pentium G870,Sandy Bridge,2.0,3.1,Socket 1155,32.0,3MB,65.0,
+Xeon E3-1220L v2,Ivy Bridge,2.0,2.3,Socket 1155,22.0,8MB,17.0,2012-05-14
+Xeon E5-2637,Sandy Bridge-EP,2.0,3.0,Socket 2011,32.0,5MB,80.0,2012-03-06
+A10-4600M,Trinity,4.0,2.3,Socket FS1r2,32.0,,35.0,2012-05-15
+A10-4655M,Trinity,4.0,2.0,Socket FP2,32.0,,25.0,2012-05-15
+A10-5700,Trinity,4.0,3.4,Socket FM2,32.0,,65.0,
+A10-5800B,Trinity,4.0,3.8,Socket FM2,32.0,,100.0,
+A10-5800K,Trinity,4.0,3.8,Socket FM2,32.0,,100.0,
+A8-4500M,Trinity,4.0,1.9,Socket FS1r2,32.0,,35.0,2012-05-15
+A8-4555M,Trinity,4.0,1.6,Socket FP2,32.0,,19.0,2012-09-27
+A8-5500,Trinity,4.0,3.2,Socket FM2,32.0,,65.0,
+A8-5500B,Trinity,4.0,3.2,Socket FM2,32.0,,65.0,
+A8-5600K,Trinity,4.0,3.6,Socket FM2,32.0,,100.0,
+Athlon II X4 638,Llano,4.0,2.7,Socket FM1,32.0,,65.0,2012-02-06
+Athlon II X4 641,Llano,4.0,2.8,Socket FM1,32.0,,100.0,2012-02-06
+Athlon X4 730,Trinity,4.0,2.8,Socket FM2,32.0,,65.0,
+Athlon X4 740,Trinity,4.0,3.2,Socket FM2,32.0,,65.0,
+Athlon X4 750K,Trinity,4.0,3.4,Socket FM2,32.0,,100.0,
+FX-4120,Zambezi,4.0,3.9,Socket AM3+,32.0,8MB,95.0,
+FX-4150,Zambezi,4.0,3.8,Socket AM3+,32.0,8MB,95.0,
+FX-4170,Zambezi,4.0,4.2,Socket AM3+,32.0,8MB,125.0,2012-02-27
+FX-4300,Vishera,4.0,3.8,Socket AM3+,32.0,8MB,95.0,
+FX-4320,Vishera,4.0,4.0,Socket AM3+,32.0,8MB,95.0,
+FirePro A300,Trinity,4.0,3.4,Socket FM2,32.0,,65.0,2012-08-07
+FirePro A320,Trinity,4.0,3.8,Socket FM2,32.0,,100.0,2012-08-07
+Opteron 3320 EE,Delhi,4.0,1.9,Socket AM3+,32.0,8MB,25.0,2012-12-04
+Opteron 3350 HE,Delhi,4.0,2.8,Socket AM3+,32.0,8MB,45.0,2012-12-04
+Opteron 4310 EE,Seoul,4.0,2.2,Socket C32,32.0,8MB,35.0,2012-12-04
+Opteron 43CX EE,Seoul,4.0,2.2,Socket C32,32.0,8MB,35.0,2012-12-04
+Core i5-2380P,Sandy Bridge,4.0,3.1,Socket 1155,32.0,6MB,95.0,2012-01-30
+Core i5-2450P,Sandy Bridge,4.0,3.2,Socket 1155,32.0,6MB,95.0,2012-01-30
+Core i5-2550K,Sandy Bridge,4.0,3.4,Socket 1155,32.0,6MB,95.0,2012-01-30
+Core i5-3330,Ivy Bridge,4.0,3.0,Socket 1155,22.0,6MB,77.0,
+Core i5-3330S,Ivy Bridge,4.0,2.7,Socket 1155,22.0,6MB,77.0,
+Core i5-3335S,Ivy Bridge,4.0,2.7,Socket 1155,22.0,6MB,65.0,
+Core i5-3350P,Ivy Bridge,4.0,3.1,Socket 1155,22.0,6MB,69.0,
+Core i5-3450,Ivy Bridge,4.0,3.1,Socket 1155,22.0,6MB,77.0,2012-04-29
+Core i5-3450S,Ivy Bridge,4.0,2.8,Socket 1155,22.0,6MB,65.0,2012-04-29
+Core i5-3470,Ivy Bridge,4.0,3.2,Socket 1155,22.0,6MB,77.0,
+Core i5-3470S,Ivy Bridge,4.0,2.9,Socket 1155,22.0,6MB,65.0,
+Core i5-3475S,Ivy Bridge,4.0,2.9,Socket 1155,22.0,6MB,65.0,
+Core i5-3550,Ivy Bridge,4.0,3.3,Socket 1155,22.0,6MB,77.0,2012-04-29
+Core i5-3550S,Ivy Bridge,4.0,3.0,Socket 1155,22.0,6MB,65.0,2012-04-29
+Core i5-3570,Ivy Bridge,4.0,3.4,Socket 1155,22.0,6MB,77.0,
+Core i5-3570K,Ivy Bridge,4.0,3.4,Socket 1155,22.0,6MB,77.0,2012-04-29
+Core i5-3570S,Ivy Bridge,4.0,3.1,Socket 1155,22.0,6MB,65.0,
+Core i5-3570T,Ivy Bridge,4.0,2.3,Socket 1155,22.0,6MB,45.0,2012-04-29
+Core i7-3610QE,Ivy Bridge,4.0,2.3,Socket G2 (988B),22.0,6MB,45.0,2012-04-29
+Core i7-3610QM,Ivy Bridge,4.0,2.3,Socket G2 (988B),22.0,6MB,45.0,2012-04-29
+Core i7-3612QE,Ivy Bridge,4.0,2.1,BGA 1023,22.0,6MB,35.0,2012-04-29
+Core i7-3612QM,Ivy Bridge,4.0,2.1,BGA 1224,22.0,6MB,35.0,2012-04-29
+Core i7-3612QM,Ivy Bridge,4.0,2.1,Socket G2 (988B),22.0,6MB,35.0,2012-04-29
+Core i7-3615QE,Ivy Bridge,4.0,2.3,BGA 1023,22.0,6MB,45.0,2012-04-29
+Core i7-3615QM,Ivy Bridge,4.0,2.3,BGA 1224,22.0,6MB,45.0,2012-04-29
+Core i7-3630QM,Ivy Bridge,4.0,2.4,Socket G2 (988B),22.0,6MB,45.0,2012-09-30
+Core i7-3632QM,Ivy Bridge,4.0,2.2,Socket G2 (988B),22.0,6MB,35.0,2012-10-19
+Core i7-3632QM,Ivy Bridge,4.0,2.2,BGA 1224,22.0,6MB,35.0,2012-10-19
+Core i7-3635QM,Ivy Bridge,4.0,2.4,BGA 1224,22.0,6MB,45.0,
+Core i7-3720QM,Ivy Bridge,4.0,2.6,Socket G2 (988B),22.0,6MB,45.0,2012-04-29
+Core i7-3720QM,Ivy Bridge,4.0,2.6,BGA 1224,22.0,6MB,45.0,2012-04-29
+Core i7-3740QM,Ivy Bridge,4.0,2.7,Socket G2 (988B),22.0,6MB,45.0,
+Core i7-3740QM,Ivy Bridge,4.0,2.7,BGA 1224,22.0,6MB,45.0,
+Core i7-3770,Ivy Bridge,4.0,3.4,Socket 1155,22.0,8MB,77.0,2012-04-29
+Core i7-3770K,Ivy Bridge,4.0,3.5,Socket 1155,22.0,8MB,77.0,2012-04-29
+Core i7-3770S,Ivy Bridge,4.0,3.1,Socket 1155,22.0,8MB,65.0,2012-04-29
+Core i7-3770T,Ivy Bridge,4.0,2.5,Socket 1155,22.0,8MB,45.0,2012-04-29
+Core i7-3820,Sandy Bridge-E,4.0,3.6,Socket 2011,32.0,10MB,130.0,2012-02-13
+Core i7-3820QM,Ivy Bridge,4.0,2.7,Socket G2 (988B),22.0,8MB,45.0,2012-04-29
+Core i7-3820QM,Ivy Bridge,4.0,2.7,BGA 1224,22.0,8MB,45.0,2012-04-29
+Core i7-3840QM,Ivy Bridge,4.0,2.8,Socket G2 (988B),22.0,8MB,45.0,
+Core i7-3840QM,Ivy Bridge,4.0,2.8,BGA 1224,22.0,8MB,45.0,
+Core i7-3920XM,Ivy Bridge,4.0,2.9,Socket G2 (988B),22.0,8MB,55.0,2012-04-29
+Core i7-3940XM,Ivy Bridge,4.0,3.0,Socket G2 (988B),22.0,8MB,55.0,
+Xeon E3-1105C,Gladden,4.0,1000.0,BGA 1283,32.0,6MB,25.0,2012-05-14
+Xeon E3-1125C,Gladden,4.0,2000.0,BGA 1283,32.0,8MB,40.0,2012-05-14
+Xeon E3-1220 v2,Ivy Bridge,4.0,3.1,Socket 1155,22.0,8MB,69.0,2012-05-14
+Xeon E3-1225 v2,Ivy Bridge,4.0,3.2,Socket 1155,22.0,8MB,77.0,2012-05-14
+Xeon E3-1230 v2,Ivy Bridge,4.0,3.3,Socket 1155,22.0,8MB,69.0,2012-05-14
+Xeon E3-1240 v2,Ivy Bridge,4.0,3.4,Socket 1155,22.0,8MB,69.0,2012-05-14
+Xeon E3-1245 v2,Ivy Bridge,4.0,3.4,Socket 1155,22.0,8MB,77.0,2012-05-14
+Xeon E3-1265L v2,Ivy Bridge,4.0,2.5,Socket 1155,22.0,8MB,45.0,2012-05-14
+Xeon E3-1270 v2,Ivy Bridge,4.0,3.5,Socket 1155,22.0,8MB,69.0,2012-05-14
+Xeon E3-1275 v2,Ivy Bridge,4.0,3.5,Socket 1155,22.0,8MB,77.0,2012-05-14
+Xeon E3-1280 v2,Ivy Bridge,4.0,3.6,Socket 1155,22.0,8MB,69.0,2012-05-14
+Xeon E3-1290 v2,Ivy Bridge,4.0,3.7,Socket 1155,22.0,8MB,87.0,2012-05-14
+Xeon E5-1410,Sandy Bridge-EN,4.0,2.8,Socket 1356,32.0,10MB,80.0,2012-05-14
+Xeon E5-1620,Sandy Bridge-E,4.0,3.6,Socket 2011,32.0,10MB,130.0,2012-03-06
+Xeon E5-2403,Sandy Bridge-EN,4.0,1800.0,Socket 1356,32.0,10MB,80.0,2012-05-14
+Xeon E5-2407,Sandy Bridge-EN,4.0,2.2,Socket 1356,32.0,10MB,80.0,2012-05-14
+Xeon E5-2418L,Sandy Bridge-EN,4.0,2.0,Socket 1356,32.0,10MB,50.0,2012-05-14
+Xeon E5-2603,Sandy Bridge-EP,4.0,1800.0,Socket 2011,32.0,10MB,80.0,2012-03-06
+Xeon E5-2609,Sandy Bridge-EP,4.0,2.4,Socket 2011,32.0,10MB,80.0,2012-03-06
+Xeon E5-2643,Sandy Bridge-EP,4.0,3.3,Socket 2011,32.0,10MB,130.0,2012-03-06
+Xeon E5-4603,Sandy Bridge-EP,4.0,2000.0,Socket 2011,32.0,10MB,95.0,2012-05-14
+FX-6120,Zambezi,6.0,3.6,Socket AM3+,32.0,8MB,95.0,
+FX-6130,Zambezi,6.0,3.6,Socket AM3+,32.0,8MB,95.0,
+FX-6200,Zambezi,6.0,3.8,Socket AM3+,32.0,8MB,125.0,2012-02-27
+FX-6300,Vishera,6.0,3.5,Socket AM3+,32.0,8MB,95.0,
+Opteron 4332 HE,Seoul,6.0,3.0,Socket C32,32.0,8MB,65.0,2012-12-04
+Opteron 4334,Seoul,6.0,3.1,Socket C32,32.0,8MB,95.0,2012-12-04
+Opteron 4340,Seoul,6.0,3.5,Socket C32,32.0,8MB,95.0,2012-12-04
+Core i7-3970X,Sandy Bridge-E,6.0,3.5,Socket 2011,32.0,15MB,150.0,
+Xeon E5-1428L,Sandy Bridge-EN,6.0,1800.0,Socket 1356,32.0,15MB,60.0,2012-05-14
+Xeon E5-1650,Sandy Bridge-E,6.0,3.2,Socket 2011,32.0,12MB,130.0,2012-03-06
+Xeon E5-1660,Sandy Bridge-E,6.0,3.3,Socket 2011,32.0,15MB,130.0,2012-03-06
+Xeon E5-2420,Sandy Bridge-EN,6.0,1.9,Socket 1356,32.0,15MB,95.0,2012-05-14
+Xeon E5-2428L,Sandy Bridge-EN,6.0,1.8,Socket 1356,32.0,15MB,60.0,2012-05-14
+Xeon E5-2430,Sandy Bridge-EN,6.0,2.2,Socket 1356,32.0,15MB,95.0,2012-05-14
+Xeon E5-2430L,Sandy Bridge-EN,6.0,2.0,Socket 1356,32.0,15MB,60.0,2012-05-14
+Xeon E5-2440,Sandy Bridge-EN,6.0,2.4,Socket 1356,32.0,15MB,95.0,2012-05-14
+Xeon E5-2620,Sandy Bridge-EP,6.0,2.0,Socket 2011,32.0,15MB,95.0,2012-03-06
+Xeon E5-2630,Sandy Bridge-EP,6.0,2.3,Socket 2011,32.0,15MB,95.0,2012-03-06
+Xeon E5-2630L,Sandy Bridge-EP,6.0,2.0,Socket 2011,32.0,15MB,60.0,2012-03-06
+Xeon E5-2640,Sandy Bridge-EP,6.0,2.5,Socket 2011,32.0,15MB,95.0,2012-03-06
+Xeon E5-2667,Sandy Bridge-EP,6.0,2.9,Socket 2011,32.0,15MB,130.0,2012-03-06
+Xeon E5-4607,Sandy Bridge-EP,6.0,2.2,Socket 2011,32.0,15MB,95.0,2012-05-14
+Xeon E5-4610,Sandy Bridge-EP,6.0,2.4,Socket 2011,32.0,15MB,130.0,2012-05-14
+Xeon E5-4617,Sandy Bridge-EP,6.0,2.9,Socket 2011,32.0,15MB,130.0,2012-05-14
+FX-8140,Zambezi,8.0,3.2,Socket AM3+,32.0,8MB,95.0,
+FX-8170,Zambezi,8.0,3.9,Socket AM3+,32.0,8MB,125.0,
+FX-8300,Vishera,8.0,3.3,Socket AM3+,32.0,8MB,95.0,
+FX-8320,Vishera,8.0,3.5,Socket AM3+,32.0,8MB,125.0,
+FX-8350,Vishera,8.0,4.0,Socket AM3+,32.0,8MB,125.0,
+Opteron 3380,Delhi,8.0,2.6,Socket AM3+,32.0,8MB,65.0,2012-12-04
+Opteron 4376 HE,Seoul,8.0,2.6,Socket C32,32.0,8MB,65.0,2012-12-04
+Opteron 4386,Seoul,8.0,3.1,Socket C32,32.0,8MB,95.0,2012-12-04
+Opteron 43GK HE,Seoul,8.0,2.6,Socket C32,32.0,8MB,65.0,2012-12-04
+Xeon E5-2448L,Sandy Bridge-EN,8.0,1.8,Socket 1356,32.0,20MB,70.0,2012-05-14
+Xeon E5-2450,Sandy Bridge-EN,8.0,2.1,Socket 1356,32.0,20MB,95.0,2012-05-14
+Xeon E5-2450L,Sandy Bridge-EN,8.0,1.8,Socket 1356,32.0,20MB,70.0,2012-05-14
+Xeon E5-2470,Sandy Bridge-EN,8.0,2.3,Socket 1356,32.0,20MB,95.0,2012-05-14
+Xeon E5-2648L,Sandy Bridge-EP,8.0,1.8,Socket 2011,32.0,20MB,70.0,2012-03-06
+Xeon E5-2650,Sandy Bridge-EP,8.0,2.0,Socket 2011,32.0,20MB,95.0,2012-03-06
+Xeon E5-2650L,Sandy Bridge-EP,8.0,1.8,Socket 2011,32.0,20MB,70.0,2012-03-06
+Xeon E5-2658,Sandy Bridge-EP,8.0,2.1,Socket 2011,32.0,20MB,95.0,2012-03-06
+Xeon E5-2660,Sandy Bridge-EP,8.0,2.2,Socket 2011,32.0,20MB,95.0,2012-03-06
+Xeon E5-2665,Sandy Bridge-EP,8.0,2.4,Socket 2011,32.0,20MB,115.0,2012-03-06
+Xeon E5-2670,Sandy Bridge-EP,8.0,2.6,Socket 2011,32.0,20MB,115.0,2012-03-06
+Xeon E5-2680,Sandy Bridge-EP,8.0,2.7,Socket 2011,32.0,20MB,130.0,2012-03-06
+Xeon E5-2687W,Sandy Bridge-EP,8.0,3.1,Socket 2011,32.0,20MB,150.0,2012-03-06
+Xeon E5-2690,Sandy Bridge-EP,8.0,2.9,Socket 2011,32.0,20MB,135.0,2012-03-06
+Xeon E5-4620,Sandy Bridge-EP,8.0,2.7,Socket 2011,32.0,16MB,130.0,2012-05-14
+Xeon E5-4640,Sandy Bridge-EP,8.0,2.4,Socket 2011,32.0,20MB,95.0,2012-05-14
+Xeon E5-4650,Sandy Bridge-EP,8.0,2.7,Socket 2011,32.0,20MB,130.0,2012-05-14
+Xeon E5-4650L,Sandy Bridge-EP,8.0,2.6,Socket 2011,32.0,20MB,115.0,2012-05-14
+Atom E3815,Bay Trail-I,1.0,1467.0,BGA 1170,22.0,,5.0,2013-10-08
+Atom Z2420,Penwell,1.0,1200.0,BGA 617,32.0,,3.0,
+Atom Z2480,Penwell,1.0,1400.0,BGA 617,32.0,,3.0,
+Celeron 947UE,Ivy Bridge,1.0,1400.0,BGA 1023,22.0,1MB,17.0,2013-01-20
+A4-1200,Temash,2.0,1000.0,Socket FT3,28.0,,4.0,
+A4-1250,Temash,2.0,1000.0,Socket FT3,28.0,,8.0,
+A4-4000,Richland,2.0,3.0,Socket FM2,32.0,,65.0,
+A4-5145M,Richland,2.0,2.0,Socket FP2,32.0,,17.0,
+A4-5150M,Richland,2.0,2.7,Socket FS1r2,32.0,,35.0,2013-03-12
+A4-6300,Richland,2.0,3.7,Socket FM2,32.0,,65.0,
+A4-6300B,Richland,2.0,3.7,Socket FM2,32.0,,65.0,
+A4-6320,Richland,2.0,3.8,Socket FM2,32.0,,65.0,
+A6-5345M,Richland,2.0,2.2,Socket FP2,32.0,,17.0,
+A6-5350M,Richland,2.0,2.9,Socket FS1r2,32.0,,35.0,
+A6-5357M,Richland,2.0,2.9,Socket FP2,32.0,,35.0,
+A6-6400B,Richland,2.0,3.9,Socket FM2,32.0,,65.0,
+A6-6400K,Richland,2.0,3.9,Socket FM2,32.0,,65.0,
+Athlon II X2 280,Regor,2.0,3.6,Socket AM3,45.0,,65.0,2013-02-06
+E1-1500,Zacate,2.0,1480.0,Socket FT1,40.0,,18.0,2013-01-06
+E1-2100,Kabini,2.0,1000.0,Socket FT3,28.0,,9.0,
+E1-2500,Kabini,2.0,1400.0,Socket FT3,28.0,,15.0,
+E2-2000,Zacate,2.0,1750.0,Socket FT1,40.0,,18.0,2013-01-06
+E2-3000,Kabini,2.0,1650.0,Socket FT3,28.0,,15.0,
+Atom E3825,Bay Trail-I,2.0,1333.0,BGA 1170,22.0,,6.0,2013-10-08
+Atom E3826,Bay Trail-I,2.0,1467.0,BGA 1170,22.0,,7.0,2013-10-08
+Atom E3827,Bay Trail-I,2.0,1750.0,BGA 1170,22.0,,8.0,2013-10-08
+Atom Z2520,Clovertrail,2.0,1200.0,BGA 617,32.0,,3.0,2013-02-27
+Atom Z2560,Clovertrail,2.0,1600.0,BGA 617,32.0,,3.0,2013-02-27
+Atom Z2580,Clovertrail,2.0,2000.0,BGA 617,32.0,,3.0,2013-02-27
+Celeron 1000M,Ivy Bridge,2.0,1800.0,Socket G2 (988B),22.0,2MB,35.0,2013-01-20
+Celeron 1007U,Ivy Bridge,2.0,1500.0,BGA 1023,22.0,2MB,17.0,2013-01-20
+Celeron 1020E,Ivy Bridge,2.0,2.2,Socket G2 (988B),22.0,2MB,35.0,2013-01-20
+Celeron 1020E,Ivy Bridge,2.0,2.2,BGA 1023,22.0,2MB,35.0,2013-01-20
+Celeron 1020M,Ivy Bridge,2.0,2.1,Socket G2 (988B),22.0,2MB,35.0,2013-01-20
+Celeron 1037U,Ivy Bridge,2.0,1800.0,BGA 1023,22.0,2MB,17.0,2013-01-20
+Celeron 1047UE,Ivy Bridge,2.0,1400.0,BGA 1023,22.0,2MB,17.0,2013-01-20
+Celeron 2950M,Haswell,2.0,2000.0,Socket G3,22.0,2MB,37.0,
+Celeron 2950M,Haswell,2.0,2000.0,Socket G2 (988B),22.0,2MB,37.0,
+Celeron 2955U,Haswell,2.0,1400.0,Socket G2 (988B),22.0,2MB,15.0,
+Celeron 2955U,Haswell,2.0,1400.0,Socket G3,22.0,2MB,15.0,
+Celeron 2961Y,Haswell,2.0,1100.0,BGA 1168,22.0,2MB,12.0,
+Celeron 2980U,Haswell,2.0,1600.0,Socket G3,22.0,2MB,15.0,
+Celeron G1620T,Ivy Bridge,2.0,2.4,Socket 1155,22.0,2MB,35.0,
+Celeron G1630,Ivy Bridge,2.0,2.8,Socket 1155,22.0,2MB,55.0,
+Celeron G1820,Haswell,2.0,2.7,Socket 1150,22.0,3MB,54.0,
+Celeron G1820T,Haswell,2.0,2.4,Socket 1150,22.0,3MB,54.0,
+Celeron G1820TE,Haswell,2.0,2.2,Socket 1150,22.0,3MB,54.0,
+Celeron G1830,Haswell,2.0,2.8,Socket 1150,22.0,3MB,54.0,
+Celeron N2805,Bay Trail-M,2.0,1463.0,BGA 1170,22.0,,4.0,2013-09-11
+Celeron N2806,Bay Trail-M,2.0,1.58,BGA 1170,22.0,,4.0,
+Celeron N2810,Bay Trail-M,2.0,2000.0,BGA 1170,22.0,,7.0,2013-09-11
+Celeron N2820,Bay Trail-M,2.0,2.17,BGA 1170,22.0,,7.0,
+Core i3-3227U,Ivy Bridge,2.0,1900.0,BGA 1023,22.0,3MB,17.0,2013-01-08
+Core i3-3229Y,Ivy Bridge,2.0,1400.0,BGA 1023,22.0,3MB,13.0,2013-01-08
+Core i3-4000M,Haswell,2.0,2.4,Socket G3,22.0,3MB,37.0,2013-09-04
+Core i3-4005U,Haswell,2.0,1700.0,BGA 1168,22.0,3MB,15.0,2013-09-04
+Core i3-4010U,Haswell,2.0,1700.0,BGA 1168,22.0,3MB,15.0,2013-06-04
+Core i3-4010Y,Haswell,2.0,1300.0,BGA 1168,22.0,3MB,12.0,2013-06-04
+Core i3-4100E,Haswell,2.0,2.4,BGA 1364,22.0,3MB,37.0,2013-09-04
+Core i3-4100U,Haswell,2.0,1800.0,BGA 1168,22.0,3MB,15.0,2013-06-04
+Core i3-4102E,Haswell,2.0,1600.0,BGA 1364,22.0,3MB,25.0,2013-09-04
+Core i3-4130,Haswell,2.0,3.4,Socket 1150,22.0,3MB,54.0,
+Core i3-4130T,Haswell,2.0,2.9,Socket 1150,22.0,3MB,35.0,
+Core i3-4158U,Haswell,2.0,2000.0,BGA 1168,22.0,3MB,28.0,2013-06-04
+Core i3-4330,Haswell,2.0,3.5,Socket 1150,22.0,4MB,54.0,
+Core i3-4330T,Haswell,2.0,3.0,Socket 1150,22.0,4MB,35.0,
+Core i3-4340,Haswell,2.0,3.6,Socket 1150,22.0,4MB,54.0,
+Core i5-3339Y,Ivy Bridge,2.0,1.5,BGA 1023,22.0,3MB,13.0,2013-01-08
+Core i5-3439Y,Ivy Bridge,2.0,1.5,BGA 1023,22.0,3MB,13.0,2013-01-08
+Core i5-4200U,Haswell,2.0,1.6,BGA 1168,22.0,3MB,15.0,2013-06-04
+Core i5-4200Y,Haswell,2.0,1400.0,BGA 1168,22.0,3MB,12.0,2013-06-04
+Core i5-4250U,Haswell,2.0,1.3,BGA 1168,22.0,3MB,15.0,2013-06-04
+Core i5-4258U,Haswell,2.0,2.4,BGA 1168,22.0,3MB,28.0,2013-06-04
+Core i5-4288U,Haswell,2.0,2.6,BGA 1168,22.0,3MB,28.0,2013-06-04
+Core i5-4300M,Haswell,2.0,2.6,Socket G3,22.0,3MB,37.0,
+Core i5-4330M,Haswell,2.0,2.8,Socket G3,22.0,3MB,37.0,
+Core i5-4350U,Haswell,2.0,1.4,BGA 1168,22.0,3MB,15.0,2013-06-04
+Core i5-4570T,Haswell,2.0,2.9,Socket 1150,22.0,4MB,35.0,
+Core i5-4570TE,Haswell,2.0,2.7,Socket 1150,22.0,4MB,35.0,
+Core i7-3537U,Ivy Bridge,2.0,2.0,BGA 1023,22.0,4MB,17.0,2013-01-08
+Core i7-3540M,Ivy Bridge,2.0,3.0,BGA 1023,22.0,4MB,35.0,2013-01-08
+Core i7-3540M,Ivy Bridge,2.0,3.0,Socket G2 (988B),22.0,4MB,35.0,2013-01-08
+Core i7-3687U,Ivy Bridge,2.0,2.1,BGA 1023,22.0,4MB,17.0,2013-01-08
+Core i7-3689Y,Ivy Bridge,2.0,1.5,BGA 1023,22.0,4MB,13.0,2013-01-08
+Core i7-4500U,Haswell-ULT,2.0,1.8,BGA 1168,22.0,4MB,15.0,2013-06-04
+Core i7-4550U,Haswell-ULT,2.0,1.5,BGA 1168,22.0,4MB,15.0,2013-06-04
+Core i7-4558U,Haswell-ULT,2.0,2.8,BGA 1168,22.0,4MB,28.0,2013-06-04
+Core i7-4600M,Haswell,2.0,2.9,Socket G3,22.0,4MB,37.0,
+Core i7-4600U,Haswell-ULT,2.0,2.1,BGA 1168,22.0,4MB,15.0,
+Core i7-4650U,Haswell-ULT,2.0,1.7,BGA 1168,22.0,4MB,15.0,2013-06-04
+Pentium 2030M,Ivy Bridge,2.0,2.5,Socket G2 (988B),22.0,2MB,35.0,
+Pentium 3550M,Haswell,2.0,2.3,Socket G3,22.0,2MB,37.0,
+Pentium 3556U,Haswell,2.0,1700.0,BGA 1168,22.0,2MB,15.0,
+Pentium 3560Y,Haswell,2.0,1200.0,BGA 1168,22.0,2MB,12.0,
+Pentium 987,Sandy Bridge,2.0,1500.0,BGA 1023,32.0,2MB,17.0,
+Pentium G2010,Ivy Bridge,2.0,2.8,Socket 1155,22.0,3MB,55.0,
+Pentium G2020,Ivy Bridge,2.0,2.9,Socket 1155,22.0,3MB,55.0,
+Pentium G2020T,Ivy Bridge,2.0,2.5,Socket 1155,22.0,3MB,35.0,
+Pentium G2130,Ivy Bridge,2.0,3.2,Socket 1155,22.0,3MB,55.0,
+Pentium G3220,Haswell,2.0,3.0,Socket 1150,22.0,3MB,54.0,
+Pentium G3220T,Haswell,2.0,2.6,Socket 1150,22.0,3MB,35.0,
+Pentium G3420,Haswell,2.0,3.2,Socket 1150,22.0,3MB,54.0,
+Pentium G3420T,Haswell,2.0,2.7,Socket 1150,22.0,3MB,35.0,
+Pentium G3430,Haswell,2.0,3.3,Socket 1150,22.0,3MB,54.0,
+Xeon E3-1220L v3,Haswell-WS,2.0,1.6,Socket 1150,22.0,4MB,16.0,
+A10-5745M,Richland,4.0,2.1,Socket FP2,32.0,,25.0,
+A10-5750M,Richland,4.0,2.5,Socket FS1r2,32.0,,35.0,
+A10-5757M,Richland,4.0,2.5,Socket FP2,32.0,,35.0,
+A10-6700,Richland,4.0,3.7,Socket FM2,32.0,,65.0,
+A10-6700T,Richland,4.0,2.5,Socket FM2,32.0,,45.0,2013-09-16
+A10-6790B,Richland,4.0,4.0,Socket FM2,32.0,,100.0,2013-10-28
+A10-6790K,Richland,4.0,4.0,Socket FM2,32.0,,100.0,2013-10-28
+A10-6800K,Richland,4.0,4.1,Socket FM2,32.0,,100.0,
+A4-1350,Temash,4.0,1000.0,Socket FT3,28.0,,8.0,2013-10-18
+A4-5000,Kabini,4.0,1500.0,Socket FT3,28.0,,15.0,
+A6-1450,Temash,4.0,1000.0,Socket FT3,28.0,,8.0,
+A6-5200,Kabini,4.0,2000.0,Socket FT3,28.0,,25.0,
+A8-5545M,Richland,4.0,1.7,Socket FP2,32.0,,25.0,
+A8-5550M,Richland,4.0,2.1,Socket FS1r2,32.0,,35.0,
+A8-5557M,Richland,4.0,2.1,Socket FP2,32.0,,35.0,
+A8-6500,Richland,4.0,3.5,Socket FM2,32.0,,65.0,
+A8-6500B,Richland,4.0,3.5,Socket FM2,32.0,,65.0,
+A8-6500T,Richland,4.0,2.1,Socket FM2,32.0,,45.0,2013-09-16
+A8-6600K,Richland,4.0,3.9,Socket FM2,32.0,,100.0,
+Athlon X4 750,Richland,4.0,3.4,Socket FM2,32.0,,65.0,
+Athlon X4 760K,Richland,4.0,3.8,Socket FM2,32.0,,100.0,
+E2-3800,Kabini,4.0,1300.0,Socket FT3,28.0,,15.0,
+FX-4130,Vishera,4.0,3.8,Socket AM3+,32.0,8MB,125.0,2013-01-30
+FX-4350,Vishera,4.0,4.2,Socket AM3+,32.0,8MB,125.0,2013-04-29
+Opteron X1150,Kyoto,4.0,2000.0,Socket FT3,28.0,,17.0,2013-05-29
+Opteron X2150,Kyoto,4.0,1900.0,Socket FT3,28.0,,22.0,2013-05-29
+Atom E3845,Bay Trail-I,4.0,1910.0,BGA 1170,22.0,,10.0,2013-10-08
+Atom Z3740,Bay Trail-T,4.0,1333.0,BGA 1380,22.0,,2.0,2013-09-27
+Atom Z3770,Bay Trail-T,4.0,1.467,BGA 1380,22.0,,8.0,2013-09-27
+Celeron N2910,Bay Trail-M,4.0,1600.0,BGA 1170,22.0,,7.0,2013-09-11
+Celeron N2920,Bay Trail-M,4.0,1.86,BGA 1170,22.0,,7.0,
+Core i5-4430,Haswell,4.0,3.0,Socket 1150,22.0,6MB,84.0,
+Core i5-4430S,Haswell,4.0,2.7,Socket 1150,22.0,6MB,65.0,
+Core i5-4440,Haswell,4.0,3.1,Socket 1150,22.0,6MB,84.0,
+Core i5-4440S,Haswell,4.0,2.8,Socket 1150,22.0,6MB,65.0,
+Core i5-4570,Haswell,4.0,3.2,Socket 1150,22.0,6MB,84.0,
+Core i5-4570R,Haswell,4.0,2.7,BGA 1364,22.0,4MB,65.0,
+Core i5-4570S,Haswell,4.0,2.9,Socket 1150,22.0,6MB,65.0,
+Core i5-4670,Haswell,4.0,3.4,Socket 1150,22.0,6MB,84.0,
+Core i5-4670K,Haswell,4.0,3.4,Socket 1150,22.0,6MB,84.0,
+Core i5-4670R,Haswell,4.0,3.0,BGA 1364,22.0,4MB,65.0,
+Core i5-4670S,Haswell,4.0,3.1,Socket 1150,22.0,6MB,65.0,
+Core i5-4670T,Haswell,4.0,2.3,Socket 1150,22.0,6MB,45.0,
+Core i7-4700EQ,Haswell,4.0,2.4,BGA 1364,22.0,8MB,47.0,2013-05-27
+Core i7-4700HQ,Crystalwell,4.0,2.4,BGA 1364,22.0,6MB,47.0,2013-05-27
+Core i7-4700MQ,Haswell,4.0,2.4,Socket G3,22.0,6MB,47.0,2013-05-27
+Core i7-4702HQ,Crystalwell,4.0,2.2,BGA 1364,22.0,6MB,37.0,2013-05-27
+Core i7-4702MQ,Haswell,4.0,2.2,Socket G3,22.0,6MB,37.0,2013-05-27
+Core i7-4710MQ,Haswell,4.0,2.5,Socket G3,22.0,6MB,47.0,2013-04-14
+Core i7-4712MQ,Haswell,4.0,2.3,Socket G3,22.0,6MB,37.0,2013-04-14
+Core i7-4750HQ,Crystalwell,4.0,2.0,BGA 1364,22.0,6MB,47.0,2013-05-27
+Core i7-4765T,Haswell,4.0,2.0,Socket 1150,22.0,8MB,35.0,
+Core i7-4770,Haswell,4.0,3.4,Socket 1150,22.0,8MB,84.0,
+Core i7-4770K,Haswell,4.0,3.5,Socket 1150,22.0,8MB,84.0,
+Core i7-4770R,Haswell,4.0,3.2,BGA 1364,22.0,6MB,65.0,
+Core i7-4770S,Haswell,4.0,3.1,Socket 1150,22.0,8MB,65.0,
+Core i7-4770T,Haswell,4.0,2.5,Socket 1150,22.0,8MB,45.0,
+Core i7-4770TE,Haswell,4.0,2.3,Socket 1150,22.0,8MB,45.0,
+Core i7-4771,Haswell,4.0,3.5,Socket 1150,22.0,8MB,84.0,
+Core i7-4785T,Haswell,4.0,2.2,Socket 1150,22.0,8MB,35.0,
+Core i7-4800MQ,Haswell,4.0,2.7,Socket G3,22.0,6MB,47.0,2013-04-29
+Core i7-4820K,Ivy Bridge-E,4.0,3.7,Socket 2011,22.0,10MB,130.0,
+Core i7-4850EQ,Crystalwell,4.0,1.6,BGA 1364,22.0,8MB,47.0,2013-08-29
+Core i7-4850HQ,Crystalwell,4.0,2.3,BGA 1364,22.0,6MB,47.0,2013-04-29
+Core i7-4860EQ,Crystalwell,4.0,1.8,BGA 1364,22.0,8MB,47.0,2013-08-29
+Core i7-4900MQ,Haswell,4.0,2.8,Socket G3,22.0,8MB,47.0,
+Core i7-4930MX,Haswell,4.0,3.0,Socket G3,22.0,8MB,57.0,2013-04-29
+Core i7-4950HQ,Crystalwell,4.0,2.4,BGA 1364,22.0,6MB,47.0,2013-06-07
+Core i7-4960HQ,Crystalwell,4.0,2.6,BGA 1364,22.0,8MB,47.0,
+Core i7-4980HQ,Crystalwell,4.0,2.8,BGA 1364,22.0,6MB,47.0,
+Xeon E3-1220 v3,Haswell-WS,4.0,3.1,Socket 1150,22.0,8MB,80.0,
+Xeon E3-1225 v3,Haswell-WS,4.0,3.2,Socket 1150,22.0,8MB,84.0,
+Xeon E3-1230 v3,Haswell-WS,4.0,3.3,Socket 1150,22.0,8MB,80.0,
+Xeon E3-1230L v3,Haswell-WS,4.0,1.8,Socket 1150,22.0,8MB,25.0,
+Xeon E3-1240 v3,Haswell-WS,4.0,3.4,Socket 1150,22.0,8MB,80.0,
+Xeon E3-1245 v3,Haswell-WS,4.0,3.4,Socket 1150,22.0,8MB,84.0,
+Xeon E3-1265L v3,Haswell-WS,4.0,2.5,Socket 1150,22.0,8MB,45.0,
+Xeon E3-1270 v3,Haswell-WS,4.0,3.5,Socket 1150,22.0,8MB,80.0,
+Xeon E3-1275 v3,Haswell-WS,4.0,3.5,Socket 1150,22.0,8MB,84.0,
+Xeon E3-1280 v3,Haswell-WS,4.0,3.6,Socket 1150,22.0,8MB,82.0,
+Xeon E3-1285 v3,Haswell-WS,4.0,3.6,Socket 1150,22.0,8MB,84.0,
+Xeon E3-1285L v3,Haswell-WS,4.0,3.1,Socket 1150,22.0,8MB,65.0,
+Xeon E5-1607 v2,Ivy Bridge-E,4.0,3.0,Socket 2011,22.0,10MB,130.0,2013-09-10
+Xeon E5-1620 v2,Ivy Bridge-E,4.0,3.7,Socket 2011,22.0,10MB,130.0,2013-09-10
+Xeon E5-2403 v2,Ivy Bridge-EN,4.0,1800.0,Socket 1356,22.0,10MB,80.0,
+Xeon E5-2407 v2,Ivy Bridge-EN,4.0,2.4,Socket 1356,22.0,10MB,80.0,
+Xeon E5-2603 v2,Ivy Bridge-EP,4.0,1800.0,Socket 2011,22.0,10MB,80.0,
+Xeon E5-2609 v2,Ivy Bridge-EP,4.0,2.5,Socket 2011,22.0,10MB,80.0,
+Xeon E5-2637 v2,Ivy Bridge-EP,4.0,3.5,Socket 2011,22.0,10MB,130.0,
+FX-6350,Vishera,6.0,3.9,Socket AM3+,32.0,8MB,125.0,2013-04-29
+Core i7-3910K,Sandy Bridge-E,6.0,3.0,Socket 2011,32.0,12MB,130.0,2013-07-24
+Core i7-4930K,Ivy Bridge-E,6.0,3.4,Socket 2011,22.0,12MB,130.0,
+Core i7-4960X,Ivy Bridge-E,6.0,3.6,Socket 2011,22.0,15MB,130.0,
+Xeon E5-1650 v2,Ivy Bridge-E,6.0,3.5,Socket 2011,22.0,12MB,130.0,2013-09-10
+Xeon E5-1660 v2,Ivy Bridge-E,6.0,3.7,Socket 2011,22.0,15MB,130.0,2013-09-10
+Xeon E5-2420 v2,Ivy Bridge-EN,6.0,2.2,Socket 1356,22.0,15MB,80.0,
+Xeon E5-2430 v2,Ivy Bridge-EN,6.0,2.5,Socket 1356,22.0,15MB,80.0,
+Xeon E5-2620 v2,Ivy Bridge-EP,6.0,2.1,Socket 2011,22.0,15MB,80.0,
+Xeon E5-2630 v2,Ivy Bridge-EP,6.0,2.6,Socket 2011,22.0,15MB,80.0,
+Xeon E5-2630L v2,Ivy Bridge-EP,6.0,2.4,Socket 2011,22.0,15MB,60.0,
+Xeon E5-2643 v2,Ivy Bridge-EP,6.0,3.5,Socket 2011,22.0,15MB,130.0,
+FX-9370,Vishera,8.0,4.4,Socket AM3+,32.0,8MB,220.0,2013-06-11
+FX-9590,Vishera,8.0,4.7,Socket AM3+,32.0,8MB,220.0,2013-06-11
+Xeon E5-1680 v2,Ivy Bridge-EP,8.0,3.0,Socket 2011,22.0,25MB,130.0,2013-09-10
+Xeon E5-2440 v2,Ivy Bridge-EN,8.0,1900.0,Socket 1356,22.0,20MB,95.0,
+Xeon E5-2450 v2,Ivy Bridge-EN,8.0,2.5,Socket 1356,22.0,20MB,95.0,
+Xeon E5-2640 v2,Ivy Bridge-EP,8.0,2000.0,Socket 2011,22.0,20MB,95.0,
+Xeon E5-2650 v2,Ivy Bridge-EP,8.0,2.6,Socket 2011,22.0,20MB,95.0,
+Xeon E5-2667 v2,Ivy Bridge-EP,8.0,3.3,Socket 2011,22.0,20MB,130.0,
+Xeon E5-2687W v2,Ivy Bridge-EP,8.0,3.4,Socket 2011,22.0,20MB,130.0,
